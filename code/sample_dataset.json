@@ -1,0 +1,1465 @@
+[
+  {
+    "id": "train_001",
+    "text": "[POLITICIAN] රාජපක්ෂ [/POLITICIAN] අල්ලස් ගත්තා bola police aragena",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "CRIME",
+    "label_subcategory": "ECONOMIC_CRIME"
+  }, 
+  {
+    "id": "train_002",
+    "text": "[POLITICIAN] Rajapaksha [/POLITICIAN] bribe ekak gatta kiyala news ekata aawa",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "CRIME",
+    "label_subcategory": "ECONOMIC_CRIME" 
+  },
+  {
+    "id": "train_003",
+    "text": "[POLITICIAN] රාජපක්ෂ [/POLITICIAN] bribe ගත්තේ නෑ kiyala deny kළා",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "CRIME",
+    "label_subcategory": "ECONOMIC_CRIME"
+  },
+  {
+    "id": "train_004",
+    "text": "[PRIVATE_CITIZEN] Nimal [/PRIVATE_CITIZEN] private number 0771234567 call karanna",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "LEAK",
+    "label_subcategory": "IDENTITY_DATA"
+  },
+  {
+    "id": "train_005",
+    "text": "[PUBLIC_FIGURE] Dilhani [/PUBLIC_FIGURE] ge medical records online leak una",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "LEAK",
+    "label_subcategory": "SENSITIVE_RECORD"
+  },
+  {
+    "id": "train_006",
+    "text": "[PRIVATE_CITIZEN] කමල් [/PRIVATE_CITIZEN] ගේ රෝහල් වාර්තා ලීක් වුනා",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "LEAK",
+    "label_subcategory": "SENSITIVE_RECORD"
+  },
+  {
+    "id": "train_007",
+    "text": "[PRIVATE_CITIZEN] Kamal [/PRIVATE_CITIZEN] HIV positive kiyala danawa",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "HEALTH",
+    "label_subcategory": "STIGMATIZED_CONDITION"
+  },
+  {
+    "id": "train_008",
+    "text": "[PRIVATE_CITIZEN] සුනිල් [/PRIVATE_CITIZEN] මානසික රෝගියෙක් කියලා කිව්වා",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "HEALTH",
+    "label_subcategory": "STIGMATIZED_CONDITION"
+  },
+  {
+    "id": "train_009",
+    "text": "[POLITICIAN] Perera [/POLITICIAN] ge bank account details leak una",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "LEAK",
+    "label_subcategory": "SENSITIVE_RECORD"
+  },
+  {
+    "id": "train_010",
+    "text": "[GOVT_OFFICIAL] මෙනිකේ [/GOVT_OFFICIAL] ගේ දේපල ප්‍රකාශය ලීක් කළා",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "LEAK",
+    "label_subcategory": "SENSITIVE_RECORD"
+  },
+  {
+    "id": "train_011",
+    "text": "[PRIVATE_CITIZEN] Mohamed [/PRIVATE_CITIZEN] Muslim nisa wage hukannawa",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "DISCRIMINATION",
+    "label_subcategory": "IDENTITY_TARGETING"
+  },
+  {
+    "id": "train_012",
+    "text": "[PRIVATE_CITIZEN] Tamil [/PRIVATE_CITIZEN] kෙනෙක් නිසා job dunneh næ",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "DISCRIMINATION",
+    "label_subcategory": "IDENTITY_TARGETING"
+  },
+  {
+    "id": "train_013",
+    "text": "[POLITICIAN] Silva [/POLITICIAN] corruption kළා kiyanne poduwe katha",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "DEFAMATION",
+    "label_subcategory": "UNVERIFIED_CLAIM"
+  },
+  {
+    "id": "train_014",
+    "text": "[PUBLIC_FIGURE] Perera [/PUBLIC_FIGURE] drugs ganna kiyala baseless rumour",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "DEFAMATION",
+    "label_subcategory": "UNVERIFIED_CLAIM"
+  },
+  {
+    "id": "train_015",
+    "text": "[PUBLIC_FIGURE] Dilhani [/PUBLIC_FIGURE] award ceremony eke stage eke hitiya",
+    "label_disclosure": "INFORMATIVE",
+    "label_risk": "NEUTRAL",
+    "label_subcategory": "NONE"
+  },
+  {
+    "id": "train_016",
+    "text": "[POLITICIAN] රාජපක්ෂ [/POLITICIAN] ව්‍යාපෘතිය විවෘත කළා",
+    "label_disclosure": "INFORMATIVE",
+    "label_risk": "NEUTRAL",
+    "label_subcategory": "NONE"
+  },
+  {
+    "id": "train_017",
+    "text": "api ge shop ekata call karanna [PRIVATE_CITIZEN] Nimal [/PRIVATE_CITIZEN] 0771234567",
+    "label_disclosure": "INFORMATIVE",
+    "label_risk": "NEUTRAL",
+    "label_subcategory": "NONE"
+  },
+  {
+    "id": "train_018",
+    "text": "[PUBLIC_FIGURE] Dilhani [/PUBLIC_FIGURE] official press contact 0112345678 call karanna",
+    "label_disclosure": "INFORMATIVE",
+    "label_risk": "NEUTRAL",
+    "label_subcategory": "NONE"
+  },
+  {
+    "id": "train_019",
+    "text": "[GOVT_OFFICIAL] Kumara [/GOVT_OFFICIAL] hotline number 1919 public info",
+    "label_disclosure": "INFORMATIVE",
+    "label_risk": "NEUTRAL",
+    "label_subcategory": "NONE"
+  },
+  {
+    "id": "train_020",
+    "text": "[POLITICIAN] ප්‍රේමදාස [/POLITICIAN] පාර්ලිමේන්තුවේ කතා කළා",
+    "label_disclosure": "INFORMATIVE",
+    "label_risk": "NEUTRAL",
+    "label_subcategory": "NONE"
+  },
+  {
+    "id": "train_021",
+    "text": "[PRIVATE_CITIZEN] Kamal [/PRIVATE_CITIZEN] ge personal address 45 Galle Road leak una",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "LEAK",
+    "label_subcategory": "IDENTITY_DATA"
+  },
+  {
+    "id": "train_022",
+    "text": "[POLITICIAN] Rajapaksha [/POLITICIAN] arrested for fraud charges police confirmed",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "CRIME",
+    "label_subcategory": "CRIMINAL_PROCEEDING"
+  },
+  {
+    "id": "train_023",
+    "text": "[PRIVATE_CITIZEN] Nimal [/PRIVATE_CITIZEN] NIC number 199012345678 social media share una",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "LEAK",
+    "label_subcategory": "IDENTITY_DATA"
+  },
+  {
+    "id": "train_024",
+    "text": "api weda karanne [PUBLIC_FIGURE] Dilhani [/PUBLIC_FIGURE] ge foundation eke volunteer widihata",
+    "label_disclosure": "INFORMATIVE",
+    "label_risk": "NEUTRAL",
+    "label_subcategory": "NONE"
+  },
+  {
+    "id": "train_025",
+    "text": "[POLITICIAN] Silva [/POLITICIAN] tax evasion kළා kiyala court documents leak una",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "LEAK",
+    "label_subcategory": "SENSITIVE_RECORD"
+  },
+  {
+    "id": "train_026",
+    "text": "[PRIVATE_CITIZEN] Sunil [/PRIVATE_CITIZEN] office eke girl kenekta sexually harass kළා complaint dunna",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "CRIME",
+    "label_subcategory": "VIOLENT_CRIME"
+  },
+  {
+    "id": "train_027",
+    "text": "[POLITICIAN] Silva [/POLITICIAN] ට sexual harassment allegations dunna former staff member kekek media ekata",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "CRIME",
+    "label_subcategory": "VIOLENT_CRIME"
+  },
+  {
+    "id": "train_028",
+    "text": "[PRIVATE_CITIZEN] කමල් [/PRIVATE_CITIZEN] තමන්ගේ බිරිඳට ගහල මරල දැම්මා කියලා police case",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "CRIME",
+    "label_subcategory": "VIOLENT_CRIME"
+  },
+  {
+    "id": "train_029",
+    "text": "[PUBLIC_FIGURE] Perera [/PUBLIC_FIGURE] minor kenekta sexual abuse kළා kiyala victim ge family complaint dunna",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "CRIME",
+    "label_subcategory": "VIOLENT_CRIME"
+  },
+  {
+    "id": "train_030",
+    "text": "[PRIVATE_CITIZEN] Ranjith [/PRIVATE_CITIZEN] ge daughter ව domestic violence නිසා hospital admit kළා",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "CRIME",
+    "label_subcategory": "VIOLENT_CRIME"
+  },
+  {
+    "id": "train_031",
+    "text": "[POLITICIAN] රාජපක්ෂ [/POLITICIAN] ge bodyguard journalist කෙනෙක්ට ගහල බරපතල තුවාල කරලා",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "CRIME",
+    "label_subcategory": "VIOLENT_CRIME"
+  },
+  {
+    "id": "train_032",
+    "text": "[PRIVATE_CITIZEN] Sandun [/PRIVATE_CITIZEN] school teacher widihata female students ට inappropriately touch kළa kiyala parents complain",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "CRIME",
+    "label_subcategory": "VIOLENT_CRIME"
+  },
+  {
+    "id": "train_033",
+    "text": "[PUBLIC_FIGURE] Dilhani [/PUBLIC_FIGURE] ව ඇගේ ex-husband විසින් මරාගෙන දැම්මා කියලා news",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "CRIME",
+    "label_subcategory": "VIOLENT_CRIME"
+  },
+  {
+    "id": "train_034",
+    "text": "[POLITICIAN] සිල්වා ඇමති [/POLITICIAN] කොන්ත්‍රාත්කරුවාගෙන් අල්ලසක් ලබා ගත්තා කියලා වාර්තා",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "CRIME",
+    "label_subcategory": "ECONOMIC_CRIME"
+  },
+  {
+    "id": "train_035",
+    "text": "[POLITICIAN] Silva minister [/POLITICIAN] contractor kenekgen lakshayak allasak gathta",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "CRIME",
+    "label_subcategory": "ECONOMIC_CRIME"
+  },
+  {
+    "id": "train_036",
+    "text": "[POLITICIAN] Silva [/POLITICIAN] contractor kenekgen 50 lakh ක් allasak ලබා ගත්තා කියලා tape leak",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "CRIME",
+    "label_subcategory": "ECONOMIC_CRIME"
+  },
+  {
+    "id": "train_037",
+    "text": "[POLITICIAN] ප්‍රේමදාස [/POLITICIAN] රාජ්‍ය මුදල් වංචා කලා කියලා auditor general වාර්තාවේ",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "CRIME",
+    "label_subcategory": "ECONOMIC_CRIME"
+  },
+  {
+    "id": "train_038",
+    "text": "[POLITICIAN] Premadasa [/POLITICIAN] public funds embezzle kala kiyala report una",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "CRIME",
+    "label_subcategory": "ECONOMIC_CRIME"
+  },
+  {
+    "id": "train_039",
+    "text": "[POLITICIAN] Premadasa [/POLITICIAN] millions ගානක public funds වංචා කලා කියලා investigation",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "CRIME",
+    "label_subcategory": "ECONOMIC_CRIME"
+  },
+  {
+    "id": "train_040",
+    "text": "[PRIVATE_CITIZEN] සමන් [/PRIVATE_CITIZEN] බදු වංචා කලා කියලා revenue දෙපාර්තමේන්තුව ශෝධනය කරනවා",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "CRIME",
+    "label_subcategory": "ECONOMIC_CRIME"
+  },
+  {
+    "id": "train_041",
+    "text": "[PRIVATE_CITIZEN] Saman [/PRIVATE_CITIZEN] tax evasion kala kiyala revenue dept investigate karanawa",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "CRIME",
+    "label_subcategory": "ECONOMIC_CRIME"
+  },
+  {
+    "id": "train_042",
+    "text": "[PRIVATE_CITIZEN] Saman [/PRIVATE_CITIZEN] businessman 100 million tax වංචා කරපු hadi",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "CRIME",
+    "label_subcategory": "ECONOMIC_CRIME"
+  },
+  {
+    "id": "train_043",
+    "text": "[GOVT_OFFICIAL] ධර්මසිරි [/GOVT_OFFICIAL] වෙළඳ බලපත්‍රයකට අල්ලස් ගත්තා කියලා CIABOC කේස් ගොනු",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "CRIME",
+    "label_subcategory": "ECONOMIC_CRIME"
+  },
+  {
+    "id": "train_044",
+    "text": "[GOVT_OFFICIAL] Dharmasiri [/GOVT_OFFICIAL] business license ekakata bribe gathta kiyala witness",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "CRIME",
+    "label_subcategory": "ECONOMIC_CRIME"
+  },
+  {
+    "id": "train_045",
+    "text": "[GOVT_OFFICIAL] Dharmasiri [/GOVT_OFFICIAL] business license dennata bribe ඉල්ලුවා කියලා recording leak",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "CRIME",
+    "label_subcategory": "ECONOMIC_CRIME"
+  },
+  {
+    "id": "train_046",
+    "text": "[POLITICIAN] ෆර්නැන්ඩෝ [/POLITICIAN] නීති විරෝධී දේපල රැස්කර ගත්තා කියලා FCID පරීක්ෂණ",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "CRIME",
+    "label_subcategory": "ECONOMIC_CRIME"
+  },
+  {
+    "id": "train_047",
+    "text": "[POLITICIAN] Fernando [/POLITICIAN] illegal assets accumulate kala kiyala FCID balanawa",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "CRIME",
+    "label_subcategory": "ECONOMIC_CRIME"
+  },
+  {
+    "id": "train_048",
+    "text": "[POLITICIAN] Fernando [/POLITICIAN] declared income walata wada properties තියෙනවා කියලා CIABOC",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "CRIME",
+    "label_subcategory": "ECONOMIC_CRIME"
+  },
+  {
+    "id": "train_049",
+    "text": "[PRIVATE_CITIZEN] ජයන්ත [/PRIVATE_CITIZEN] බැංකු කළමනාකරු ගනුදෙනුකරුවන්ගේ ගිණුම් වංචා කලා",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "CRIME",
+    "label_subcategory": "ECONOMIC_CRIME"
+  },
+  {
+    "id": "train_050",
+    "text": "[PRIVATE_CITIZEN] Jayantha [/PRIVATE_CITIZEN] bank manager customers ge accounts walin fraud kala",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "CRIME",
+    "label_subcategory": "ECONOMIC_CRIME"
+  },
+  {
+    "id": "train_051",
+    "text": "[PRIVATE_CITIZEN] Jayantha [/PRIVATE_CITIZEN] customer accounts walin millions ගානක් fraud kala kiyala arrested",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "CRIME",
+    "label_subcategory": "ECONOMIC_CRIME"
+  },
+  {
+    "id": "train_052",
+    "text": "[POLITICIAN] වික්‍රමසිංහ [/POLITICIAN] රජයේ tender එකකින් කොමිස් මුදල් ලබා ගත්තා කියලා leak",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "CRIME",
+    "label_subcategory": "ECONOMIC_CRIME"
+  },
+  {
+    "id": "train_053",
+    "text": "[POLITICIAN] Wickremasinghe [/POLITICIAN] tender ekakin commission millions gathta kiyala documents",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "CRIME",
+    "label_subcategory": "ECONOMIC_CRIME"
+  },
+  {
+    "id": "train_054",
+    "text": "[POLITICIAN] සේනානායක [/POLITICIAN] වංචා චෝදනා මත අත්අඩංගුවට ගත්තා",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "CRIME",
+    "label_subcategory": "CRIMINAL_PROCEEDING"
+  },
+  {
+    "id": "train_055",
+    "text": "[POLITICIAN] Senanayake [/POLITICIAN] arrest karala fraud charges walata",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "CRIME",
+    "label_subcategory": "CRIMINAL_PROCEEDING"
+  },
+  {
+    "id": "train_056",
+    "text": "[POLITICIAN] Senanayake [/POLITICIAN] ව arrest කලා corruption charges මත CID විසින්",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "CRIME",
+    "label_subcategory": "CRIMINAL_PROCEEDING"
+  },
+  {
+    "id": "train_057",
+    "text": "[PRIVATE_CITIZEN] නන්දන [/PRIVATE_CITIZEN] ට මහෙස්ත්‍රාත් අධිකරණයෙන් රක්ෂිත බන්ධනාගාර",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "CRIME",
+    "label_subcategory": "CRIMINAL_PROCEEDING"
+  },
+  {
+    "id": "train_058",
+    "text": "[PRIVATE_CITIZEN] Nandana [/PRIVATE_CITIZEN] ta court eken remand denna kiwwa",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "CRIME",
+    "label_subcategory": "CRIMINAL_PROCEEDING"
+  },
+  {
+    "id": "train_059",
+    "text": "[PRIVATE_CITIZEN] Nandana [/PRIVATE_CITIZEN] ව court eken remand කරලා next hearing date scheduled",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "CRIME",
+    "label_subcategory": "CRIMINAL_PROCEEDING"
+  },
+  {
+    "id": "train_060",
+    "text": "[POLITICIAN] කුමාර් [/POLITICIAN] ට අධිකරණයෙන් වාරෙන්තු නිකුත් කලා",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "CRIME",
+    "label_subcategory": "CRIMINAL_PROCEEDING"
+  },
+  {
+    "id": "train_061",
+    "text": "[POLITICIAN] Kumar [/POLITICIAN] ta court eken arrest warrant nikuth kala",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "CRIME",
+    "label_subcategory": "CRIMINAL_PROCEEDING"
+  },
+  {
+    "id": "train_062",
+    "text": "[POLITICIAN] Kumar [/POLITICIAN] ට warrant නිකුත් කරලා police search කරගෙන යනවා",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "CRIME",
+    "label_subcategory": "CRIMINAL_PROCEEDING"
+  },
+  {
+    "id": "train_063",
+    "text": "[PRIVATE_CITIZEN] රවී [/PRIVATE_CITIZEN] වර්ෂ පහක සිර දඬුවමකට ලක් කලා",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "CRIME",
+    "label_subcategory": "CRIMINAL_PROCEEDING"
+  },
+  {
+    "id": "train_064",
+    "text": "[PRIVATE_CITIZEN] Ravi [/PRIVATE_CITIZEN] ta 5 years prison sentence dunna court eken",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "CRIME",
+    "label_subcategory": "CRIMINAL_PROCEEDING"
+  },
+  {
+    "id": "train_065",
+    "text": "[PRIVATE_CITIZEN] Ravi [/PRIVATE_CITIZEN] ට 5 අවුරුදු prison sentence ක් court එකෙන් දුන්නා",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "CRIME",
+    "label_subcategory": "CRIMINAL_PROCEEDING"
+  },
+  {
+    "id": "train_066",
+    "text": "[POLITICIAN] ද සිල්වා [/POLITICIAN] ට ඇප ලබා දීම ප්‍රතික්ෂේප කලා",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "CRIME",
+    "label_subcategory": "CRIMINAL_PROCEEDING"
+  },
+  {
+    "id": "train_067",
+    "text": "[POLITICIAN] de Silva [/POLITICIAN] ge bail application reject kala court eken",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "CRIME",
+    "label_subcategory": "CRIMINAL_PROCEEDING"
+  },
+  {
+    "id": "train_068",
+    "text": "[POLITICIAN] de Silva [/POLITICIAN] ge bail reject කලා court එකෙන් මාසයක් remand",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "CRIME",
+    "label_subcategory": "CRIMINAL_PROCEEDING"
+  },
+  {
+    "id": "train_069",
+    "text": "[PRIVATE_CITIZEN] චන්දන [/PRIVATE_CITIZEN] ට පොලීසිය සිද්ධිපත්‍ර සකස් කලා",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "CRIME",
+    "label_subcategory": "CRIMINAL_PROCEEDING"
+  },
+  {
+    "id": "train_070",
+    "text": "[PRIVATE_CITIZEN] Chandana [/PRIVATE_CITIZEN] ta police indictment file kala high court eken",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "CRIME",
+    "label_subcategory": "CRIMINAL_PROCEEDING"
+  },
+  {
+    "id": "train_071",
+    "text": "[PRIVATE_CITIZEN] Chandana [/PRIVATE_CITIZEN] ට police indictment file කලා high court එකේ",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "CRIME",
+    "label_subcategory": "CRIMINAL_PROCEEDING"
+  },
+  {
+    "id": "train_072",
+    "text": "[PRIVATE_CITIZEN] තරිඳු [/PRIVATE_CITIZEN] CID විසින් ප්‍රශ්න කරනු ලැබුවා මනි ලෝන්ඩරින් චෝදනාවක් මත",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "CRIME",
+    "label_subcategory": "CRIMINAL_PROCEEDING"
+  },
+  {
+    "id": "train_073",
+    "text": "[PRIVATE_CITIZEN] Tharindu [/PRIVATE_CITIZEN] ව CID question kala money laundering case ekakata",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "CRIME",
+    "label_subcategory": "CRIMINAL_PROCEEDING"
+  },
+  {
+    "id": "train_074",
+    "text": "[PRIVATE_CITIZEN] සරත් [/PRIVATE_CITIZEN] ඔහුගේ බිරිඳට අතේ ගසා හිංසා කරනවා",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "CRIME",
+    "label_subcategory": "VIOLENT_CRIME"
+  },
+  {
+    "id": "train_075",
+    "text": "[PRIVATE_CITIZEN] Sarath [/PRIVATE_CITIZEN] eyage wife ta gahala assault karanawa",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "CRIME",
+    "label_subcategory": "VIOLENT_CRIME"
+  },
+  {
+    "id": "train_076",
+    "text": "[PRIVATE_CITIZEN] Sarath [/PRIVATE_CITIZEN] ඔහුගේ wife ට regularly ගහල injuries hospital එකට",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "CRIME",
+    "label_subcategory": "VIOLENT_CRIME"
+  },
+  {
+    "id": "train_077",
+    "text": "[POLITICIAN] ජයසේකර [/POLITICIAN] කාර්යාල කාර්යමණ්ඩලයේ කාන්තාවකට ලිංගික හිංසනයක් කලා",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "CRIME",
+    "label_subcategory": "VIOLENT_CRIME"
+  },
+  {
+    "id": "train_078",
+    "text": "[POLITICIAN] Jayasekara [/POLITICIAN] office staff girl kekekta sexual harassment kala",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "CRIME",
+    "label_subcategory": "VIOLENT_CRIME"
+  },
+  {
+    "id": "train_079",
+    "text": "[POLITICIAN] Jayasekara [/POLITICIAN] ge office eke female employee kekekta inappropriately touch කලා",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "CRIME",
+    "label_subcategory": "VIOLENT_CRIME"
+  },
+  {
+    "id": "train_080",
+    "text": "[PRIVATE_CITIZEN] නිශාන්ත [/PRIVATE_CITIZEN] ගේ පියා අම්මාට මරා දැම්මා කියලා පොලීසිය",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "CRIME",
+    "label_subcategory": "VIOLENT_CRIME"
+  },
+  {
+    "id": "train_081",
+    "text": "[PRIVATE_CITIZEN] Nishantha [/PRIVATE_CITIZEN] ge thaththa amma ව stab karala mæruwa",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "CRIME",
+    "label_subcategory": "VIOLENT_CRIME"
+  },
+  {
+    "id": "train_082",
+    "text": "[PRIVATE_CITIZEN] Nishantha [/PRIVATE_CITIZEN] ge thaththa family dispute ekakin amma ව මරා දැම්මා",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "CRIME",
+    "label_subcategory": "VIOLENT_CRIME"
+  },
+  {
+    "id": "train_083",
+    "text": "[PRIVATE_CITIZEN] චමින්ද [/PRIVATE_CITIZEN] කලින් පෙම්වතියට ඇසිඩ් ගසා මුහුණ පුළුස්සා දැම්මා",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "CRIME",
+    "label_subcategory": "VIOLENT_CRIME"
+  },
+  {
+    "id": "train_084",
+    "text": "[PRIVATE_CITIZEN] Chaminda [/PRIVATE_CITIZEN] ex-girlfriend ta acid danala muna pulussa dæmma",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "CRIME",
+    "label_subcategory": "VIOLENT_CRIME"
+  },
+  {
+    "id": "train_085",
+    "text": "[PRIVATE_CITIZEN] Chaminda [/PRIVATE_CITIZEN] ex-girlfriend ට acid attack කරලා hospital එකේ critical condition",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "CRIME",
+    "label_subcategory": "VIOLENT_CRIME"
+  },
+  {
+    "id": "train_086",
+    "text": "[PRIVATE_CITIZEN] ලාල් [/PRIVATE_CITIZEN] ළමයෙකුට ලිංගික හිංසනය කලා කියලා CID විමර්ශනය",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "CRIME",
+    "label_subcategory": "VIOLENT_CRIME"
+  },
+  {
+    "id": "train_087",
+    "text": "[PRIVATE_CITIZEN] Lal [/PRIVATE_CITIZEN] child ekakta sexually abuse kala kiyala CID investigate karanawa",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "CRIME",
+    "label_subcategory": "VIOLENT_CRIME"
+  },
+  {
+    "id": "train_088",
+    "text": "[PUBLIC_FIGURE] රොෂාන් [/PUBLIC_FIGURE] කාන්තාවකට ස්ටෝකර් කරනවා කියලා සාක්ෂි පොලීසියට",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "CRIME",
+    "label_subcategory": "VIOLENT_CRIME"
+  },
+  {
+    "id": "train_089",
+    "text": "[PUBLIC_FIGURE] Roshan [/PUBLIC_FIGURE] female fan kenekta stalking karanawa kiyala victim complaint",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "CRIME",
+    "label_subcategory": "VIOLENT_CRIME"
+  },
+  {
+    "id": "train_090",
+    "text": "[PRIVATE_CITIZEN] අසංක [/PRIVATE_CITIZEN] ගේ රෝහල් වාර්තා Facebook එකේ ලීක් වුනා",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "LEAK",
+    "label_subcategory": "SENSITIVE_RECORD"
+  },
+  {
+    "id": "train_091",
+    "text": "[PRIVATE_CITIZEN] Asanka [/PRIVATE_CITIZEN] ge hospital records Facebook eke leak una",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "LEAK",
+    "label_subcategory": "SENSITIVE_RECORD"
+  },
+  {
+    "id": "train_092",
+    "text": "[PRIVATE_CITIZEN] Asanka [/PRIVATE_CITIZEN] ge medical records online leak වෙලා සියල්ල share කරලා",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "LEAK",
+    "label_subcategory": "SENSITIVE_RECORD"
+  },
+  {
+    "id": "train_093",
+    "text": "[POLITICIAN] වික්‍රමරත්න [/POLITICIAN] ගේ අධිකරණ ලේඛන රහසිගතව සමාජ මාධ්‍යට පැමිණිය",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "LEAK",
+    "label_subcategory": "SENSITIVE_RECORD"
+  },
+  {
+    "id": "train_094",
+    "text": "[POLITICIAN] Wickramaratne [/POLITICIAN] ge confidential court documents social media ekata leak una",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "LEAK",
+    "label_subcategory": "SENSITIVE_RECORD"
+  },
+  {
+    "id": "train_095",
+    "text": "[POLITICIAN] Wickramaratne [/POLITICIAN] ge sealed court documents Twitter එකේ leak කරලා",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "LEAK",
+    "label_subcategory": "SENSITIVE_RECORD"
+  },
+  {
+    "id": "train_096",
+    "text": "[GOVT_OFFICIAL] විජේසිංහ [/GOVT_OFFICIAL] ගේ රහසිගත tender ලේඛන මාධ්‍යට ලීක් වුනා",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "LEAK",
+    "label_subcategory": "SENSITIVE_RECORD"
+  },
+  {
+    "id": "train_097",
+    "text": "[GOVT_OFFICIAL] Wijesinghe [/GOVT_OFFICIAL] ge confidential tender documents media ekata leak una",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "LEAK",
+    "label_subcategory": "SENSITIVE_RECORD"
+  },
+  {
+    "id": "train_098",
+    "text": "[GOVT_OFFICIAL] Wijesinghe [/GOVT_OFFICIAL] ge classified tender documents නිලධාරි කෙනෙක් leak කලා",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "LEAK",
+    "label_subcategory": "SENSITIVE_RECORD"
+  },
+  {
+    "id": "train_099",
+    "text": "[PRIVATE_CITIZEN] නදීශා [/PRIVATE_CITIZEN] ගේ පොලිස් පරීක්ෂණ ගොනුව WhatsApp එකේ පැතිරෙනවා",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "LEAK",
+    "label_subcategory": "SENSITIVE_RECORD"
+  },
+  {
+    "id": "train_100",
+    "text": "[PRIVATE_CITIZEN] Nadeesha [/PRIVATE_CITIZEN] ge police investigation file WhatsApp ekata leak",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "LEAK",
+    "label_subcategory": "SENSITIVE_RECORD"
+  },
+  {
+    "id": "train_101",
+    "text": "[PRIVATE_CITIZEN] Nadeesha [/PRIVATE_CITIZEN] ge police investigation report online media circulate කරනවා",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "LEAK",
+    "label_subcategory": "SENSITIVE_RECORD"
+  },
+  {
+    "id": "train_102",
+    "text": "[PRIVATE_CITIZEN] ඉශාරා [/PRIVATE_CITIZEN] ගේ ආදායම් බදු වාර්තාව සමාජ මාධ්‍ය අපහාසයට ලක් කලා",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "LEAK",
+    "label_subcategory": "SENSITIVE_RECORD"
+  },
+  {
+    "id": "train_103",
+    "text": "[PRIVATE_CITIZEN] Ishara [/PRIVATE_CITIZEN] ge tax records online leak kala harassment ekak nisa",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "LEAK",
+    "label_subcategory": "SENSITIVE_RECORD"
+  },
+  {
+    "id": "train_104",
+    "text": "[PRIVATE_CITIZEN] Ishara [/PRIVATE_CITIZEN] ge income tax returns details online publish කලා",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "LEAK",
+    "label_subcategory": "SENSITIVE_RECORD"
+  },
+  {
+    "id": "train_105",
+    "text": "[PRIVATE_CITIZEN] දිනේෂ් [/PRIVATE_CITIZEN] ගේ රක්ෂණ ඉල්ලුම් වාර්තාව අන්තර්ජාලයේ දාලා",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "LEAK",
+    "label_subcategory": "SENSITIVE_RECORD"
+  },
+  {
+    "id": "train_106",
+    "text": "[PRIVATE_CITIZEN] Dinesh [/PRIVATE_CITIZEN] ge insurance claim records online dunna without consent",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "LEAK",
+    "label_subcategory": "SENSITIVE_RECORD"
+  },
+  {
+    "id": "train_107",
+    "text": "[PUBLIC_FIGURE] අංජලී [/PUBLIC_FIGURE] ගේ විශ්ව විද්‍යාල marks sheet එකක් online ලීක් වෙලා",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "LEAK",
+    "label_subcategory": "SENSITIVE_RECORD"
+  },
+  {
+    "id": "train_108",
+    "text": "[PUBLIC_FIGURE] Anjalee [/PUBLIC_FIGURE] ge university transcript online leak una privacy violation",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "LEAK",
+    "label_subcategory": "SENSITIVE_RECORD"
+  },
+  {
+    "id": "train_109",
+    "text": "[PRIVATE_CITIZEN] ප්‍රදීප් [/PRIVATE_CITIZEN] ගේ දුරකථන අංකය පෙම්වතියකගෙන් ඉල්ලාගෙන මාධ්‍ය ජාල වල share",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "LEAK",
+    "label_subcategory": "IDENTITY_DATA"
+  },
+  {
+    "id": "train_110",
+    "text": "[PRIVATE_CITIZEN] Pradeep [/PRIVATE_CITIZEN] ge phone number ex girlfriend kenek social media share kala",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "LEAK",
+    "label_subcategory": "IDENTITY_DATA"
+  },
+  {
+    "id": "train_111",
+    "text": "[PRIVATE_CITIZEN] Pradeep [/PRIVATE_CITIZEN] ge personal phone 0776543210 random group walata leak කරලා",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "LEAK",
+    "label_subcategory": "IDENTITY_DATA"
+  },
+  {
+    "id": "train_112",
+    "text": "[PRIVATE_CITIZEN] චමිලා [/PRIVATE_CITIZEN] ගේ නිවසේ ලිපිනය harassment කරන්න කියලා Facebook එකේ දැම්මා",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "LEAK",
+    "label_subcategory": "IDENTITY_DATA"
+  },
+  {
+    "id": "train_113",
+    "text": "[PRIVATE_CITIZEN] Chamila [/PRIVATE_CITIZEN] ge home address Facebook eke share kala harassment ekata",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "LEAK",
+    "label_subcategory": "IDENTITY_DATA"
+  },
+  {
+    "id": "train_114",
+    "text": "[PRIVATE_CITIZEN] Chamila [/PRIVATE_CITIZEN] ge address 23 Kandy Road harassment campaign ekak ehema doxxing",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "LEAK",
+    "label_subcategory": "IDENTITY_DATA"
+  },
+  {
+    "id": "train_115",
+    "text": "[PRIVATE_CITIZEN] ලසිත [/PRIVATE_CITIZEN] ගේ ජාතික හැඳුනුම්පත් අංකය social media post එකක දාලා",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "LEAK",
+    "label_subcategory": "IDENTITY_DATA"
+  },
+  {
+    "id": "train_116",
+    "text": "[PRIVATE_CITIZEN] Lasitha [/PRIVATE_CITIZEN] ge NIC 200512345670 social media post ekaka publicly share kala",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "LEAK",
+    "label_subcategory": "IDENTITY_DATA"
+  },
+  {
+    "id": "train_117",
+    "text": "[PRIVATE_CITIZEN] Lasitha [/PRIVATE_CITIZEN] ge NIC + photo combination identity theft වෙන්න පුළුවන් widihe expose කරලා",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "LEAK",
+    "label_subcategory": "IDENTITY_DATA"
+  },
+  {
+    "id": "train_118",
+    "text": "[PRIVATE_CITIZEN] සජිත් [/PRIVATE_CITIZEN] ගේ පෞද්ගලික ඡායාරූප අනුමැතියකින් තොරව share කලා",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "LEAK",
+    "label_subcategory": "IDENTITY_DATA"
+  },
+  {
+    "id": "train_119",
+    "text": "[PRIVATE_CITIZEN] Sajith [/PRIVATE_CITIZEN] ge private photos ex kenek consent nathiwa share kala",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "LEAK",
+    "label_subcategory": "IDENTITY_DATA"
+  },
+  {
+    "id": "train_120",
+    "text": "[PRIVATE_CITIZEN] Sajith [/PRIVATE_CITIZEN] ge intimate photos online නැගෙන්නේ revenge porn widihata",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "LEAK",
+    "label_subcategory": "IDENTITY_DATA"
+  },
+  {
+    "id": "train_121",
+    "text": "[PRIVATE_CITIZEN] තක්ෂිලා [/PRIVATE_CITIZEN] ගේ රැකියා ස්ථානය සහ පැයෙන් පැය දින චර්යාව stalker කෙනෙක් දැම්මා",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "LEAK",
+    "label_subcategory": "IDENTITY_DATA"
+  },
+  {
+    "id": "train_122",
+    "text": "[PRIVATE_CITIZEN] Thakshila [/PRIVATE_CITIZEN] ge workplace and daily routine stalker kekek online danala",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "LEAK",
+    "label_subcategory": "IDENTITY_DATA"
+  },
+  {
+    "id": "train_123",
+    "text": "[PRIVATE_CITIZEN] Thakshila [/PRIVATE_CITIZEN] ge workplace එක plus daily schedule එක stranger කෙනෙක් online expose",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "LEAK",
+    "label_subcategory": "IDENTITY_DATA"
+  },
+  {
+    "id": "train_124",
+    "text": "[PRIVATE_CITIZEN] මධවී [/PRIVATE_CITIZEN] ගේ email සහ password leak වෙච්ච database එකක තිබුනා",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "LEAK",
+    "label_subcategory": "IDENTITY_DATA"
+  },
+  {
+    "id": "train_125",
+    "text": "[PRIVATE_CITIZEN] Madhavi [/PRIVATE_CITIZEN] ge email and password leaked database ekaka thibba",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "LEAK",
+    "label_subcategory": "IDENTITY_DATA"
+  },
+  {
+    "id": "train_126",
+    "text": "[PRIVATE_CITIZEN] Madhavi [/PRIVATE_CITIZEN] ge login credentials data breach ekakin online publish වුනා",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "LEAK",
+    "label_subcategory": "IDENTITY_DATA"
+  },
+  {
+    "id": "train_127",
+    "text": "[PUBLIC_FIGURE] සංගා [/PUBLIC_FIGURE] ගේ ගුවන් යානා ටිකට්ටුව සහ දින සටහන leak කරලා",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "LEAK",
+    "label_subcategory": "IDENTITY_DATA"
+  },
+  {
+    "id": "train_128",
+    "text": "[PUBLIC_FIGURE] Sanga [/PUBLIC_FIGURE] ge flight ticket and travel itinerary fan kenek leak kala",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "LEAK",
+    "label_subcategory": "IDENTITY_DATA"
+  },
+  {
+    "id": "train_129",
+    "text": "[PRIVATE_CITIZEN] රුවන් [/PRIVATE_CITIZEN] HIV ආසාදිතයෙක් කියලා workplace එකේ පැතිරුවා",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "HEALTH",
+    "label_subcategory": "STIGMATIZED_CONDITION"
+  },
+  {
+    "id": "train_130",
+    "text": "[PRIVATE_CITIZEN] Ruwan [/PRIVATE_CITIZEN] HIV positive kiyala office staff kiyanawa",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "HEALTH",
+    "label_subcategory": "STIGMATIZED_CONDITION"
+  },
+  {
+    "id": "train_131",
+    "text": "[PRIVATE_CITIZEN] Ruwan [/PRIVATE_CITIZEN] ට HIV තියෙනවා කියලා co-workers gossip කරනවා",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "HEALTH",
+    "label_subcategory": "STIGMATIZED_CONDITION"
+  },
+  {
+    "id": "train_132",
+    "text": "[PRIVATE_CITIZEN] සෙනූරි [/PRIVATE_CITIZEN] depression සහ suicide attempt කරපු තැනැත්තියක් කියලා leak",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "HEALTH",
+    "label_subcategory": "STIGMATIZED_CONDITION"
+  },
+  {
+    "id": "train_133",
+    "text": "[PRIVATE_CITIZEN] Senuri [/PRIVATE_CITIZEN] depression and suicide attempt karapu kenek kiyala leak una",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "HEALTH",
+    "label_subcategory": "STIGMATIZED_CONDITION"
+  },
+  {
+    "id": "train_134",
+    "text": "[PRIVATE_CITIZEN] Senuri [/PRIVATE_CITIZEN] ට mental health issues තියෙනවා කියලා family member කෙනෙක් expose",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "HEALTH",
+    "label_subcategory": "STIGMATIZED_CONDITION"
+  },
+  {
+    "id": "train_135",
+    "text": "[PUBLIC_FIGURE] නිහාරා [/PUBLIC_FIGURE] කලින් drug addict කෙනෙක් කියලා පැරැණි සොයාගැනීම් online",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "HEALTH",
+    "label_subcategory": "STIGMATIZED_CONDITION"
+  },
+  {
+    "id": "train_136",
+    "text": "[PUBLIC_FIGURE] Nihara [/PUBLIC_FIGURE] previously drug addict kiyala old findings online surface karala",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "HEALTH",
+    "label_subcategory": "STIGMATIZED_CONDITION"
+  },
+  {
+    "id": "train_137",
+    "text": "[PUBLIC_FIGURE] Nihara [/PUBLIC_FIGURE] ge past addiction history social media එකේ rehash කරලා",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "HEALTH",
+    "label_subcategory": "STIGMATIZED_CONDITION"
+  },
+  {
+    "id": "train_138",
+    "text": "[PRIVATE_CITIZEN] තුෂාරා [/PRIVATE_CITIZEN] ට පිළිකා රෝගය තියෙනවා කියලා පවුලේ අයගේ නොදැනීමම leak",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "HEALTH",
+    "label_subcategory": "STIGMATIZED_CONDITION"
+  },
+  {
+    "id": "train_139",
+    "text": "[PRIVATE_CITIZEN] Thushara [/PRIVATE_CITIZEN] ta cancer thiyenawa kiyala family ge anumæthiyak nathuwa leak una",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "HEALTH",
+    "label_subcategory": "STIGMATIZED_CONDITION"
+  },
+  {
+    "id": "train_140",
+    "text": "[PRIVATE_CITIZEN] Thushara [/PRIVATE_CITIZEN] ge cancer diagnosis details consent නැතුව public වුනා",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "HEALTH",
+    "label_subcategory": "STIGMATIZED_CONDITION"
+  },
+  {
+    "id": "train_141",
+    "text": "[PRIVATE_CITIZEN] කවිඳු [/PRIVATE_CITIZEN] ලිංගික රෝගයකට ප්‍රතිකාර ලබනවා කියලා leak",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "HEALTH",
+    "label_subcategory": "STIGMATIZED_CONDITION"
+  },
+  {
+    "id": "train_142",
+    "text": "[PRIVATE_CITIZEN] Kavindu [/PRIVATE_CITIZEN] STD treatment ekakata yanawa kiyala ex partner kiyala",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "HEALTH",
+    "label_subcategory": "STIGMATIZED_CONDITION"
+  },
+  {
+    "id": "train_143",
+    "text": "[PRIVATE_CITIZEN] Kavindu [/PRIVATE_CITIZEN] ට STD diagnosis එකක් තියෙනවා කියලා spread වෙනවා",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "HEALTH",
+    "label_subcategory": "STIGMATIZED_CONDITION"
+  },
+  {
+    "id": "train_144",
+    "text": "[PRIVATE_CITIZEN] හිරුණි [/PRIVATE_CITIZEN] කසාද බැඳීමකට පෙර ගර්භණී වෙලා කියලා පවුල නිවාසේ පුතා",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "HEALTH",
+    "label_subcategory": "STIGMATIZED_CONDITION"
+  },
+  {
+    "id": "train_145",
+    "text": "[PRIVATE_CITIZEN] Hiruni [/PRIVATE_CITIZEN] kasade kalin pregnant una kiyala neighbours kiyala",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "HEALTH",
+    "label_subcategory": "STIGMATIZED_CONDITION"
+  },
+  {
+    "id": "train_146",
+    "text": "[PRIVATE_CITIZEN] Hiruni [/PRIVATE_CITIZEN] unmarried pregnancy ekak කියලා village එකේ stigma campaign",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "HEALTH",
+    "label_subcategory": "STIGMATIZED_CONDITION"
+  },
+  {
+    "id": "train_147",
+    "text": "[PRIVATE_CITIZEN] නිමේෂ් [/PRIVATE_CITIZEN] eating disorder එකක් තියෙනවා කියලා බොරුවට therapy records ලීක්",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "HEALTH",
+    "label_subcategory": "STIGMATIZED_CONDITION"
+  },
+  {
+    "id": "train_148",
+    "text": "[PRIVATE_CITIZEN] Nimesh [/PRIVATE_CITIZEN] eating disorder ekak thiyenawa kiyala therapy records leak",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "HEALTH",
+    "label_subcategory": "STIGMATIZED_CONDITION"
+  },
+  {
+    "id": "train_149",
+    "text": "[PRIVATE_CITIZEN] මොහොමඩ් [/PRIVATE_CITIZEN] මුස්ලිම් කෙනෙක් නිසා රට්ට අවශ්‍ය නැහැ කියලා comment",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "DISCRIMINATION",
+    "label_subcategory": "IDENTITY_TARGETING"
+  },
+  {
+    "id": "train_150",
+    "text": "[PRIVATE_CITIZEN] Mohamed [/PRIVATE_CITIZEN] Muslim nisa ratata onæ næ kiyala xenophobic comment",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "DISCRIMINATION",
+    "label_subcategory": "IDENTITY_TARGETING"
+  },
+  {
+    "id": "train_151",
+    "text": "[PRIVATE_CITIZEN] Mohamed [/PRIVATE_CITIZEN] Muslim ekek nisa shop එකට enna give නැහැ කියලා boycott call",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "DISCRIMINATION",
+    "label_subcategory": "IDENTITY_TARGETING"
+  },
+  {
+    "id": "train_152",
+    "text": "[PRIVATE_CITIZEN] කනගලා [/PRIVATE_CITIZEN] දෙමළ කෙනෙක් නිසා job එක දුන්නේ නැහැ කියලා HR කිව්වා",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "DISCRIMINATION",
+    "label_subcategory": "IDENTITY_TARGETING"
+  },
+  {
+    "id": "train_153",
+    "text": "[PRIVATE_CITIZEN] Kanagala [/PRIVATE_CITIZEN] Tamil nisa interview eke fail kala kiyala HR kiwwa",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "DISCRIMINATION",
+    "label_subcategory": "IDENTITY_TARGETING"
+  },
+  {
+    "id": "train_154",
+    "text": "[PRIVATE_CITIZEN] Kanagala [/PRIVATE_CITIZEN] Tamil ekek nisa rental house එකක් දෙන්න ඔනෑ නැහැ කියලා landlord",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "DISCRIMINATION",
+    "label_subcategory": "IDENTITY_TARGETING"
+  },
+  {
+    "id": "train_155",
+    "text": "[PRIVATE_CITIZEN] සුසන්ති [/PRIVATE_CITIZEN] කිතුණු කෙනෙක් නිසා promotion එක නොදුන්න",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "DISCRIMINATION",
+    "label_subcategory": "IDENTITY_TARGETING"
+  },
+  {
+    "id": "train_156",
+    "text": "[PRIVATE_CITIZEN] Susanthi [/PRIVATE_CITIZEN] Christian kenek nisa promotion eka denna næ kiyala manager",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "DISCRIMINATION",
+    "label_subcategory": "IDENTITY_TARGETING"
+  },
+  {
+    "id": "train_157",
+    "text": "[PRIVATE_CITIZEN] Susanthi [/PRIVATE_CITIZEN] Christian ekiyak nisa religious slurs comment section එකේ",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "DISCRIMINATION",
+    "label_subcategory": "IDENTITY_TARGETING"
+  },
+  {
+    "id": "train_158",
+    "text": "[PRIVATE_CITIZEN] සිවලිංගම් [/PRIVATE_CITIZEN] වතු දෙමළ නිසා පහත් කුලයක් කියලා slur",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "DISCRIMINATION",
+    "label_subcategory": "IDENTITY_TARGETING"
+  },
+  {
+    "id": "train_159",
+    "text": "[PRIVATE_CITIZEN] Sivalingam [/PRIVATE_CITIZEN] estate Tamil kenek nisa caste slur dunna",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "DISCRIMINATION",
+    "label_subcategory": "IDENTITY_TARGETING"
+  },
+  {
+    "id": "train_160",
+    "text": "[PRIVATE_CITIZEN] Sivalingam [/PRIVATE_CITIZEN] plantation worker family ekata kulin discriminate කරලා",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "DISCRIMINATION",
+    "label_subcategory": "IDENTITY_TARGETING"
+  },
+  {
+    "id": "train_161",
+    "text": "[PRIVATE_CITIZEN] නාසිර් [/PRIVATE_CITIZEN] arabic name එකක් නිසා flight එකේදී extra checking",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "DISCRIMINATION",
+    "label_subcategory": "IDENTITY_TARGETING"
+  },
+  {
+    "id": "train_162",
+    "text": "[PRIVATE_CITIZEN] Nasir [/PRIVATE_CITIZEN] arabic name nisa flight eke airport eke profile karala",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "DISCRIMINATION",
+    "label_subcategory": "IDENTITY_TARGETING"
+  },
+  {
+    "id": "train_163",
+    "text": "[PRIVATE_CITIZEN] Nasir [/PRIVATE_CITIZEN] muslim name එකක් නිසා visa application reject වුනා කියලා",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "DISCRIMINATION",
+    "label_subcategory": "IDENTITY_TARGETING"
+  },
+  {
+    "id": "train_164",
+    "text": "[PRIVATE_CITIZEN] සමීර [/PRIVATE_CITIZEN] සිංහල නොකියන දෙමළ නිසා පාසලේදී bullying",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "DISCRIMINATION",
+    "label_subcategory": "IDENTITY_TARGETING"
+  },
+  {
+    "id": "train_165",
+    "text": "[PRIVATE_CITIZEN] Sameera [/PRIVATE_CITIZEN] Sinhala kiyanna baha kiyala school eke teasing karanawa",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "DISCRIMINATION",
+    "label_subcategory": "IDENTITY_TARGETING"
+  },
+  {
+    "id": "train_166",
+    "text": "[PRIVATE_CITIZEN] Sameera [/PRIVATE_CITIZEN] linguistic discrimination ට ලක්වෙනවා කියලා complaint දුන්නා",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "DISCRIMINATION",
+    "label_subcategory": "IDENTITY_TARGETING"
+  },
+  {
+    "id": "train_167",
+    "text": "[PRIVATE_CITIZEN] ෆාතිමා [/PRIVATE_CITIZEN] Muslim ගැහැනියක් වශයෙන් hijab උගුල්ලන්න කියලා harass",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "DISCRIMINATION",
+    "label_subcategory": "IDENTITY_TARGETING"
+  },
+  {
+    "id": "train_168",
+    "text": "[PRIVATE_CITIZEN] Fathima [/PRIVATE_CITIZEN] Muslim woman widihata hijab gælawanna kiwwa harassment ekak",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "DISCRIMINATION",
+    "label_subcategory": "IDENTITY_TARGETING"
+  },
+  {
+    "id": "train_169",
+    "text": "[POLITICIAN] සුසන්ත [/POLITICIAN] ට බාල්කා සමග affair එකක් කියලා පදනමක් නැති කටකතාවක්",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "DEFAMATION",
+    "label_subcategory": "UNVERIFIED_CLAIM"
+  },
+  {
+    "id": "train_170",
+    "text": "[POLITICIAN] Susantha [/POLITICIAN] ta affair ekak thiyenawa kiyala basis nathi rumour",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "DEFAMATION",
+    "label_subcategory": "UNVERIFIED_CLAIM"
+  },
+  {
+    "id": "train_171",
+    "text": "[POLITICIAN] Susantha [/POLITICIAN] ට mistress කෙනෙක් ඉන්නවා කියලා baseless rumour පැතිරෙනවා",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "DEFAMATION",
+    "label_subcategory": "UNVERIFIED_CLAIM"
+  },
+  {
+    "id": "train_172",
+    "text": "[PUBLIC_FIGURE] සංගා [/PUBLIC_FIGURE] කන්දුරු කන්නේ කියලා පැතිරෙන කටකතාව බොරුවක්",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "DEFAMATION",
+    "label_subcategory": "UNVERIFIED_CLAIM"
+  },
+  {
+    "id": "train_173",
+    "text": "[PUBLIC_FIGURE] Sanga [/PUBLIC_FIGURE] match fixing kala kiyala rumour eka false kiyala BCCI",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "DEFAMATION",
+    "label_subcategory": "UNVERIFIED_CLAIM"
+  },
+  {
+    "id": "train_174",
+    "text": "[PUBLIC_FIGURE] Sanga [/PUBLIC_FIGURE] match fixing කරනවා කියන rumour එක unverified",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "DEFAMATION",
+    "label_subcategory": "UNVERIFIED_CLAIM"
+  },
+  {
+    "id": "train_175",
+    "text": "[POLITICIAN] සිරිසේන [/POLITICIAN] මිය ගියා කියලා ව්‍යාජ පුවතක් පැතිරුවා",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "DEFAMATION",
+    "label_subcategory": "UNVERIFIED_CLAIM"
+  },
+  {
+    "id": "train_176",
+    "text": "[POLITICIAN] Sirisena [/POLITICIAN] dead kiyala fake news eka spread una",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "DEFAMATION",
+    "label_subcategory": "UNVERIFIED_CLAIM"
+  },
+  {
+    "id": "train_177",
+    "text": "[POLITICIAN] Sirisena [/POLITICIAN] passed away කියලා false news එක WhatsApp groups වල spread",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "DEFAMATION",
+    "label_subcategory": "UNVERIFIED_CLAIM"
+  },
+  {
+    "id": "train_178",
+    "text": "[POLITICIAN] වික්‍රමසූරිය [/POLITICIAN] ඉල්ලා අස්වෙනවා කියලා පදනම් විරහිත කටකතාව",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "DEFAMATION",
+    "label_subcategory": "UNVERIFIED_CLAIM"
+  },
+  {
+    "id": "train_179",
+    "text": "[POLITICIAN] Wickramasooriya [/POLITICIAN] resignation denawa kiyala rumour eka false",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "DEFAMATION",
+    "label_subcategory": "UNVERIFIED_CLAIM"
+  },
+  {
+    "id": "train_180",
+    "text": "[POLITICIAN] Wickramasooriya [/POLITICIAN] resign කරනවා කියලා made-up news එක viral වුනා",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "DEFAMATION",
+    "label_subcategory": "UNVERIFIED_CLAIM"
+  },
+  {
+    "id": "train_181",
+    "text": "[PUBLIC_FIGURE] නදිලා [/PUBLIC_FIGURE] කියපු දෙයක් වශයෙන් ව්‍යාජ උපුටා ගැනීම් පැතිරුවා",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "DEFAMATION",
+    "label_subcategory": "UNVERIFIED_CLAIM"
+  },
+  {
+    "id": "train_182",
+    "text": "[PUBLIC_FIGURE] Nadila [/PUBLIC_FIGURE] kiyapu deyak widihata fake quote eka viral una",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "DEFAMATION",
+    "label_subcategory": "UNVERIFIED_CLAIM"
+  },
+  {
+    "id": "train_183",
+    "text": "[PUBLIC_FIGURE] Nadila [/PUBLIC_FIGURE] never said this කියන quote එක misattribute කරලා",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "DEFAMATION",
+    "label_subcategory": "UNVERIFIED_CLAIM"
+  },
+  {
+    "id": "train_184",
+    "text": "[POLITICIAN] ෆර්නැන්ඩෝපුල්ලේ [/POLITICIAN] ගේ photoshopped photo එකකින් defame කරලා",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "DEFAMATION",
+    "label_subcategory": "UNVERIFIED_CLAIM"
+  },
+  {
+    "id": "train_185",
+    "text": "[POLITICIAN] Fernandopulle [/POLITICIAN] ge edited photo ekakin scandal ekak hadanawa",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "DEFAMATION",
+    "label_subcategory": "UNVERIFIED_CLAIM"
+  },
+  {
+    "id": "train_186",
+    "text": "[POLITICIAN] Fernandopulle [/POLITICIAN] manipulated images වලින් defamation campaign",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "DEFAMATION",
+    "label_subcategory": "UNVERIFIED_CLAIM"
+  },
+  {
+    "id": "train_187",
+    "text": "[PUBLIC_FIGURE] Roshan [/PUBLIC_FIGURE] වශයෙන් impersonate කරලා Twitter account එකක් hadala",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "DEFAMATION",
+    "label_subcategory": "UNVERIFIED_CLAIM"
+  },
+  {
+    "id": "train_188",
+    "text": "[PUBLIC_FIGURE] Roshan [/PUBLIC_FIGURE] widihata impersonate karala fake account ekak run karanawa",
+    "label_disclosure": "NON_INFORMATIVE",
+    "label_risk": "DEFAMATION",
+    "label_subcategory": "UNVERIFIED_CLAIM"
+  },
+  {
+    "id": "train_189",
+    "text": "[PUBLIC_FIGURE] සංගක්කාර [/PUBLIC_FIGURE] තරගයේ ශතකයක් ලබා කණ්ඩායම ජය ගත්තා",
+    "label_disclosure": "INFORMATIVE",
+    "label_risk": "NEUTRAL",
+    "label_subcategory": "NONE"
+  },
+  {
+    "id": "train_190",
+    "text": "[PUBLIC_FIGURE] Sangakkara [/PUBLIC_FIGURE] match eke century gehala team eka jaya gathta",
+    "label_disclosure": "INFORMATIVE",
+    "label_risk": "NEUTRAL",
+    "label_subcategory": "NONE"
+  },
+  {
+    "id": "train_191",
+    "text": "[PUBLIC_FIGURE] Sangakkara [/PUBLIC_FIGURE] match එකේ century ක් ගහල team එකට win එකක්",
+    "label_disclosure": "INFORMATIVE",
+    "label_risk": "NEUTRAL",
+    "label_subcategory": "NONE"
+  },
+  {
+    "id": "train_192",
+    "text": "[PUBLIC_FIGURE] නන්දන වීරරත්න [/PUBLIC_FIGURE] නව පොතේ මුදා හැරීම පොත් ප්‍රදර්ශනයේ",
+    "label_disclosure": "INFORMATIVE",
+    "label_risk": "NEUTRAL",
+    "label_subcategory": "NONE"
+  },
+  {
+    "id": "train_193",
+    "text": "[PUBLIC_FIGURE] Nandana Weeraratne [/PUBLIC_FIGURE] ge new book launch BMICH eke book fair eke",
+    "label_disclosure": "INFORMATIVE",
+    "label_risk": "NEUTRAL",
+    "label_subcategory": "NONE"
+  },
+  {
+    "id": "train_194",
+    "text": "[PUBLIC_FIGURE] Nandana Weeraratne [/PUBLIC_FIGURE] ge new book launch BMICH එකේ public event",
+    "label_disclosure": "INFORMATIVE",
+    "label_risk": "NEUTRAL",
+    "label_subcategory": "NONE"
+  },
+  {
+    "id": "train_195",
+    "text": "[POLITICIAN] සජිත් [/POLITICIAN] කොළඹ රැලියේ ආර්ථික ප්‍රතිපත්ති පිළිබඳව කතා කලා",
+    "label_disclosure": "INFORMATIVE",
+    "label_risk": "NEUTRAL",
+    "label_subcategory": "NONE"
+  },
+  {
+    "id": "train_196",
+    "text": "[POLITICIAN] Sajith [/POLITICIAN] Colombo rally eke economic policies ගැන speech ekak dunna",
+    "label_disclosure": "INFORMATIVE",
+    "label_risk": "NEUTRAL",
+    "label_subcategory": "NONE"
+  },
+  {
+    "id": "train_197",
+    "text": "[POLITICIAN] Sajith [/POLITICIAN] Colombo රැලියේ economic policies ගැන කතා කලා public event",
+    "label_disclosure": "INFORMATIVE",
+    "label_risk": "NEUTRAL",
+    "label_subcategory": "NONE"
+  },
+  {
+    "id": "train_198",
+    "text": "[GOVT_OFFICIAL] සෞඛ්‍ය අධ්‍යක්ෂ ජනරාල් [/GOVT_OFFICIAL] නව මාර්ගෝපදේශ නිකුත් කලා",
+    "label_disclosure": "INFORMATIVE",
+    "label_risk": "NEUTRAL",
+    "label_subcategory": "NONE"
+  },
+  {
+    "id": "train_199",
+    "text": "[GOVT_OFFICIAL] Health DG [/GOVT_OFFICIAL] new guidelines released for public",
+    "label_disclosure": "INFORMATIVE",
+    "label_risk": "NEUTRAL",
+    "label_subcategory": "NONE"
+  },
+  {
+    "id": "train_200",
+    "text": "[GOVT_OFFICIAL] Health DG [/GOVT_OFFICIAL] press conference එකේ new guidelines announce කලා",
+    "label_disclosure": "INFORMATIVE",
+    "label_risk": "NEUTRAL",
+    "label_subcategory": "NONE"
+  },
+  {
+    "id": "train_201",
+    "text": "[PUBLIC_FIGURE] යෝහාන් [/PUBLIC_FIGURE] charity run එකේ සහභාගි වෙලා දරුවන්ට අරමුදල් රැස්කරගත්තා",
+    "label_disclosure": "INFORMATIVE",
+    "label_risk": "NEUTRAL",
+    "label_subcategory": "NONE"
+  },
+  {
+    "id": "train_202",
+    "text": "[PUBLIC_FIGURE] Yohan [/PUBLIC_FIGURE] charity run eke participate kala kids fund ekata",
+    "label_disclosure": "INFORMATIVE",
+    "label_risk": "NEUTRAL",
+    "label_subcategory": "NONE"
+  },
+  {
+    "id": "train_203",
+    "text": "[PUBLIC_FIGURE] Yohan [/PUBLIC_FIGURE] charity run එකට join වෙලා funds raise කලා public event",
+    "label_disclosure": "INFORMATIVE",
+    "label_risk": "NEUTRAL",
+    "label_subcategory": "NONE"
+  },
+  {
+    "id": "train_204",
+    "text": "[PUBLIC_FIGURE] කුලසේකර [/PUBLIC_FIGURE] නව චිත්‍රපටය මුදා හරිනවා අගෝස්තුවේ",
+    "label_disclosure": "INFORMATIVE",
+    "label_risk": "NEUTRAL",
+    "label_subcategory": "NONE"
+  },
+  {
+    "id": "train_205",
+    "text": "[PUBLIC_FIGURE] Kulasekara [/PUBLIC_FIGURE] new film release karanawa August eke",
+    "label_disclosure": "INFORMATIVE",
+    "label_risk": "NEUTRAL",
+    "label_subcategory": "NONE"
+  },
+  {
+    "id": "train_206",
+    "text": "[PUBLIC_FIGURE] Kulasekara [/PUBLIC_FIGURE] ge new film release date August කියලා announce කලා",
+    "label_disclosure": "INFORMATIVE",
+    "label_risk": "NEUTRAL",
+    "label_subcategory": "NONE"
+  },
+  {
+    "id": "train_207",
+    "text": "[GOVT_OFFICIAL] නාගරික සංවර්ධන අධිකාරිය [/GOVT_OFFICIAL] නව ව්‍යාපෘතියක් ආරම්භ කලා",
+    "label_disclosure": "INFORMATIVE",
+    "label_risk": "NEUTRAL",
+    "label_subcategory": "NONE"
+  },
+  {
+    "id": "train_208",
+    "text": "[GOVT_OFFICIAL] UDA [/GOVT_OFFICIAL] new urban development project announce kala",
+    "label_disclosure": "INFORMATIVE",
+    "label_risk": "NEUTRAL",
+    "label_subcategory": "NONE"
+  },
+  {
+    "id": "train_209",
+    "text": "[GOVT_OFFICIAL] UDA [/GOVT_OFFICIAL] new project එකක් launch කලා Pettah area එකේ",
+    "label_disclosure": "INFORMATIVE",
+    "label_risk": "NEUTRAL",
+    "label_subcategory": "NONE"
+  }
+]

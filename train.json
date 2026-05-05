@@ -1,0 +1,55 @@
+[
+   {
+    "Text": "මධ්‍යම තැපැල් හුවමාරුව හි සිටින ජේ. බණ්ඩාර වෙත 8001234567 පෞද්ගලික ගිණූමට මුදල් යවන්න.",
+    "Entities": [
+      {"id": 0,"Span": [0,22]},
+      {"id": 1,"Span": [32,42]},
+      {"id": 2,"Span": [70,80]}
+    ],
+    "Exposer":{
+      "public":[0],
+      "semi":[],
+      "private":[1,2],
+      "total":"private"
+    },
+    "Linking": [
+      {
+        "group": [0,1,2],
+        "level": "PERSONAL"
+      }
+    ], 
+    "Content": {
+      "Action":{
+        "span":[88,99],
+        "type":"MONETARY"
+      },
+      "Context":"BANK_TRANSC"
+    }
+  },
+     {
+    "Text": "ජගත් කුමාර විසින් ඔහුගේ සහෝදරයා වන රොහාන් ඝාතනය කරා",
+    "Entities": [
+      {"id": 0,"Span": [0,22]},
+      {"id": 1,"Span": [32,42]}
+    ],
+    "Exposer":{
+      "public":[],
+      "semi":[],
+      "private":[1,2],
+      "total":"private"
+    },
+    "Linking": [
+      {
+        "group": [0,1],
+        "level": "RELATIONAL"
+      }
+    ],
+    "Content": {
+      "Action":{
+        "span":[56,65],
+        "type":"CRIME"
+      },
+      "Context":"CRIME"
+    }
+  }
+]

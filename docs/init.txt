@@ -1,0 +1,25 @@
+Structure of the Information (How PII is expressed)
+
+1. Atomic PII (APII) - About one person
+2. Compound PII (CPII) - Involves multiple people        Example: “John is married to Mary”
+
+Self vs Relational PII
+
+Self-PII (SPII) → about the person directly      “John is depressed”
+Relational PII → “John owns a house” ,  “John works with Mary”
+
+=======================================================================================
+
+Type of Information (Intrinsic Sensitivity)
+
+Highly sensitive (intimate) - Medical, sexual, psychological data
+Judgmental / harmful - Crimes, behavior, negative traits
+Biographical / indirect - Name, job, location (lower risk alone)
+
+
+=======================================================================================
+
+Semantic Content (What is being said)  - Context/Meaning matters more than the entity itself
+
+“John works” → low risk
+“John committed fraud” → high risk

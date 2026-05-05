@@ -1,0 +1,34 @@
+[
+    {
+      "text": "John and Mary are involved in a fraud investigation",
+      "subject": "John and Mary",
+      "action": {
+        "text": "involved", "category": "NEUTRAL"
+      },
+      "context": [
+        {"text": "fraud", "category": "CRIME"},
+        {"text": "investigation", "category": "CRIME"}
+      ]
+    },
+    {
+      "text": "John and Mary are two siblings",
+      "subject": "John and Mary",
+      "action": {
+        "text": "are", "category": "NEUTRAL"
+      },
+      "context": [
+        {"text": "siblings", "category": "RELATION"}
+      ]
+    }, 
+    {
+      "text": "John stole money from his brother",
+      "subject": "John",
+      "action": {
+        "text": "stole", "category": "CRIME"
+      },
+      "context": [
+        {"text": "money", "category": "MONETARY"}
+      ]
+    }
+    
+]
