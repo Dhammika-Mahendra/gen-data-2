@@ -1,0 +1,24 @@
+Risk levels
+
+high:- (PII driven patterns)
+A. Financial transactions
+B. Account identity updates
+C. Fraud
+D. Legal
+
+mid:- (Non PII driven patterns)
+A. Issues & complaints & feedback
+B. general advise 
+C. General Account Inquiries, approvals
+E. banking operations (Non-transactional) - send this to IT department, job transfer
+
+low:-
+A. General FAQs - how banking things are done/ GK
+B. Bank product descriptions, marketing - specific things they have
+C. Banking info announcement - times, rates, operating hours etc info updates
+
+
+
+
+
+
