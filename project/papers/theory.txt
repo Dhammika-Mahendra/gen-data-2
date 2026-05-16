@@ -1,0 +1,54 @@
+https://chatgpt.com/share/6a05cb09-e250-83a9-8bb7-286e9f41a321
+[Experimentation with Personal Identifiable Information - 2012]
+
+Privacy sensitivity ≠ PII detection
+
+The paper's major contribution - 
+Instead of evaluating whole sentences, break them into components. Then calculate sensitivity separately
+
+Final Risk =
+f(EntityTypeScore, EntityCount, ContextScore, ActionScore)
+
+S(x)=αS(d)+βS(c)+γS(r)
+
+S(d)= sensitivity of person
+S(c)= sensitivity of action
+S(r)= sensitivity of remaining information
+
+======================================================================================
+https://chatgpt.com/share/6a05cc4e-f3e8-83a8-ba78-b2baf566455b
+[SPY Enhancing Privacy with Synthetic PII Detection Dataset]
+
+systems must determine whether that entity actually represents privacy-sensitive information
+PII ≠ NER
+Not all named entities are privacy-sensitive
+Context changes privacy meaning (for the same entity type)
+Privacy depends on the relationship between information and the person - author relationship
+Publicly available information and personal information should be separated
+Privacy protection should consider contextual meaning
+
+steps:- 
+Step 1: Identify candidate entities
+Step 2: Seperate personal/ non personal
+Step 3: Evaluate detection quality
+
+=================================================================================
+https://chatgpt.com/share/6a06d9f3-5124-83ec-a8e7-0ed33a38c92c
+[Distilling Human-Aligned Privacy Sensitivity Assessment]
+
+does not measure privacy risk in a strict mathematical or security sense
+estimate perceived privacy risk using a human-aligned privacy sensitivity score (1–5)
+
+detect by 
+1.Direct/Indirect identifiers
+2.Topic sensitivity (context)
+
+calculation --> original score - score without piis = increase of privacy
+
+===================================================================================
+https://chatgpt.com/share/6a06de34-3904-83ec-9968-af6551f1a599
+[PRvL Quantifying the Capabilities and Risks of LLM for PII Redaction]
+
+to measure the risk (after PII are masked)
+
+SPriV= masked tokens/ total tokens

@@ -1,0 +1,27 @@
+[Towards Scalable Privacy-Aware Text Classification A DistilBERT-Based Approach to PII Identification]
+
+build a lightweight BERT model for PII risk scoring rather than huge LLM infrastructure
+
+Detect PII types
+Count and classify them
+Produce a confidentiality/privacy risk estimate
+
+=====================================================================================================
+[How do we measure privacy in text A survey of text anonymization metrics]
+
+How to evaluate / quantify privacy risk in text
+
+Identifiability → can a person be recognized?
+Linkability → can text be linked to external data?
+Inference risk → can hidden attributes be guessed?
+PII exposure level → how much sensitive information exists?
+
+=====================================================================================================
+[Beyond k-Anonymity_ A Decision Theoretic Framework for Assessing]
+
+designing a risk formula
+
+=====================================================================================================
+[Neural text sanitization with privacy risk indicators an empirical analysis]
+
+empirical evaluation of risk
