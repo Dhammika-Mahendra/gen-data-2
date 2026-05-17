@@ -1,0 +1,5 @@
+unstructured data inputs
+eg:- phone:93282823, id:kjnjkdfN
+
+what if the entities are not PIIs (because of the context)
+eg:- colombo, kandy, galle
