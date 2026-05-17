@@ -5,7 +5,7 @@ from pathlib import Path
 
 
 TXT_FILE_PATH = Path(
-	r"C:\Users\wmdha\Documents\UoM BSc IT\Lessons\L4S7\Reserach - Group project\Code\gen data 2\docs\categories\1_high\SIN\B.txt"
+	r"C:\Users\wmdha\Documents\UoM BSc IT\Lessons\L4S7\Reserach - Group project\Code\gen data 2\gen\rawdata.txt"
 )
 
 

@@ -5,9 +5,9 @@ from pathlib import Path
 
 # Hardcoded directory containing the source .txt files.
 SOURCE_DIR = Path(
-	r"C:\Users\wmdha\Documents\UoM BSc IT\Lessons\L4S7\Reserach - Group project\Code\gen data 2\docs\categories\1_high"
+	r"C:\Users\wmdha\Documents\UoM BSc IT\Lessons\L4S7\Reserach - Group project\Code\gen data 2\docs\categories\3_low"
 )
-TARGET_FILE_NAME = "B.txt"
+TARGET_FILE_NAME = "A.txt"
 OUTPUT_FILE = Path(__file__).resolve().parent / "shuffled.txt"
 
 

@@ -1,0 +1,1500 @@
+Fixed Deposit එකක් කල් පිරීමට පෙර මුදල් ලබාගතහොත් Interest Rate එක අඩු විය හැක.
+ස්ථාවර තැන්පතුවක් කල් පිරීමට පෙර මුදල් ලබාගතහොත් පොලී අනුපාතය අඩු විය හැක.
+Sthavara thanpathuwak kal pireemata pera mudal labagathahoth polee anupathaya adu wiya haeka.
+ATM Card එකක PIN Number එක කිසිවිටෙකත් වෙනත් අයෙකු සමඟ Share කර නොගත යුතුය.
+ඒ.ටී.එම්. කාඩ්පතක පින් අංකය කිසිවිටෙකත් වෙනත් අයෙකු සමඟ හුවමාරු කර නොගත යුතුය.
+A.T.M. kardpathaka pin ankaya kisiwitakath wenath ayeku samaga huwamaru kara nogatha yuthuya.
+Letter of Credit ජාත්‍යන්තර වෙළඳාමේදී ගනුදෙනුකරුවන්ගේ Trust එක තහවුරු කිරීමට බහුලව භාවිත වේ.
+ණයවර ලිපි ජාත්‍යන්තර වෙළඳාමේදී ගනුදෙනුකරුවන්ගේ විශ්වාසය තහවුරු කිරීමට බහුලව භාවිත වේ.
+Nayawara lipi jaathyanthara weladhameedi ganudenukaruwange wishwasaya thahawuru kireemata bahulawa bhawitha we.
+Current Account එකක පවතින මුදල ඉක්මවා මුදල් ලබාගැනීමට Overdraft පහසුකම භාවිතා කළ හැකියි.
+ජංගම ගිණුමක පවතින මුදල ඉක්මවා මුදල් ලබාගැනීමට වැයිරෑම් පහසුකම භාවිතා කළ හැකියි.
+Jangama ginumaka pawathina mudala ikmawa mudal labaganeemata wayiram pahasukama bhawitha kala haekiyi.
+සාමාන්‍යයෙන් Savings Account එකකට වඩා Fixed Deposit එකක් සඳහා බැංකුවලින් වැඩි Interest Rate එකක් ලබා දෙයි.
+සාමාන්‍යයෙන් ඉතුරුම් ගිණුමකට වඩා ස්ථාවර තැන්පතුවක් සඳහා බැංකුවලින් වැඩි පොලී අනුපාතයක් ලබා දෙයි.
+Saamanyaen ithurum ginumakata wada sthavara thanpathuwak sadaha baankuwalin wadi polee anupathayak laba dheyi.
+බැංකුවකින් Loan එකක් ලබාගැනීමේදී අපගේ Credit History එක ඉතා වැදගත් සාධකයක් වේ.
+බැංකුවකින් ණයක් ලබාගැනීමේදී අපගේ ණය ඉතිහාසය ඉතා වැදගත් සාධකයක් වේ.
+Baankuwakin nayak labaganeemeedi apage naya ithihasaya itha wagath sadhakayak we.
+කිසියම් Cheque එකක් මාරු කළ හැක්කේ එහි සඳහන් කර ඇති දිනයේ සිට මාස හයක් යනතුරු පමණි.
+කිසියම් චෙක්පතක් මාරු කළ හැක්කේ එහි සඳහන් කර ඇති දිනයේ සිට මාස හයක් යනතුරු පමණි.
+Kisiyam checkpathak maru kala haekke ehi sadhan karathi dhinaye sita maasa hayak yanathuru pamani.
+Online Banking හරහා ඕනෑම වේලාවක නිවසේ සිටම Bill Payments කිරීමේ හැකියාව පවතී.
+අන්තර්ජාල බැංකුකරණය හරහා ඕනෑම වේලාවක නිවසේ සිටම බිල්පත් ගෙවීමේ හැකියාව පවතී.
+Antharjaala baankukaranya haraha onama welawaka niwase sitama bilpath geweeme hakiyawa pawathi.
+Minor Account එකක පාලනය දරුවාට වයස අවුරුදු 18 පිරුණු පසු සම්පූර්ණයෙන්ම ඔහු හෝ ඇය සතු වේ.
+බාලවයස්කාර ගිණුමක පාලනය දරුවාට වයස අවුරුදු 18 පිරුණු පසු සම්පූර්ණයෙන්ම ඔහු හෝ ඇය සතු වේ.
+Baalawayiskara ginumaka paalanaya dharuwata wayasa awurudu 18 pirunu pasu sampurnayenma ohu ho aya sathu we.
+Foreign Currency Account නඩත්තු කිරීමේදී Exchange Rates වල වෙනස්වීම් සෘජුවම බලපායි.
+විදේශ මුදල් ඉතුරුම් ගිණුම් නඩත්තු කිරීමේදී ගෝලීය මුදල් ඒකකවල අගය වෙනස්වීම් සෘජුවම බලපායි.
+Widesha mudal ithurum ginum nadahaththu kireemeedi goleeya mudal ekakawala agaya wenasweem sujuwama balapaayi.
+ඔබගේ Bank Account Details හෝ OTP Code දුරකථන ඇමතුම් මඟින් ඉල්ලන කිසිවෙකුට ලබානොදෙන්න.
+ඔබගේ බැංකු ගිණුම් විස්තර හෝ ඕ.ටී.පී. රහස්පද දුරකථන ඇමතුම් මඟින් ඉල්ලන කිසිවෙකුට ලබානොදෙන්න.
+Obage baanku ginum wisthara ho O.T.P. rahaspadha dhurakathana aamathum mangin illana kisiwekuta labanodhenna.
+Gold Loan යනු කෙටි කාලීන මූල්‍ය අවශ්‍යතා පියවා ගැනීමට රන් භාණ්ඩ ඇපයට තබා ලබාගන්නා ණය ක්‍රමයකි.
+උකස් අත්තිකාරම් යනු කෙටි කාලීන මූල්‍ය අවශ්‍යතා පියවා ගැනීමට රන් භාණ්ඩ ඇපයට තබා ලබාගන්නා ණය ක්‍රමයකි.
+Ukas aththikaaram yanu keti kaaleena moolya awashyatha piyawa ganeemata ran bhaanda aapayata thaba labaganna naya kramayaki.
+සෑම Bank Branch එකකටම අනන්‍ය වූ Branch Code එකක් පවතින අතර එය International Transfers වලට අත්‍යවශ්‍ය වේ.
+සෑම බැංකු ශාඛාවකටම අනන්‍ය වූ කේතයක් පවතින අතර එය ජාත්‍යන්තර මුදල් හුවමාරුවලට අත්‍යවශ්‍ය වේ.
+Saema baanku shaakhawakata ananya woo kethayak pawathina athara eya jaathyanthara mudal huwamaruwalata athyawashya we.
+Credit Card එකකින් ලබාගන්නා මුදල් Due Date එකට පෙර පියවීමෙන් අමතර පොලී අයවීම් වළක්වා ගත හැක.
+ක්‍රෙඩිට් කාඩ්පතකින් ලබාගන්නා මුදල් නියමිත දිනට පෙර පියවීමෙන් අමතර පොලී අයවීම් වළක්වා ගත හැක.
+Credit kardpathakin labaganna mudal niyamitha dhinata pera piyawa meen amathara polee ayeweem walakwa gatha haeka.
+බැංකුවක තැන්පත් කරන මුදල් සඳහා Central Bank එක මඟින් යම් උපරිම සීමාවකට යටත්ව Deposit Insurance එකක් සපයයි.
+බැංකුවක තැන්පත් කරන මුදල් සඳහා ශ්‍රී ලංකා මහ බැංකුව මඟින් යම් උපරිම සීමාවකට යටත්ව රක්ෂණ ආවරණයක් සපයයි.
+Baankuwaka thanpath karana mudal sadaha Shree Lanka Maha Baankuwa mangin yam uparima seemawakata yathatwa rakshana aawaranayak sapayayi.
+Joint Account එකක් ආරම්භ කිරීමේදී එය ක්‍රියාත්මක කරන්නේ ඕනෑම අයෙකුට ද නැතහොත් සියලු දෙනාගේම Signature එකෙන්ද යන්න තීරණය කළ යුතුය.
+ඒකාබද්ධ ගිණුමක් ආරම්භ කිරීමේදී එය ක්‍රියාත්මක කරන්නේ ඕනෑම අයෙකුට ද නැතහොත් සියලු දෙනාගේම අත්සනින්ද යන්න තීරණය කළ යුතුය.
+Ekaabadhda ginumak aarambha kireemeedi eya kriyaathmaka karanne onama ayekuta dha naethahoth siyalu dhenagema athsanindha yanna theeranaya kala yuthuya.
+Debit Card එකක් මඟින් ගනුදෙනු කිරීමේදී මුදල් කැපවන්නේ සෘජුවම ඔබගේ Savings හෝ Current Account එකෙනි.
+ඩෙබිට් කාඩ්පතක් මඟින් ගනුදෙනු කිරීමේදී මුදල් කැපවන්නේ සෘජුවම ඔබගේ ඉතුරුම් හෝ ජංගම ගිණුමෙනි.
+Debit kardpathak mangin ganudenu kireemeedi mudal kapawanne sujuwama obage ithurum ho jangama ginumeni.
+දීර්ඝ කාලයක් තිස්සේ කිසිදු Transaction එකක් සිදුනොකළ ගිණුම් Dormant Accounts ලෙස වර්ගීකරණය කෙරේ.
+දීර්ඝ කාලයක් තිස්සේ කිසිදු ගනුදෙනුවක් සිදුනොකළ ගිණුම් අක්‍රිය ගිණුම් ලෙස වර්ගීකරණය කෙරේ.
+Deergha kaalayak thissa kisidu ganudenuwak sidhunokala ginum akriya ginum lesa wargaikaranya kere.
+Bank Loan Interest Rates, Fixed හෝ Variable ලෙස ක්‍රම දෙකකට පැවතිය හැකිය.
+බැංකු ණය පොලී අනුපාත ස්ථාවර හෝ විචල්‍ය ලෙස ක්‍රම දෙකකට පැවතිය හැකිය.
+Baanku naya polee anupatha sthavara ho wichalya lesa krama dhekakata pawathiya hakiya.
+Cheque එකක් Cross කිරීම මඟින් එම Cheque එකෙහි ආරක්ෂාව ඉහළ යන අතර එය Account එකකට පමණක් Deposit කළ යුතු වේ.
+චෙක්පතක් හරස් කිරීම මඟින් එම චෙක්පතෙහි ආරක්ෂාව ඉහළ යන අතර එය ගිණුමකට පමණක් තැන්පත් කළ යුතු වේ.
+Checkpathak haras kireema mangin ema checkpathahi aarakshawa ihala yana athara eya ginumakata pamanak thanpath kala yuthu we.
+Fixed Deposit එකක් Monthly Interest ලබාගන්නා පරිදි හෝ Maturity එකේදී පොලිය එකතු වන පරිදි ආරම්භ කළ හැක.
+ස්ථාවර තැන්පතුවක් මාසිකව පොලිය ලබාගන්නා පරිදි හෝ කල් පිරෙන විට පොලිය එකතු වන පරිදි ආරම්භ කළ හැක.
+Sthavara thanpathuwak maasikawa poliya labaganna paridhi ho kal pirena wita poliya ekathu wana paridhi aarambha kala haeka.
+බැංකුවකින් Housing Loan එකක් ලබාගැනීමේදී අදාළ දේපළෙහි ඔප්පු තිරප්පු බැංකුව වෙත ඇප වශයෙන් තැබිය යුතුය.
+බැංකුවකින් නිවාස ණයක් ලබාගැනීමේදී අදාළ දේපළෙහි ඔප්පු තිරප්පු බැංකුව වෙත ඇප වශයෙන් තැබිය යුතුය.
+Baankuwakin niwasa nayak labaganeemeedi adhaala dhepalae oppu thirappu baankuwa wetha aapa washinga thabiya yuthuya.
+Online සිදුකරන Card Transactions වඩාත් ආරක්ෂිත කිරීමට OTP Code තාක්ෂණය භාවිත වේ.
+අන්තර්ජාලය හරහා සිදුකරන කාඩ්පත් ගනුදෙනු වඩාත් ආරක්ෂිත කිරීමට ඕ.ටී.පී. කේත තාක්ෂණය භාවිත වේ.
+Antharjaalaya haraha sidhukarana kardpath ganudenu wadaath aarakshitha kireemata O.T.P. ketha thakshanya bhawitha we.
+ATM Machine එකකින් දිනකට ලබාගත හැකි උපරිම මුදල් ප්‍රමාණය බැංකුව සහ Card Type එක අනුව වෙනස් වේ.
+ඒ.ටී.එම්. යන්ත්‍රයකින් දිනකට ලබාගත හැකි උපරිම මුදල් ප්‍රමාණය බැංකුව සහ කාඩ්පත් වර්ගය අනුව වෙනස් වේ.
+A.T.M. yanthrayakin dhinakata labagatha haki uparima mudal pramanaya baankuwa saha kardpath wargaya anuwa wenas we.
+Cheque එකක පිටුපස අත්සන තැබීම මඟින් එම Cheque එකේ අයිතිය වෙනත් අයෙකුට පැවරීමේ හැකියාව පවතී.
+චෙක්පතක පිටුපස අත්සන තැබීම මඟින් එම චෙක්පතේ අයිතිය වෙනත් අයෙකුට පැවරීමේ හැකියාව පවතී.
+Checkpathaka pitupasa athsana thabeema mangin ema checkpathe aithiya wenath ayekuuta pawareeme hakiyawa pawathi.
+Credit Card එකක් මඟින් ATM Machine එකකින් මුදල් ලබාගැනීමේදී ඉහළ Service Charge එකක් සහ පොලියක් අය කෙරේ.
+ක්‍රෙඩිට් කාඩ්පතක් මඟින් ඒ.ටී.එම්. යන්ත්‍රයකින් මුදල් ලබාගැනීමේදී ඉහළ සේවා ගාස්තුවක් සහ පොලියක් අය කෙරේ.
+Credit kardpathakin mangin A.T.M. yanthrayakin mudal labaganeemeedi ihala sewa gaasthuwak saha poliyak aya kere.
+සාමාන්‍යයෙන් Current Accounts සඳහා බැංකු මඟින් පොලියක් ගෙවනු නොලැබේ.
+සාමාන්‍යයෙන් ජංගම ගිණුම් සඳහා බැංකු මඟින් පොලියක් ගෙවනු නොලැබේ.
+Saamanyaen jangama ginum sadaha baanku mangin poliyak gewanu nolabe.
+බැංකු මඟින් නිකුත් කරන Monthly Bank Statements පරීක්ෂා කිරීමෙන් තමාගේ වියදම් රටාව මැනවින් කළමනාකරණය කරගත හැක.
+බැංකු මඟින් නිකුත් කරන මාසික ගිණුම් ප්‍රකාශන පරීක්ෂා කිරීමෙන් තමාගේ වියදම් රටාව මැනවින් කළමනාකරණය කරගත හැක.
+Baanku mangin nikuth karana maasika ginum prakashana pareeksha kireemen thamage wiyadham ratawa manawin kalamanaakaranya karagatha haeka.
+විදේශ රැකියාවල නියුතු ශ්‍රී ලාංකිකයන් සඳහාම වෙන්වූ විශේෂ බදු සහන සහිත Foreign Currency Accounts පවතී.
+විදේශ රැකියාවල නියුතු ශ්‍රී ලාංකිකයන් සඳහාම වෙන්වූ විශේෂ බදු සහන සහිත විදේශ ව්‍යවහාර මුදල් ගිණුම් පවතී.
+Widesha rakiyawala niyuthu Shree Laankikayan sadhama wenwoo wishesha badhu sahana sahitha widesha wyawahara mudal ginum pawathi.
+Loan එකක් නියමිත දිනට පියවීමට අපොහොසත් වුවහොත් Late Payment Fees එකතු විය හැක.
+ණය මුදලක් නියමිත දිනට පියවීමට අපොහොසත් වුවහොත් ප්‍රමාද ගාස්තු එකතු විය හැක.
+Naya mudalak niyamitha dhinata piyawaemata aposath wuwahoth pramaadha gaasthu ekathu wiya haeka.
+ඔබගේ Debit හෝ Credit Card එක අස්ථානගත වූ වහාම බැංකු Customer Care එක අමතා එය Block කළ යුතුය.
+ඔබගේ ඩෙබිට් හෝ ක්‍රෙඩිට් කාඩ්පත අස්ථානගත වූ වහාම බැංකු පාරිභෝගික සේවා අංශය අමතා එය අක්‍රිය කළ යුතුය.
+Obage Debit ho Credit kardpatha asthaanagatha woo wahaama baanku paaribhogika sewa anshaya amatha eya akriya kala yuthuya.
+ATM මඟින් Cash Withdrawals වලට අමතරව Account Balance එක පරීක්ෂා කිරීම සහ Cash Deposits ද සිදුකළ හැකියි.
+ස්වයංක්‍රීය ටෙලර් යන්ත්‍ර මඟින් මුදල් ලබාගැනීමට අමතරව ගිණුම් ශේෂය පරීක්ෂා කිරීම සහ මුදල් තැන්පත් කිරීමද සිදුකළ හැකියි.
+Swayang kriya Teller yanthra mangin mudal labaganeemata amatharawa ginum sheshaya pareeksha kireema saha mudal thanpath kireemdha sidhukala hakiyi.
+Grace Period එක තුළ Credit Card එකේ සම්පූර්ණ Due Amount එක ගෙවා නිම කරන්නේ නම් කිසිදු පොලියක් අය නොකෙරේ.
+ණය සහන කාලය තුළ ක්‍රෙඩිට් කාඩ්පතේ සම්පූර්ණ හිඟ මුදල ගෙවා නිම කරන්නේ නම් කිසිදු පොලියක් අය නොකෙරේ.
+Naya sahana kaalaya thula Credit kardpathe sampurna hinga mudala gewa nima karanne nam kisidu poliyak aya nokere.
+Fixed Deposit Certificate එකක් ඇපයට තබා ඉතා පහසුවෙන් සහ අඩු Interest Rate එකකට Bank Loan එකක් ලබාගත හැක.
+ස්ථාවර තැන්පතු සහතිකයක් ඇපයට තබා ඉතා පහසුවෙන් සහ අඩු පොලී අනුපාතයකට බැංකු ණයක් ලබාගත හැක.
+Sthavara thanpathu sahathikayak aapayata thaba itha pahasuwen saha adu polee anupathayakata baanku nayak labagatha haeka.
+Standing Orders මඟින් මාසික රක්ෂණ වාරික හෝ Bill Payments ගිණුමෙන් ස්වයංක්‍රීයවම කැපවීමට සැලැස්විය හැකිය.
+ස්ථාවර නියෝග මඟින් මාසික රක්ෂණ වාරික හෝ බිල්පත් ගිණුමෙන් ස්වයංක්‍රීයවම කැපවීමට සැලැස්විය හැකිය.
+Sthavara niyoga mangin maasika rakshana waarika ho bilpath ginumen swayangkriyawama kapawiemata salaswiya hakkiya.
+බැංකුවක Safe Deposit Box පහසුකම ලබාගැනීම වෙනුවෙන් වාර්ෂිකව ගාස්තුවක් ගෙවිය යුතුය.
+බැංකුවක සුරක්ෂිත තැන්පතු සේප්පු පහසුකම ලබාගැනීම වෙනුවෙන් වාර්ෂිකව ගාස්තුවක් ගෙවිය යුතුය.
+Baankuwaka surakshitha thanpathu seppu pahasukama labaganeema wenuwen waarshikawa gaasthuwak gewiya yuthuya.
+කිසියම් Account එකක Minimum Balance එක පවත්වා ගැනීමට අපොහොසත් වුවහොත් බැංකුව මඟින් Maintenance Fees අයකරනු ලබයි.
+කිසියම් ගිණුමක අවම ශේෂය පවත්වා ගැනීමට අපොහොසත් වුවහොත් බැංකුව මඟින් නඩත්තු ගාස්තු අයකරනු ලබයි.
+Kisiyam ginumaka awama sheshaya pawathwa ganeemata aposath wuwahoth baankuwa mangin nadahaththu gaasthu ayakaranu labayi.
+Cheque එකක ලියා ඇති මුදල අංකයෙන් සහ අකුරෙන් එකිනෙකට වෙනස් නම්, බැංකුව විසින් එම Cheque එක Return කරනු ලැබේ.
+චෙක්පතක ලියා ඇති මුදල අංකයෙන් සහ අකුරෙන් එකිනෙකට වෙනස් නම්, බැංකුව විසින් එම චෙක්පත ප්‍රතික්ෂේප කරනු ලැබේ.
+Checkpathaka liya athi mudala ankayen saha akuren ekinekata wenas nam, baankuwa wisin ema checkpatha prathikshepa karanu labe.
+Central Bank එක විසින් රටේ උද්ධමනය පාලනය කිරීම සඳහා වරින් වර Policy Interest Rates සංශෝධනය කරනු ලබයි.
+මහ බැංකුව විසින් රටේ උද්ධමනය පාලනය කිරීම සඳහා වරින් වර ප්‍රතිපත්තිමය පොලී අනුපාත සංශෝධනය කරනු ලබයි.
+Maha Baankuwa wisin rate udhdamanya paalanaya kireema sadaha warin wara prathipaththimaya polee anupatha sanshodhanaya karanu labayi.
+Digital Banking Apps භාවිත කිරීමේදී Public Wi-Fi ජාල භාවිත කිරීමෙන් වැළකී සිටීම Account එකේ ආරක්ෂාවට හිතකර වේ.
+ඩිජිටල් බැංකුකරණ යෙදවුම් භාවිත කිරීමේදී පොදු වයිෆයි ජාල භාවිත කිරීමෙන් වැළකී සිටීම ගිණුමේ ආරක්ෂාවට හිතකර වේ
+Digital baankukaranya yedawum bhawitha kireemeedi podhu Wi-Fi jaala bhawitha kireemen walaki siteema ginume aarakshawata hithakara we.
+Fixed Deposit එකක් කල් පිරුණු පසු එය Automatically ම නැවත Renew වන පරිදි බැංකුවට උපදෙස් ලබා දිය හැක.
+ස්ථාවර තැන්පතුවක් කල් පිරුණු පසු එය ස්වයංක්‍රීයවම නැවත අලුත් වන පරිදි බැංකුවට උපදෙස් ලබා දිය හැක.
+Sthavara thanpathuwak kal pirunu pasu eya swayangkriyawama nawatha aluth wana paridhi baankuwata upadhes laba dhiya haeka.
+බැංකු මඟින් නිකුත් කරන සියලුම Cheques වල වලංගු කාලය සාමාන්‍යයෙන් මාස හයකට පමණක් සීමා වේ.
+බැංකු මඟින් නිකුත් කරන සියලුම චෙක්පත්වල වලංගු කාලය සාමාන්‍යයෙන් මාස හයකට පමණක් සීමා වේ.
+Baanku mangin nikuth karana siyalu checkpathwala walangu kaalaya saamanyaen maasa hayakata pamanak seema we.
+Letter of Credit එකක් මඟින් විදේශීය අපනයනකරුවෙකුට නියමිත වේලාවට මුදල් ලැබෙන බවට බැංකුව විසින් Guarantee එකක් ලබා දෙයි.
+ණයවර ලිපියක් මඟින් විදේශීය අපනයනකරුවෙකුට නියමිත වේලාවට මුදල් ලැබෙන බවට බැංකුව විසින් සහතිකයක් ලබා දෙයි.
+Nayawara lipiyak mangin widesheeya apanayanakaruyekuuta niyamitha welawata mudal labena bawata baankuwa wisin sahathikayak laba dheyi.
+Central Bank එකේ නියාමනයට ලක් නොවන මූල්‍ය ආයතනවල මුදල් තැන්පත් කිරීම ඉහළ Risk එකක් සහිත ක්‍රියාවකි.
+ශ්‍රී ලංකා මහ බැංකුවේ නියාමනයට ලක් නොවන මූල්‍ය ආයතනවල මුදල් තැන්පත් කිරීම ඉහළ අවදානමක් සහිත ක්‍රියාවකි.
+Shree Lanka Maha Baankuwe niyaamanayata lak nowana moolya aayathanawala mudal thanpath kireema ihala awadhanamak sahitha kriyaawaki.
+Credit Card එකක් සඳහා Annual Fee එකක් සහ Insurance Fee එකක් අය විය හැකිය.
+ක්‍රෙඩිට් කාඩ්පතක් සඳහා වාර්ෂික කාඩ්පත් ගාස්තුවක් සහ රක්ෂණ ගාස්තුවක් අය විය හැකිය.
+Credit kardpathak sadaha waarshika kardpath gaasthuwak saha rakshana gaasthuwak aya wiya haekiya.
+Joint Account එකක සිටින එක් පාර්ශවකරුවෙකු මියගියහොත් එම ගිණුමේ අයිතිය තීරණය වන්නේ ගිණුම ආරම්භ කිරීමේදී අත්සන් කළ Terms and Conditions මතය.
+ඒකාබද්ධ ගිණුමක සිටින එක් පාර්ශවකරුවෙකු මියගියහොත් එම ගිණුමේ අයිතිය තීරණය වන්නේ ගිණුම ආරම්භ කිරීමේදී අත්සන් කළ කොන්දේසි මතය.
+Ekaabadhda ginumaka bandana ek paarshwakaruyeku miyagahoth ema ginume aithiya theeranaya wanne ginuma aarambha kireemeedi athsan kala kondhesi mathaya.
+Online Banking Password එක අවම වශයෙන් මාස කිහිපයකට වරක්වත් වෙනස් කිරීම Account එකේ ආරක්ෂාව තහවුරු කරයි.
+අන්තර්ජාල බැංකුකරණ මුරපදය අවම වශයෙන් මාස කිහිපයකට වරක්වත් වෙනස් කිරීම ගිණුමේ ආරක්ෂාව තහවුරු කරයි.
+Antharjaala baankukaranya murapadha awama washayen maasa kipaayakata warakwath wenas kireema ginume aarakshawa thahawuru karayi.
+තැන්පතුකරුවෙකු මියගියහොත් ඔහුගේ ගිණුමේ ඇති මුදල් නීත්‍යානුකූලව ලබාදීම සඳහා ගිණුම ආරම්භයේදීම Nominee කෙනෙකු ඇතුළත් කළ යුතුය.
+තැන්පතුකරුවෙකු මියගියහොත් ඔහුගේ ගිණුමේ ඇති මුදල් නීත්‍යානුකූලව ලබාදීම සඳහා ගිණුම ආරම්භයේදීම නම්කළ අයෙකු ඇතුළත් කළ යුතුය.
+Thanpathukaruyeku miyagahoth ohoge ginume athi mudal neethyaanukulawa labaadheema sadaha ginuma aarambhayedhee ma namkala ayeku aethulath kala yuthuya.
+Foreign Currency Savings Accounts වල පොලිය ගණනය කරනු ලබන්නේ අදාළ විදේශ මුදල් ඒකකයට අදාළ International Interest Rates පදනම් කරගෙනය.
+විදේශ විනිමය ඉතුරුම් ගිණුම්වල පොලිය ගණනය කරනු ලබන්නේ අදාළ විදේශ මුදල් ඒකකයට අදාළ ජාත්‍යන්තර පොලී අනුපාත පදනම් කරගෙනය.
+Widesha winimaya ithurum ginumwala poliya gananaya karanu labanne adhaala widesha mudal ekakata adhaala jaathyanthara polee anupatha padhanam karagena ya.
+Credit Score එකේ ඔබේ ලකුණු ප්‍රමාණය ඉහළ අගයක පැවතීම Loan එකක් ඉක්මනින් Approve වීමට උපකාරී වේ.
+ණය ශ්‍රේණිගත කිරීම් දර්ශකයේ ඔබේ ලකුණු ප්‍රමාණය ඉහළ අගයක පැවතීම ණයක් ඉක්මනින් අනුමත වීමට උපකාරී වේ.
+Naya shrenigathareem dharshakaye obe lakunu pramanaya ihala agayaka pawatheema nayak ikmanin anumatha weemata upakaaree we.
+ව්‍යාපාරික කටයුතු සඳහා දිනපතා සිදුකරන අසීමිත Transactions පහසු කිරීම වෙනුවෙන් Current Accounts විශේෂයෙන්ම නිර්මාණය කර ඇත.
+ව්‍යාපාරික කටයුතු සඳහා දිනපතා සිදුකරන අසීමිත ගනුදෙනු පහසු කිරීම වෙනුවෙන් ජංගම ගිණුම් විශේෂයෙන්ම නිර්මාණය කර ඇත.
+Wyawaasayika katayuthu sadaha dhinapatha sidhukarana aseemitha ganudenu pahasu kireema wenuwen jangama ginum wisheshayenma nirmaanaya kara aetha.
+Debit Card එකක් භාවිතයෙන් විදේශ රටකදී මුදල් ලබාගැනීමේදී Exchange Rate Conversion Fees එකතු වේ.
+ඩෙබිට් කාඩ්පතක් භාවිතයෙන් විදේශ රටකදී මුදල් ලබාගැනීමේදී විදේශ විනිමය පරිවර්තන ගාස්තු එකතු වේ.
+Debit kardpathak bhawithayen widesha ratakadee mudal labaganeemeedi widesha winimaya pariwarthana gaasthu ekathu we.
+Standing Order එකක් Cancel කිරීමට හෝ Amend කිරීමට අවශ්‍ය නම් ගනුදෙනුකරු විසින් බැංකුව වෙත ලිඛිතව දැනුම් දිය යුතුය.
+ස්ථාවර නියෝගයක් අවලංගු කිරීමට හෝ සංශෝධනය කිරීමට අවශ්‍ය නම් ගනුදෙනුකරු විසින් බැංකුව වෙත ලිඛිතව දැනුම් දිය යුතුය.
+Sthavara niyogayak awalangu kireemata ho sanshodhanaya kireemata awashya nam ganudenukaru wisin baankuwa wetha likhithawa dhanum dhiya yuthuya.
+බැංකුවකින් Personal Loan එකක් ලබාගැනීමේදී ස්ථාවර මාසික ආදායමක් පවතින බව තහවුරු කිරීමට Payslips ඉදිරිපත් කළ යුතුය.
+බැංකුවකින් පුද්ගලික ණයක් ලබාගැනීමේදී ස්ථාවර මාසික ආදායමක් පවතින බව තහවුරු කිරීමට වැටුප් වාර්තා ඉදිරිපත් කළ යුතුය.
+Baankuwakin pudhgalika nayak labaganeemeedi sthavara maasika aadhaayamak pawathina bawata thahawuru kireemata waetup waartha idhiripath kala yuthuya.
+සොරකම් කරන ලද හෝ ව්‍යාජ ලෙස සකස් කරන ලද Cheques මඟින් මුදල් ලබාගැනීමට උත්සාහ කිරීම බරපතල දඬුවම් ලැබිය හැකි වරදකි.
+සොරකම් කරන ලද හෝ ව්‍යාජ ලෙස සකස් කරන ලද චෙක්පත් මඟින් මුදල් ලබාගැනීමට උත්සාහ කිරීම බරපතල දඬුවම් ලැබිය හැකි වරදකි.
+Sorakam karana ladha ho wyaaja lesa sakas karana ladha checkpath mangin mudal labaganeemata uthsaha kireema barapathala dhaduwam labiya haki waradhaki.
+Safe Deposit Box එකක තැන්පත් කර ඇති දේපළවල රහස්‍යභාවය සහ ආරක්ෂාව බැංකුව විසින් උපරිමයෙන්ම සුරකිනු ලබයි.
+බැංකු සේප්පුවක තැන්පත් කර ඇති දේපළවල රහස්‍යභාවය සහ ආරක්ෂාව බැංකුව විසින් උපරිමයෙන්ම සුරකිනු ලබයි.
+Baanku seppuwaka thanpath kara athi dhepalaewala rahasyabhawaya saha aarakshawa baankuwa wisin uparimayenma surakinu labayi.
+Mobile Banking App හරහා ඕනෑම මොහොතක තමාගේ Account Balance එක නොමිලේම පරීක්ෂා කරගත හැක.
+ජංගම දුරකථන බැංකුකරණ යෙදවුම් හරහා ඕනෑම මොහොතක තමාගේ ගිණුම් ශේෂය නොමිලේම පරීක්ෂා කරගත හැක.
+Jangama dhurakathana baankukaranya yedawum haraha onama mohothaka thamage ginum sheshaya nomilema pareeksha karagatha haeka.
+Loan එකක් සඳහා අය කරන පොලිය Reducing Balance ක්‍රමයට ගණනය කරන්නේ නම් ගෙවිය යුතු මුළු පොලී ප්‍රමාණය අඩු වේ.
+ණය මුදලක් සඳහා අය කරන පොලිය ක්‍රමයෙන් අඩුවන ශේෂය මත ගණනය කරන්නේ නම් ගෙවිය යුතු මුළු පොලී ප්‍රමාණය අඩු වේ.
+Naya mudalak sadaha aya karana poliya kramayen aduwana sheshaya math gananaya karanne nam gewiya yuthu mulu polee pramanaya adu we.
+ATM Card එකක් Machine එක තුළ සිරවූ වහාම අදාළ බැංකුවේ Hotline එක අමතා ඒ පිළිබඳව පැමිණිලි කළ යුතුය.
+ඒ.ටී.එම්. කාඩ්පතක් යන්ත්‍රය තුළ සිරවූ වහාම අදාළ බැංකුවේ ක්ෂණික ඇමතුම් අංකය අමතා ඒ පිළිබඳව පැමිණිලි කළ යුතුය.
+A.T.M. kardpathak yanthraya thula sirawu wahaama adhaala baankuwe kshanika aamathum ankaya amatha e pilibadhawa paeminili kala yuthuya.
+පාරිභෝගිකයාගේ අනන්‍යතාවය තහවුරු කරගැනීම සඳහා Bank Account එකක් විවෘත කිරීමේදී KYC Process එක අනිවාර්යයෙන්ම සිදුකෙරේ.
+පාරිභෝගිකයාගේ අනන්‍යතාවය තහවුරු කරගැනීම සඳහා බැංකු ගිණුමක් විවෘත කිරීමේදී කේ.වයි.සී. ක්‍රියාවලිය අනිවාර්යයෙන්ම සිදුකෙරේ.
+Paaribhogikayaage ananyathawaya thahawuru karaganeema sadaha baanku ginumak wiwurtha kireemeedi K.Y.C. kriyaawaliya aniwaaryayenma sidhukere.
+Bank Account එකක් ආරම්භ කිරීම සඳහා NIC එක හෝ වලංගු Passport එකක් ඉදිරිපත් කිරීම අනිවාර්ය වේ.
+බැංකු ගිණුමක් ආරම්භ කිරීම සඳහා ජාතික හැඳුනුම්පත හෝ වලංගු විදේශ ගමන් බලපත්‍රයක් ඉදිරිපත් කිරීම අනිවාර්ය වේ.
+Baanku ginumak aarambha kireema sadaha jaathika haendununpatha ho walangu widesha gaman balapathrayak idhiripath kireema aniwaarya we.
+සාමාන්‍යයෙන් බොහෝ Bank Branches සතියේ දිනවල උදෑසන නවයේ සිට පස්වරු තුන දක්වා පාරිභෝගිකයින් සඳහා විවෘතව පවතී.
+සාමාන්‍යයෙන් බොහෝ බැංකු ශාඛා සතියේ දිනවල උදෑසන නවයේ සිට පස්වරු තුන දක්වා ගනුදෙනුකරුවන් සඳහා විවෘතව පවතී.
+Saamanyaen boho baanku shaakha sathiye dhinalawa udhaasana nawaye sita paswaru thuna dhakwa ganudenukaruwan sadaha wiwurthawa pawathee.
+ATM Machine මගින් දවසේ පැය විසිහතර පුරාම තම Account එකෙන් Cash Withdrawals සිදු කිරීමේ පහසුකම සපයා ඇත.
+ස්වයංක්‍රීය ටෙලර් යන්ත්‍ර මගින් දවසේ පැය විසිහතර පුරාම තම ගිණුමෙන් මුදල් ලබා ගැනීමේ පහසුකම සපයා ඇත.
+Swayangkriya Teller yanthra mangin dhawase paeya wisihatara puraama thama ginumen mudal laba ganeeme pahasukama sapaya aetha.
+Savings Accounts වල පවත්වාගෙන යන Balance එක මත බැංකුව විසින් පාරිභෝගිකයාට නිශ්චිත Interest එකක් ගෙවනු ලබයි.
+ඉතිරිකිරීමේ ගිණුම්වල පවත්වාගෙන යන ශේෂය මත බැංකුව විසින් පාරිභෝගිකයාට නිශ්චිත පොලියක් ගෙවනු ලබයි.
+Ithirikeeme ginumwala pawathwagena yana sheshaya math baankuwa wisin paaribhogikayaata nishchitha poliyak gewanu labayi.
+Fixed Deposits සඳහා සාමාන්‍ය Savings Accounts වලට වඩා වැඩි Interest Rate එකක් හිමි වන නමුත් එය නිශ්චිත කාලයකට යටත් වේ.
+ස්ථාවර තැන්පතු සඳහා සාමාන්‍ය ඉතිරිකිරීමේ ගිණුම් වලට වඩා වැඩි පොලී අනුපාතයක් හිමි වන නමුත් එය නිශ්චිත කාලයකට යටත් වේ.
+Sthavara thanpathu sadaha saamanya ithirikeeme ginum walata wada wadi polee anupathayak himi wana namuth eya nishchitha kaalayakata yathath we.
+පාරිභෝගිකයින්ට Housing Loans, Vehicle Loans හෝ ව්‍යාපාර කටයුතු පුළුල් කිරීම සඳහා විවිධ Loan Facilities ලබා ගත හැක.
+පාරිභෝගිකයින්ට නිවාස ඉදිකිරීම, වාහන මිලදී ගැනීම හෝ ව්‍යාපාර කටයුතු පුළුල් කිරීම සඳහා විවිධ ණය පහසුකම් ලබා ගත හැක.
+Paaribhogikaingta niwasa idhikireema, waahana milaedhee ganeema ho wyaapaara katayuthu pulul kireema sadaha wiwidha naya pahasukam laba gatha haeka.
+Online Banking හරහා බැංකුවට නොගොස් නිවසේ සිටම Account Balance එක පරීක්ෂා කිරීමේ සහ Fund Transfers සිදු කිරීමේ හැකියාව ඇත.
+අන්තර්ජාල බැංකුකරණය හරහා බැංකුවට නොගොස් නිවසේ සිටම ගිණුම් ශේෂය පරීක්ෂා කිරීමේ සහ මුදල් මාරු කිරීමේ හැකියාව ඇත.
+Antharjaala baankukaranya haraha baankuwata nogos niwase sitama ginum sheshaya pareeksha kireeme saha mudal maaru kireeme hakiyawa aetha.
+Credit Cards භාවිතා කර භාණ්ඩ හා සේවා මිලදී ගැනීමේදී එම මුදල පසුව ගෙවීමේ අවස්ථාව පාරිභෝගිකයාට හිමිවේ.
+ණයපත් භාවිතා කර භාණ්ඩ හා සේවා මිලදී ගැනීමේදී එම මුදල පසුව ගෙවීමේ අවස්ථාව පාරිභෝගිකයාට හිමිවේ.
+Nayapath bhawitha kara bhaannda ha sewa milaedhee ganeemeedi ema mudala pasuwa geweeme awasthawa paaribhogikayaata himiwe.
+මුදල් තැන්පත් කිරීමේදී සහ ලබා ගැනීමේදී එම Transactions නිවැරදිව සටහන් කර ගැනීම සඳහා Passbook එක Update කළ යුතුය.
+මුදල් තැන්පත් කිරීමේදී සහ ලබා ගැනීමේදී එම ගනුදෙනු නිවැරදිව සටහන් කර ගැනීම සඳහා බැංකු පොත යාවත්කාලීන කළ යුතුය.
+Mudal thanpath kireemeedi saha laba ganeemeedi ema ganudenu niwaredhiwa satahan kara ganeema sadaha baanku potha yaawathkaaleena kala yuthuya.
+තම Bank Card එකේ PIN Number එක හෝ Passwords කිසිදු විටෙක වෙනත් පාර්ශවයක් සමඟ Share නොකිරීමට වග බලා ගත යුතුය.
+තම බැංකු කාඩ්පතේ රහස්‍ය අංකය හෝ මුරපද කිසිදු විටෙක වෙනත් පාර්ශවයක් සමඟ බෙදා නොගැනීමට වග බලා ගත යුතුය.
+Thama baanku kardpathe rahasya ankaya ho murapadha kisidhu witeka wenath paarshwayak samaga bedha noganeemata waga bala gatha yuthuya.
+විශාල මුදල් ප්‍රමාණයක් හුවමාරු කිරීමේදී වඩාත් ආරක්ෂිත ක්‍රමයක් ලෙස Cheques භාවිතය ව්‍යාපාරිකයන් අතර ප්‍රචලිතව පවතී.
+විශාල මුදල් ප්‍රමාණයක් හුවමාරු කිරීමේදී වඩාත් ආරක්ෂිත ක්‍රමයක් ලෙස චෙක්පත් භාවිතය ව්‍යාපාරිකයන් අතර ප්‍රචලිතව පවතී.
+Wishala mudal pramaanayak huwamaru kireemeedi wadaath aarakshitha kramayak lesa checkpath bhawithaya wyaapaarikayan athara prachalithawa pawathee.
+පුද්ගලයින් දෙදෙනෙකුට හෝ කිහිප දෙනෙකුට එක්ව Joint Account එකක් ආරම්භ කර පවත්වාගෙන යාමේ හැකියාව පවතී.
+පුද්ගලයින් දෙදෙනෙකුට හෝ කිහිප දෙනෙකුට එක්ව හවුල් ගිණුමක් ආරම්භ කර පවත්වාගෙන යාමේ හැකියාව පවතී.
+Pudhgalayin dhedhenekuta ho kihipa dhenekuta ekwa hawul ginumak aarambha kara pawathwagena yaame hakiyawa pawathee.
+ශ්‍රී ලංකාවේ සියලුම Commercial Banks සහ Government බැංකු පාලනය වන්නේ Central Bank එකේ නීතිරීති වලට යටත් වය.
+ශ්‍රී ලංකාවේ සියලුම බලපත්‍රලාභී වාණිජ බැංකු සහ විශේෂිත බැංකු පාලනය වන්නේ ශ්‍රී ලංකා මහ බැංකුවේ නීතිරීති වලට යටත් වය.
+Shree Lankawe siyaluama balapathralaabhie waanija baanku saha wisheshitha baanku paalanaya wanne Shree Lanka Maha Baankuwe neethireethi walata yathath waya.
+හදිසි මූල්‍ය අවශ්‍යතා වලදී Gold Loan අඩු Interest Rate එකක් යටතේ ක්ෂණිකව මුදල් ලබා ගැනීමට බැංකු මගින් පහසුකම් සපයයි.
+හදිසි මූල්‍ය අවශ්‍යතා වලදී රන් භාණ්ඩ උකස් කර අඩු පොලී අනුපාතයක් යටතේ ක්ෂණිකව මුදල් ලබා ගැනීමට බැංකු මගින් පහසුකම් සපයයි.
+Hadhesi moolya awashyatha waladhee ran bhaannda ukas kara adu polee anupathayak yathathe kshanikawa mudal laba ganeemata baanku mangin pahasukam sapayayi.
+Current Account හිමියන්ට තම ගිණුමේ ඇති මුදලට වඩා වැඩි මුදලක් ලබා ගැනීම සඳහා Overdraft පහසුකම් ලබා දෙයි.
+ජංගම ගිණුම් හිමියන්ට තම ගිණුමේ ඇති මුදලට වඩා වැඩි මුදලක් ලබා ගැනීම සඳහා අයිරා පහසුකම් ලබා දෙයි.
+Jangama ginum himiyanta thama ginume athi mudalata wada wadi mudalayak laba ganeema sadaha ayira pahasukam laba dheyi.
+ගිණුමේ සිදුවන සෑම Deposit එකක්ම සහ Withdrawal එකක්ම SMS Alerts මගින් පාරිභෝගිකයාගේ ජංගම දුරකථනයට ක්ෂණිකව දැනුම් දෙනු ලැබේ.
+ගිණුමේ සිදුවන සෑම මුදල් තැන්පතුවක්ම සහ ආපසු ගැනීමක්ම කෙටි පණිවිඩ මගින් පාරිභෝගිකයාගේ ජංගම දුරකථනයට ක්ෂණිකව දැනුම් දෙනු ලැබේ.
+Ginume sidhuwana saema mudal thanpathuwakma saha aapasu ganeemakma keti paniwida mangin paaribhogikayaage jangama dhurakathanayata kshanikawa dhanum dhenu labe.
+Foreign Currency Exchange කටයුතු සඳහා බලපත්‍රලාභී Bank Branch එකක් වෙත පිවිසීම නීත්‍යානුකූල මෙන්ම වඩාත් ආරක්ෂිත වේ.
+විදේශ මුදල් මාරු කිරීමේ කටයුතු සඳහා බලපත්‍රලාභී බැංකු ශාඛාවක් වෙත පිවිසීම නීත්‍යානුකූල මෙන්ම වඩාත් ආරක්ෂිත වේ.
+Widesha mudal maaru kireeme katayuthu sadaha balapathralaabhie baanku shaakhawak wetha piwiseema neethyaanukoola menda wadaath aarakshitha we.
+එකඟ වූ කාලය සම්පූර්ණ වීමට පෙර Fixed Deposit එකක් Cancel කළහොත් කලින් නියම කරගත් Interest එක අහිමි වීමට ඉඩ ඇත.
+එකඟ වූ කාලය සම්පූර්ණ වීමට පෙර ස්ථාවර තැන්පතුවක් අවලංගු කළහොත් කලින් නියම කරගත් පොලී මුදල අහිමි වීමට ඉඩ ඇත.
+Ekangawayi woo kaalaya sampurna weemata pera sthavara thanpathuwak awalangu kalahoth kalin niyama karagath polee mudala ahimi weemata ida aetha.
+ජල, විදුලි සහ දුරකථන වැනි එදිනෙදා Bill Payments සඳහා බැංකුවේ Counter එක හෝ බැංකුව මගින් හඳුන්වා දී ඇති Mobile App එක භාවිතා කළ හැකිය.
+ජල, විදුලි සහ දුරකථන වැනි එදිනෙදා බිල්පත් ගෙවීම සඳහා බැංකුවේ කවුන්ටරය හෝ බැංකුව මගින් හඳුන්වා දී ඇති ජංගම යෙදුම භාවිතා කළ හැකිය.
+Jala, widhuli saha dhurakathana waeni edhinedha bilpath geweema sadaha baankuwe counterya ho baankuwa mangin handhuna dhee athi jangama yedhuma bhawitha kala haekiya.
+Children's Savings Accounts වල ඇති මුදල් Withdraw කරගත හැක්කේ අදාළ දරුවාට වයස අවුරුදු දහඅට සම්පූර්ණ වූ පසුව පමණි.
+ළමා ඉතිරිකිරීමේ ගිණුම් වල ඇති මුදල් ආපසු ලබා ගත හැක්කේ අදාළ දරුවාට වයස අවුරුදු දහඅට සම්පූර්ණ වූ පසුව පමණි.
+Lamai ithirikeeme ginum wala athi mudal aapasu laba gatha haekke adhaala dharuwata wayasa awurudu dhahaitara sampurna woo pasuwa pamani.
+Account holders තම personal information හෝ address එක වෙනස් වූ විට වහාම ඒ බව bank එකට දැනුම් දී තම account records update කළ යුතුය.
+ගිණුම් හිමියන් තම පෞද්ගලික තොරතුරු හෝ ලිපිනය වෙනස් වූ විට වහාම ඒ බව බැංකුවට දැනුම් දී තම ගිණුම් වාර්තා යාවත්කාලීන කළ යුතුය.
+Ginum himiyan thama paudgalika thorathuru ho lipinaya wenas wu wita wahama e bawa bankuwata danum dee thama ginum wartha yawathkalina kala yuthuya.
+තම ATM card එක අස්ථානගත වූ විගසින්ම bank එකේ customer service එක අමතා එය cancel කිරීමට කටයුතු කිරීම අත්‍යවශ්‍ය වේ.
+තම ස්වයංක්‍රීය ටෙලර් යන්ත්‍ර කාඩ්පත අස්ථානගත වූ විගසින්ම බැංකුවේ පාරිභෝගික සේවා අංශය අමතා එය අවලංගු කිරීමට කටයුතු කිරීම අත්‍යවශ්‍ය වේ.
+Thama swayang kriya teller yanthra cardpatha asthanagatha wu wigasinma bankuwe paribhogika sewa anshaya amatha eya awalangu kireemata katayuthu kireema athyawashya we.
+යම් savings account එකක වසරකට වඩා වැඩි කාලයක් කිසිදු transaction එකක් සිදු කර නොමැති නම් bank එක විසින් එම account එක inactive තත්ත්වයට පත් කරනු ලබයි.
+යම් ඉතිරිකිරීමේ ගිණුමක වසරකට වඩා වැඩි කාලයක් කිසිදු ගනුදෙනුවක් සිදු කර නොමැති නම් බැංකුව විසින් එම ගිණුම අක්‍රීය තත්ත්වයට පත් කරනු ලබයි.
+Yam ithirikeeme ginumaka wasarakata wada wadi kalayak kisidu ganudenuwak sidu kara nomathi nam bankuwa wisin ema ginuma akriya thatthwayata path karanu labayi.
+මාසිකව ගෙවිය යුතු bills හෝ loan installments සඳහා standing orders ලබා දීමෙන් bank එක හරහා automatically අදාළ payments සිදු කිරීමේ හැකියාව ඇත.
+මාසිකව ගෙවිය යුතු බිල්පත් හෝ ණය වාරික සඳහා ස්ථාවර නියෝග ලබා දීමෙන් බැංකුව හරහා ස්වයංක්‍රීයව අදාළ ගෙවීම් සිදු කිරීමේ හැකියාව ඇත.
+Masikawa gewiya yuthu bilpath ho naya warika sadaha sthawara niyoga laba deemen bankuwa haraha swayang kriyawa adala geweem sidu kireeme hakiyawa atha.
+වෙනත් bank එකකට අයත් cheque එකක් තම account එකට deposit කළ විට අදාළ මුදල account එකට credit වීම සඳහා අවම වශයෙන් එක් working day එකක් හෝ ගත වේ.
+වෙනත් බැංකුවකට අයත් චෙක්පතක් තම ගිණුමට තැන්පත් කළ විට අදාළ මුදල ගිණුමට බැර වීම සඳහා අවම වශයෙන් එක් වැඩකරන දිනයක් හෝ ගත වේ.
+Wenath bankuwakata ayath checkpathak thama ginumata thanpath kala wita adala mudala ginumata bara weema sadaha awama wasayen ek wadakarana dinayak ho gatha we.
+Personal loan එකක් ලබා ගැනීමේදී බොහෝ විට bank එක විසින් පිළිගත හැකි financial background එකක් ඇති guarantorsලා දෙදෙනෙකුගේ signature ලබා දීම mandatory කරනු ලබයි.
+පුද්ගලික ණය මුදලක් ලබා ගැනීමේදී බොහෝ විට බැංකුව විසින් පිළිගත හැකි මූල්‍ය පසුබිමක් ඇති ඇපකරුවන් දෙදෙනෙකුගේ අත්සන් ලබා දීම අනිවාර්ය කරනු ලබයි.
+Pudgalika naya mudalak laba ganeemde boho wita bankuwa wisin piligatha haki moolya pasubimak athi aypakaruwan dedenekuge athsan laba deema aniwarya karanu labayi.
+වයස අවුරුදු හැටට වැඩි senior citizensලා සඳහා banks විසින් ඔවුන්ගේ fixed deposits මත සාමාන්‍ය rate එකට වඩා වැඩි විශේෂ interest rate එකක් පිරිනමනු ලැබේ.
+වයස අවුරුදු හැටට වැඩි ජ්‍යෙෂ්ඨ පුරවැසියන් සඳහා බැංකු විසින් ඔවුන්ගේ ස්ථාවර තැන්පතු මත සාමාන්‍ය අනුපාතයට වඩා වැඩි විශේෂ පොලී අනුපාතයක් පිරිනමනු ලැබේ.
+Wayasa awurudu haitata wadi jyeshta purawayesiyan sadaha banku wisin owunge sthawara thanpathu mathasamanya anuphathayata wada wadi wishesha polee anuphathayak pirinamana labe.
+ස්වර්ණාභරණ හෝ වැදගත් deeds ආරක්ෂිතව තබා ගැනීම සඳහා customersලාට banks මඟින් locker facilities සලසා දී ඇත.
+ස්වර්ණාභරණ හෝ වැදගත් ඔප්පු තිරප්පු ආරක්ෂිතව තබා ගැනීම සඳහා පාරිභෝගිකයන්ට බැංකු මඟින් ආරක්ෂිත සේප්පු පහසුකම් සලසා දී ඇත.
+Swarnabharana ho wadagath oppu thirappu arakshithawa thaba ganeema sadaha paribhogikayanta banku maga arakshitha seppu pahasukam salasa dee atha.
+Bank services පිළිබඳව ඇතිවන ගැටළු නිරාකරණය කර ගැනීම සඳහා දවසේ ඕනෑම වෙලාවක customer care number එක ඇමතීමට customersලාට පහසුකම් ඇත.
+බැංකු සේවා පිළිබඳව ඇතිවන ගැටළු නිරාකරණය කර ගැනීම සඳහා දවසේ ඕනෑම වෙලාවක පාරිභෝගික සේවා දුරකථන අංකය ඇමතීමට ගනුදෙනුකරුවන්ට පහසුකම් ඇත.
+Banku sewa pilibandawa athiwana gatalu nirakaranya kara ganeema sadaha dawase onama welawaka paribhogika sewa durakathana ankaya amathannata ganudenukaruyanta pahasukam atha.
+වර්තමානයේ බොහෝ banks තම customersලාගේ monthly account statements මුද්‍රිත පිටපත් වෙනුවට email හරහා ආරක්ෂිතව ලබා දීමට කටයුතු කරයි.
+වර්තමානයේ බොහෝ බැංකු තම ගනුදෙනුකරුවන්ගේ මාසික ගිණුම් වාර්තා මුද්‍රිත පිටපත් වෙනුවට විද්‍යුත් තැපෑල හරහා ආරක්ෂිතව ලබා දීමට කටයුතු කරයි.
+Warthamanaye boho banku thama ganudenukaruyange masika ginum wartha mudritha pitapath wenuwata widyuth thapaala haraha arakshithawa laba deemata katayuthu karayi.
+විශාල transactions වලදී cash රැගෙන යාමේ risk එක මඟහරවා ගැනීම පිණිස bank drafts භාවිතයෙන් payments සිදු කිරීමට බොහෝ company වැඩි කැමැත්තක් දක්වයි.
+විශාල ගනුදෙනු වලදී මුදල් රැගෙන යාමේ අවදානම මඟහරවා ගැනීම පිණිස බැංකු අණකර භාවිතයෙන් ගෙවීම් සිදු කිරීමට බොහෝ ආයතන වැඩි කැමැත්තක් දක්වයි.
+Wishala ganudenu waladi mudal ragena yaame awadanam mahaharawa ganeema pinisa banku anakara bhwithayen geweem sidu kireemata boho ayathana wadi kamathtahak dakwayi.
+Savings සහ fixed deposits මත ලැබෙන interest income එක යම් නිශ්චිත සීමාවක් ඉක්මවා ගිය විට එය රජයේ income tax අයකිරීම් වලට යටත් විය හැකිය.
+ඉතිරිකිරීමේ සහ ස්ථාවර තැන්පතු මත ලැබෙන පොලී ආදායම යම් නිශ්චිත සීමාවක් ඉක්මවා ගිය විට එය රජයේ ආදායම් බදු අයකිරීම් වලට යටත් විය හැකිය.
+Ithirikeeme saha sthawara thanpathu math labena polee adayama yam nishchitha seemawak ikmawa giya wita eya rajaye adayam badu ayakireem walata yathath wiya hakiya.
+විදේශ රටවල සේවය කරන ශ්‍රී ලාංකිකයින්ට තම පවුලේ සාමාජිකයින්ගේ bank accounts වෙත direct මුදල් එවීම සඳහා banks මඟින් විධිමත් system සකසා ඇත.
+විදේශ රටවල සේවය කරන ශ්‍රී ලාංකිකයින්ට තම පවුලේ සාමාජිකයින්ගේ බැංකු ගිණුම් වෙත සෘජුවම මුදල් එවීම සඳහා බැංකු මඟින් විධිමත් ක්‍රමවේද සකසා ඇත.
+Widesha ratawala sewaya karana Sri Lankikayinta thama pawule samajikayinge banku ginum wetha srijuwama mudal ewema sadaha banku magin widhimal kramaweda sakasa atha.
+Child savings account holder කෙනෙකුට නියමිත වයස සම්පූර්ණ වූ පසු අදාළ account එක normal account එකක් බවට convert කිරීම සඳහා bank එකට application form එකක් ඉදිරිපත් කළ යුතුය.
+ළමා ඉතිරිකිරීමේ ගිණුම් හිමියෙකුට නියමිත වයස සම්පූර්ණ වූ පසු අදාළ ගිණුම සාමාන්‍ය ගිණුමක් බවට පරිවර්තනය කිරීම සඳහා බැංකුවට ඉල්ලුම් පත්‍රයක් ඉදිරිපත් කළ යුතුය.
+Lama ithirikeeme ginum himiyekuta niyamitha wayasa sampoorna wu pasu adala ginuma samanya ginumak bawa pariwarthanaya kireema sadaha bankuwata illumpathrak idiripath kala yuthuya.
+Higher education කටයුතු සඳහා university එකකට ඇතුළත් වන studentsලාට තම education expenses පියවා ගැනීම සඳහා සහනදායී interest rates යටතේ loan facilities ලබා ගත හැක.
+උසස් අධ්‍යාපන කටයුතු සඳහා විශ්වවිද්‍යාලයකට ඇතුළත් වන සිසුන්ට තම අධ්‍යාපන වියදම් පියවා ගැනීම සඳහා සහනදායී පොලී අනුපාත යටතේ ණය පහසුකම් ලබා ගත හැක.
+Usas adhyapana katayuthu sadaha wishwawidyalayakata athulath wana sisunta thama adhyapana wiyadam piyawa ganeema sadaha sahanadayi polee anuphatha yatathe naya pahasukam laba gatha haka.
+Joint account එකක් පවත්වාගෙන යන විට අදාළ account එකෙන් cash withdrawal සඳහා දෙදෙනාගේම signature එක හෝ එක් අයෙකුගේ පමණක් signature එක යෙදීම වැනි options තෝරාගත හැකිය.
+හවුල් ගිණුමක් පවත්වාගෙන යන විට අදාළ ගිණුමෙන් මුදල් ලබා ගැනීම සඳහා දෙදෙනාගේම අත්සන හෝ එක් අයෙකුගේ පමණක් අත්සන යෙදීම වැනි විකල්ප තෝරාගත හැකිය.
+Hawul ginumak pawathwagena yana wita adala ginumen mudal laba ganeema sadaha dedenagema athsana ho ek ayekuge pamanak athsana yedema wani wikalpa thoragatha hakiya.
+Customersලාගේ පහසුව උදෙසා bank branches හරහාම life සහ property insurance ලබා ගැනීමේ පහසුකම වර්තමානයේ බොහෝ banks මගින් ක්‍රියාත්මක කරනු ලබයි.
+ගනුදෙනුකරුවන්ගේ පහසුව උදෙසා බැංකු ශාඛා හරහාම ජීවිත සහ දේපළ රක්ෂණාවරණ ලබා ගැනීමේ පහසුකම වර්තමානයේ බොහෝ බැංකු මගින් ක්‍රියාත්මක කරනු ලබයි.
+Ganudenukaruyange pahasuwa udesa banku shakha harahama jeewitha saha depala rakshanawarana laba ganeeme pahasukawa warthamanaye boho banku magin kriyaathmaka karanu labayi.
+තම bank account එක e-wallet එකක් සමඟ connect කිරීමෙන් physical cash භාවිතයෙන් තොරව ඕනෑම ස්ථානයක සිට instantly payments කළ හැක.
+තම බැංකු ගිණුම විද්‍යුත් මුදල් පසුම්බියක් සමඟ සම්බන්ධ කිරීමෙන් භෞතිකව මුදල් භාවිතයෙන් තොරව ඕනෑම ස්ථානයක සිට ක්ෂණිකව ගෙවීම් කළ හැක.
+Thama banku ginuma widyuth mudal pasumbiyak samaga sambandha kireemen bhauthikawa mudal bhwithayen thora onama sthanayaka sita kshanikawa geweem kala haka.
+Passbook එක නැතිවූ අවස්ථාවකදී ඒ සඳහා අලුත් book එකක් issue කිරීම වෙනුවෙන් bank එක විසින් customerගෙන් යම් නිශ්චිත fee එකක් අය කරනු ලබයි.
+ගිණුම් පොත නැතිවූ අවස්ථාවකදී ඒ සඳහා අලුත් පොතක් නිකුත් කිරීම වෙනුවෙන් බැංකුව විසින් පාරිභෝගිකයාගෙන් යම් නිශ්චිත ගාස්තුවක් අය කරනු ලබයි.
+Ginum potha nathiwoo awasthawakadi e sadaha aluth pothak nikuth kireema wenuwen bankuwa wisin paribhogikayagen yam nishchitha gasthuwak aya karanu labayi.
+Bank service එකක් සම්බන්ධයෙන් යම් අසාධාරණයක් සිදුවී ඇත්නම් ඒ පිළිබඳව financial ombudsman වෙත complain කර සාධාරණය ඉටු කරවා ගැනීමේ අයිතිය customer සතුය.
+බැංකු සේවාවක් සම්බන්ධයෙන් යම් අසාධාරණයක් සිදුවී ඇත්නම් ඒ පිළිබඳව මූල්‍ය ඔම්බුඩ්ස්මන්වරයා වෙත පැමිණිලි කර සාධාරණය ඉටු කරවා ගැනීමේ අයිතිය පාරිභෝගිකයා සතුය.
+Banku sewayak sambandhayen yam asadharanayak siduvee athnam e pilibandawa moolya ombudsmanwaraya wetha pamahili kara sadharanaya itu karawa ganeeme ayithiya paribhogikaya sathuya.
+Branch එක සතු ප්‍රධාන cash vault එකේ physical balance එක නියමිත limits වලට අනුකූලව දෛනිකව පවත්වා ගැනීම management එකේ මූලික වගකීමක් ලෙස සැලකේ.
+ශාඛාව සතු ප්‍රධාන මුදල් සේප්පුවේ භෞතික ශේෂය නියමිත සීමාවන්ට අනුකූලව දෛනිකව පවත්වා ගැනීම කළමනාකාරීත්වයේ මූලික වගකීමක් ලෙස සැලකේ.
+Shakhava sathu pradhana mudal seppuwe bhauthika sheshaya niyamitha seemawanta anukulawa dainikawa pawathwa ganeema kalamanakareethwaye moolika wagakeemak lesa salake.
+Customersලා විසින් cheque deposit box එකට දමනු ලබන cheques දිනපතා නියමිත වේලාවන්හිදී collect කර system එකට අදාළ තොරතුරු enter කෙරේ.
+පාරිභෝගිකයින් විසින් චෙක්පත් තැන්පතු පෙට්ටියට දමනු ලබන චෙක්පත් දිනපතා නියමිත වේලාවන්හිදී එකතු කර පද්ධතියට අදාළ තොරතුරු ඇතුළත් කෙරේ.
+Paribhogikayin wisin checkpath thanpath pettiyata damanu labana checkpath dinapatha niyamitha welawan hidi ekathu kara paddhathiyata adala thorathuru athulath kerei.
+Withdrawal forms වල ඇති signatures, system එකේ store කර ඇති customerගේ official signature එක සමඟ compare කර බැලීම cashiersලා විසින් සිදු කරනු ලබයි.
+මුදල් ආපසු ගැනීමේ පෝරමවල ඇති අත්සන්, පද්ධතියේ ගබඩා කර ඇති ගනුදෙනුකරුගේ නිල අත්සන සමඟ සන්සන්දනය කර බැලීම අයකැමිවරුන් විසින් සිදු කරනු ලබයි.
+Mudal apasu ganeeme poramawala athi athsan, paddhathiye gabada kara athi ganudenukuruge nila athsana samaga sansandanya kara baleema ayakamiwarun wisin sidu karanu labayi.
+වෙනත් රටකට මුදල් යැවීමේදී foreign exchange regulations වලට යටත්ව bank එක විසින් අදාළ documents complete කර head office එක වෙත forward කළ යුතුම වේ.
+වෙනත් රටකට මුදල් යැවීමේදී විදේශ විනිමය පාලන රෙගුලාසිවලට යටත්ව බැංකුව විසින් අදාළ ලියකියවිලි සම්පූර්ණ කර මූලස්ථානය වෙත යොමු කළ යුතුම වේ.
+Wenath ratakata mudal yawameedi widesha winimaya palana regulaasiwala yatathwa bankuwa wisin adala liyakiyawili sampoorna kara moolasthanaya wetha yomu kalayuthuma we.
+Customer complaints සහ ගැටලු කඩිනමින් resolve කිරීම සඳහා branch එක තුළ customer service officer කෙනෙකු වෙනුවෙන්ම විශේෂ counter එකක් වෙන් කර ඇත.
+පාරිභෝගික පැමිණිලි සහ ගැටලු කඩිනමින් විසඳීම සඳහා ශාඛාව තුළ පාරිභෝගික සේවා නිලධාරියෙකු වෙනුවෙන්ම විශේෂ කවුළුවක් වෙන් කර ඇත.
+Paribhogika pamahili saha gatalu kadinamin wisadeema sadaha shakhawa thula paribhogika sewa niladhariyeku wenuwenma wishesha kawuluwak wen kara atha.
+Damage වූ හෝ mutilated cash notes මාරු කිරීමේදී Central Bank of Sri Lanka විසින් issue කර ඇති guidelines staff එක විසින් දැඩිව follow කරනු ලැබේ.
+අලාභහානි වූ හෝ විකෘති වූ මුදල් නෝට්ටු මාරු කිරීමේදී ශ්‍රී ලංකා මහ බැංකුව විසින් නිකුත් කර ඇති මාර්ගෝපදේශ කාර්ය මණ්ඩලය විසින් දැඩිව අනුගමනය කරනු ලැබේ.
+Alabahani woo ho wikruthi woo mudal nottu maru kireemeedi Sri Lanka Maha Bankuwa wisin nikuth kara athi margopadesha karya mandalaya wisin dadiwa anugamanaya karanu labe.
+නව bank branch එකක් open කිරීමට පෙර එහි security camera system එක සහ alarms නිවැරදිව වැඩ කරන්නේදැයි check කර confirm කරගනී.
+නව බැංකු ශාඛාවක් විවෘත කිරීමට පෙර එහි ආරක්ෂිත කැමරා පද්ධතිය සහ අනතුරු ඇඟවීමේ සීනු නිවැරදිව ක්‍රියාත්මක වන්නේදැයි පරීක්ෂා කර තහවුරු කරගනී.
+Nawa banku shakhavak wiwurtha kireemata pera ehi arakshitha camera paddhathiya saha anathuru angweeme seenu niwaredi kriyaathmaka wannedaipariksha kara thahawuru karagani.
+දවසේ අවසාන transactions settle කිරීමෙන් පසුව, head office එක වෙත යැවිය යුතු daily balance reports system එක හරහා generate කිරීම අනිවාර්ය දෛනික කාර්යයකි.
+දවසේ අවසාන ගනුදෙනු පියවීමෙන් පසුව, මූලස්ථානය වෙත යැවිය යුතු දෛනික ශේෂ වාර්තා පද්ධතිය හරහා ජනනය කිරීම අනිවාර්ය දෛනික කාර්යයකි.
+Dawase awasana ganudenu piyaveemen pasuwa, moolasthanaya wetha yawiyayuthu dainika shesha wartha paddhathiya haraha jananya kireema aniwarya dainika karyayaki.
+Customer කෙනෙකුට නව cheque book එකක් issue කරනු ලබන්නේ ඔවුන්ගේ පැරණි cheque book එකේ ඇති application form එක complete කර ලබා දීමෙන් පසුව පමණි.
+ගනුදෙනුකරුවෙකුට නව චෙක්පත් පොතක් නිකුත් කරනු ලබන්නේ ඔවුන්ගේ පැරණි චෙක්පත් පොතේ ඇති ඉල්ලුම් පත්‍රය සම්පූර්ණ කර ලබා දීමෙන් පසුව පමණි.
+Ganudenukuruyekuta nawa checkpath pothak nikuth karanu labanne owunge parani checkpath pothe athi illumpathraya sampoorna kara laba deemen pasuwa pamani.
+Child savings accounts වලට අදාළ gifts issue කිරීමේදී system එකේ සටහන් වී ඇති account balance එක සහ දරුවාගේ වයස පිළිබඳව විශේෂ attention එකක් යොමු කෙරේ.
+ළමා ඉතිරිකිරීමේ ගිණුම්වලට අදාළ ත්‍යාග නිකුත් කිරීමේදී පද්ධතියේ සටහන් වී ඇති ගිණුම් ශේෂය සහ දරුවාගේ වයස පිළිබඳව විශේෂ අවධානයක් යොමු කෙරේ.
+Lama ithirikeeme ginumwala adala thyaga nikuth kireemeedi paddhathiye satahan vee athi ginum sheshaya saha daruwage wayasa pilibandawa wishesha awadhanayak yomu kere.
+Bank එක විසින් අයකරනු ලබන service charges හෝ fine එකක් customer request එකක් මත waive කිරීමට අවශ්‍ය නම් ඒ සඳහා branch managerගේ විශේෂ approval එකක් ලබා ගත යුතුය.
+බැංකුව විසින් අයකරනු ලබන සේවා ගාස්තු හෝ දඩ මුදලක් පාරිභෝගික ඉල්ලීමක් මත අවලංගු කිරීමට අවශ්‍ය නම් ඒ සඳහා ශාඛා කළමනාකරුගේ විශේෂ අනුමැතියක් ලබා ගත යුතුය.
+Bankuwa wisin ayakaranu labana sewa gasthu ho dada mudalak paribhogika illumak math awalangu kireemata awashya nam e sadaha shakha kalamanakaruhu wishesha anumathiyak laba gatha yuthuya.
+LankaClear system එක හරහා ලැබෙන interbank real-time fund transfers ක්ෂණිකව අදාළ accounts වෙත credit කිරීමට කටයුතු කර ඇත.
+ලංකා ක්ලියර් පද්ධතිය හරහා ලැබෙන අන්තර් බැංකු තත්‍ය කාලීන මුදල් හුවමාරු ගනුදෙනු ක්ෂණිකව අදාළ ගිණුම් වෙත බැර කිරීමට කටයුතු කර ඇත.
+Lanka Clear paddhathiya haraha labena anthar banku thaththwa kalina mudal huwamaru ganudenu kshanikawa adala ginum wetha bara kireemata katayuthu kara atha.
+Customerගේ request එක මත bank draft එකක් issue කිරීමේදී ඊට අදාළ මුදල සහ commission එක එම මොහොතේම account එකෙන් debit කිරීම සිදු කරයි.
+ගනුදෙනුකරුගේ ඉල්ලීම මත බැංකු අණකරයක් නිකුත් කිරීමේදී ඊට අදාළ මුදල සහ කොමිස් මුදල එම මොහොතේම ගිණුමෙන් හර කිරීම සිදු කරයි.
+Ganudenukuruge illuma math banku anakarayak nikuth kireemeedi eeta adala mudala saha commission mudala ema mohothema ginumen hara kireema sidu karayi.
+වාර්ෂික audit කටයුතු වලදී branch එකේ physical cash balance එක සහ system balance එක අතර කිසිදු difference එකක් නොමැති බව auditorsලා විසින් confirm කරනු ලබයි.
+වාර්ෂික විගණන කටයුතු වලදී ශාඛාවේ භෞතික මුදල් ශේෂය සහ පද්ධතියේ ශේෂය අතර කිසිදු වෙනසක් නොමැති බව විගණකවරුන් විසින් සනාථ කරනු ලබයි.
+Warshika wigadana katayuthu waladi shakhawe bhauthika mudal sheshaya saha paddhathiye sheshaya athara kisidu wenasak nomathi bawa wigadakawarun wisin sanatha karanu labayi.
+Passbook එකක් නැතිවූ අවස්ථාවක නව passbook එකක් issue කිරීමට පෙර ඒ බව තහවුරු කරන affidavit එකක් ලබා ගැනීම සහ අදාළ fee එක අයකර ගැනීම සාමාන්‍ය procedure එකයි.
+පාස්පොතක් නැතිවූ අවස්ථාවක නව පාස්පොතක් නිකුත් කිරීමට පෙර ඒ බව තහවුරු කරන දිවුරුම් ප්‍රකාශයක් ලබා ගැනීම සහ අදාළ දඩ මුදල අයකර ගැනීම සාමාන්‍ය ක්‍රියාපටිපාටියයි.
+Passpothak nathiwoo awasthawaka nawa passpothak nikuth kireemata pera e bawa thahawuru karana diworum prakashayak laba ganeema saha adala dada mudala ayakaraneema samanya kriyapatipadayi.
+Microfinance loan installments collect කිරීම සඳහා field officersලා විසින් mobile apps භාවිත කරමින් system එකට direct ගනුදෙනු update කරනු ලැබේ.
+ක්ෂුද්‍ර මූල්‍ය ණය වාරික එකතු කිරීම සඳහා ක්ෂේත්‍ර නිලධාරීන් විසින් ජංගම යෙදුම් භාවිත කරමින් පද්ධතියට සෘජුවම ගනුදෙනු යාවත්කාලීන කරනු ලැබේ.
+Kshudra moolya naya warika ekathu kireema sadaha kshethra niladhareen wisin jangama yayuma bhawitha karamin paddhathiyata srijuwama ganudenu yawathkalina karanu labe.
+Branch එකේ එදිනෙදා letters mailings ලේඛනගත කිරීම සහ ඒවා අදාළ departments වෙත කඩිනමින් forward කිරීම chief clerk විසින් භාරව කටයුතු කරයි.
+ශාඛාවේ එදිනෙදා ලිපි හුවමාරුව ලේඛනගත කිරීම සහ ඒවා අදාළ අංශ වෙත කඩිනමින් යොමු කිරීම ප්‍රධාන ලිපිකරු විසින් භාරව කටයුතු කරයි.
+Shakhawe edineda lipi huwamaruwa lekhanagatha kireema saha ewa adala ansha wetha kadinamin yomu kireema pradhana lipikaru wisin bharawa katayuthu karayi.
+මියගිය customer කෙනෙකුගේ account එකක ඇති මුදල් නීත්‍යානුකූල heirsලාට ලබා දීම සඳහා succession certificate එකක් හෝ court order එකක් bank එකට submit කළ යුතු වේ.
+මියගිය ගනුදෙනුකරුවෙකුගේ ගිණුමක ඇති මුදල් නීත්‍යානුකූල උරුමක්කරුවන්ට ලබා දීම සඳහා අනුප්‍රාප්තික සහතිකයක් හෝ අධිකරණ නියෝගයක් බැංකුවට ඉදිරිපත් කළ යුතු වේ.
+Miyagiya ganudenukuruyekuge ginumaka athi mudal neethyanukoola urumakkaruyanta laba deema sadaha anuprasthika sahathikayak ho adhikaranaya niyogayak bankuwata idiripath kala yuthu we.
+Online හරහා විශාල මුදලක් transfer කිරීමේදී customerගේ mobile phone එකට OTP එකක් යවා transaction එකේ security එක confirm කරගනී.
+අන්තර්ජාලය හරහා විශාල මුදලක් හුවමාරු කිරීමේදී පාරිභෝගිකයාගේ ජංගම දුරකථනයට එක්වරක් පමණක් භාවිතා කරන මුරපදයක් යවා ගනුදෙනුවේ ආරක්ෂාව තහවුරු කරගනී.
+Antharjalaya haraha wishala mudalak huwamaru kireemeedi paribhogikayage jangama durakathanayata ekwarak pamanak bhawitha karana murapadayak yawa ganudenuwe arakshawa thahawuru karagani.
+Central Bank policies මත interest rates වෙනස් වන අවස්ථාවලදී system එකේ database එක automatically update වන අතර ඒ බව branch notice boards වල display කෙරේ.
+මහ බැංකු ප්‍රතිපත්ති මත පොලී අනුපාත වෙනස් වන අවස්ථාවලදී පද්ධතියේ දත්ත පදනම ස්වයංක්‍රීයව යාවත්කාලීන වන අතර ඒ බව ශාඛා දැන්වීම් පුවරුවල ප්‍රදර්ශනය කෙරේ.
+Maha Banku prathipaththi math polee anuphatha wenas wana awasthawaladi paddhathiye daththa padhanama swayang kriyawa yawathkalina wana athara e bawa shakha dannweem puwaruwala pradarshanya kere.
+Customersලා විසින් සිදුකරනු ලබන ජල, විදුලි සහ phone bill payments system එක හරහා එදිනම අදාළ ආයතන වෙත forward කෙරේ.
+පාරිභෝගිකයින් විසින් සිදුකරනු ලබන ජල, විදුලි සහ දුරකථන බිල්පත් ගෙවීම් පද්ධතිය හරහා එදිනම අදාළ ආයතන වෙත යොමු කෙරේ.
+Paribhogikayin wisin sidukaranu labana jala, widuli saha durakathana bilpath geweem paddhathiya haraha edinama adala ayathana wetha yomu kerei.
+Account එකේ ප්‍රමාණවත් cash නොමැති වීම හේතුවෙන් return වන cheques පිළිබඳව customerට ලිඛිතව හෝ SMS එකක් මගින් notify කිරීම අනිවාර්ය වේ.
+ගිණුමේ ප්‍රමාණවත් මුදල් නොමැති වීම හේතුවෙන් අගරු වන චෙක්පත් පිළිබඳව ගනුදෙනුකරුට ලිඛිතව හෝ කෙටි පණිවිඩයක් මගින් දැනුම් දීම අනිවාර්ය වේ.
+Ginume pramanawath mudal nathiveema hethuwen agaru wana checkpath pilibandawa ganudenukuruta likhithawa ho keti paniwidayak magin danum deema aniwarya we.
+Customer කෙනෙකුගේ address එක හෝ occupation එක වෙනස් වී ඇති විට, ඔවුන්ගේ identity information update කිරීම සඳහා අදාළ supporting documents ලබාගත යුතුය.
+ගනුදෙනුකරුවෙකුගේ ලිපිනය හෝ රැකියාව වෙනස් වී ඇති විට, ඔවුන්ගේ අනන්‍යතා තොරතුරු යාවත්කාලීන කිරීම සඳහා අදාළ සනාථ කිරීමේ ලියකියවිලි ලබාගත යුතුය.
+Ganudenukuruyekuge lipinaya ho rakiyawa wenas vee athi wita, owunge ananyatha thorathuru yawathkalina kireema sadaha adala sanatha kireeme liyakiyawili labagatha yuthuya.
+Savings account එකක් close කිරීමට customer ඉල්ලුම් කළ විට, එහි පවතින balance එක සහ උපයා ඇති interest එක calculate කර final payment එක සිදු කරනු ලබයි.
+ඉතිරිකිරීමේ ගිණුමක් වසා දැමීමට පාරිභෝගිකයා ඉල්ලුම් කළ විට, එහි පවතින ශේෂය සහ උපයා ඇති පොලිය ගණනය කර අවසන් ගෙවීම සිදු කරනු ලබයි.
+Ithirikeeme ginumak wasa daamata paribhogikaya illum kala wita, ehi pawathina sheshaya saha upaya athi polee gananaya kara awasana geweema sidu karanu labayi.
+Monthly paper statements වෙනුවට email හරහා account statements ලබා ගැනීමට customersලාව encourage කිරීම customer service department එක මගින් සිදු කරයි.
+මාසික කඩදාසි ප්‍රකාශන වෙනුවට විද්‍යුත් තැපෑල හරහා ගිණුම් ප්‍රකාශන ලබා ගැනීමට පාරිභෝගිකයින්ව දිරිමත් කිරීම පාරිභෝගික සේවා අංශය මගින් සිදු කරයි.
+Masika kadadasi prakashana wenuwata widyuth thapaala haraha ginum prakashana laba ganeemata paribhogikayinwa dirimath kireema paribhogika sewa anshaya magin sidu karayi.
+Branch එක තුළ customer traffic එක අඩු කිරීම සඳහා automated token system එකක් මගින් පිළිවෙළකට counters වෙත customersලාව direct කිරීම control කෙරේ.
+ශාඛාව තුළ පාරිභෝගික තදබදය අවම කිරීම සඳහා ස්වයංක්‍රීය ටෝකන් පද්ධතියක් මගින් පිළිවෙළකට සේවා කවුළු වෙත ගනුදෙනුකරුවන් යොමු කිරීම පාලනය කෙරේ.
+Shakhawa thula paribhogika thadabadaya awama kireema sadaha swayang kriya token paddhathiyak magin piliwelata sewa kawulu wetha ganudenuruwan yomu kireema palanya kerei.
+Issue කරන ලද cheque එකක් සඳහා stop payment order එකක් customer විසින් ලබා දුන් වහාම system එක තුළ එය mark කර අදාළ payment එක block කළ යුතුයි.
+නිකුත් කරන ලද චෙක්පතක් සඳහා ගෙවීම් නැවැත්වීමේ නියෝගයක් ගනුදෙනුකරු විසින් ලබා දුන් වහාම පද්ධතිය තුළ එය සලකුණු කර අදාළ ගෙවීම අවහිර කළ යුතුයි.
+Nikuth karana lada checkpathak sadaha geweem nawatheeme niyogayak ganudenukuru wisin laba dun wahaama paddhathiya thula eya salakuunu kara adala geweema awahira kala yuthuyi.
+දවසේ ආරම්භයේදී main vault එක භාර officersලා විසින් cashiersලා වෙත daily transactions සඳහා අවශ්‍ය float එක issue කරනු ලැබේ.
+දවසේ ආරම්භයේදී ප්‍රධාන සේප්පුව භාර නිලධාරීන් විසින් අයකැමිවරුන් වෙත දෛනික ගනුදෙනු සඳහා අවශ්‍ය මූලික මුදල් තොග නිකුත් කරනු ලැබේ.
+Dawase aramabhayedi pradhana seppuwa bhara niladhareen wisin ayakamiwarun wetha dainika ganudenu sadaha awashya moolika mudal thoga nikuth karanu labe.
+Account එකේ සිදුවන සෑම credit සහ debit එකක් පිළිබඳවම ක්ෂණිකව දැනගැනීම සඳහා SMS alert service එකට register වීමට customersලාට පහසුකම් සලසා ඇත.
+ගිණුමේ සිදුවන සෑම මුදල් බැරවීමක් සහ හරවීමක් පිළිබඳවම ක්ෂණිකව දැනගැනීම සඳහා එස්.එම්.එස්. දැනුම්දීමේ සේවාවට ලියාපදිංචි වීමට ගනුදෙනුකරුවන්ට පහසුකම් සලසා ඇත.
+Ginume siduwana sama mudal baraveemak saha haraveemak pilibandawama kshanikawa danaganeema sadaha SMS danumdeeme sewawata liyapadinchi weemata ganudenukaruyanta pahasukam salasa atha.
+Touristsලා විසින් ඉදිරිපත් කරන foreign currency notes මාරු කිරීමේදී ඒවායේ සත්‍යතාව check කිරීම සඳහා විශේෂ machines භාවිතා කිරීම cashiersලාගේ වගකීමකි.
+සංචාරකයින් විසින් ඉදිරිපත් කරන විදේශ විනිමය නෝට්ටු මාරු කිරීමේදී ඒවායේ සත්‍යතාව පරීක්ෂා කිරීම සඳහා විශේෂ යන්ත්‍ර භාවිතා කිරීම අයකැමිවරුන්ගේ වගකීමකි.
+Sancharakayin wisin idiripath karana widesha winimaya nottu maru kireemeedi ewaye sathya thawa pariksha kireema sadaha wishesha yanthra bhawitha kireema ayakamiwarunge wagakeemaki.
+Customer කෙනෙකුගේ official signature එක කාලයත් සමඟ වෙනස් වී ඇත්නම්, නව signature එක system එකට update කිරීම සඳහා අදාළ forms පුරවා branch managerගේ approval එක ලබාගත යුතුය.
+ගනුදෙනුකරුවෙකුගේ නිල අත්සන කාලයත් සමඟ වෙනස් වී ඇත්නම්, නව අත්සන පද්ධතියට යාවත්කාලීන කිරීම සඳහා අදාළ පෝරම පුරවා ශාඛා කළමනාකරුගේ අනුමැතිය ලබාගත යුතුය.
+Ganudenukuruyekuge nila athsana kalayath samaga wenas vee athnam, nawa athsana paddhathiyata yawathkalina kireema sadaha adala porama purawa shakha kalamanakaruge anumathiya labagatha yuthuya.
+Fixed deposits සඳහා monthly ලැබෙන interest එක customerගේ වෙනත් savings account එකකට automatically credit වන පරිදි system එක set කිරීම සිදු කළ හැක.
+ස්ථාවර තැන්පතු සඳහා මාසිකව ලැබෙන පොලී මුදල් පාරිභෝගිකයාගේ වෙනත් ඉතිරිකිරීමේ ගිණුමකට ස්වයංක්‍රීයව බැර වන පරිදි පද්ධතිය සකස් කිරීම සිදු කළ හැක.
+Sthawara thanpathu sadaha masikawa labena polee mudal paribhogikayage wenath ithirikeeme ginumakata swayang kriyawa bara wana paridi paddhathiya sakas kireema sidu kala haka.
+Joint account එකක් open කිරීමේදී operate කිරීමේ බලය එක් අයෙකුට පමණක් ද නැතහොත් දෙදෙනාටම හිමිවන්නේද යන්න account opening form එකේ පැහැදිලිව සඳහන් කර තිබිය යුතුය.
+හවුල් ගිණුමක් විවෘත කිරීමේදී ගනුදෙනු කිරීමේ බලය එක් අයෙකුට පමණක් ද නැතහොත් දෙදෙනාටම හිමිවන්නේද යන්න ගිණුම් විවෘත කිරීමේ පෝරමයේ පැහැදිලිව සඳහන් කර තිබිය යුතුය.
+Hawul ginumak wiwurtha kireemeedi ganudenu kireeme balaya ek ayekuta pamanak da nathahoth dedenatama himiwanneda yanna ginum wiwurtha kireeme poramaye pahadiliwa sadahan kara thibiya yuthuya.
+Customersලාගෙන් ලැබෙන damaged හෝ dirty cash notes නැවත circulation එකට නොයවා ඒවා වෙනමම වෙන්කර Central Bank එක වෙත යැවීමට කටයුතු කරනු ලබයි.
+පාරිභෝගිකයින්ගෙන් ලැබෙන හානි වූ හෝ අපිරිසිදු මුදල් නෝට්ටු නැවත සංසරණයට නොයවා ඒවා වෙනමම වෙන්කර මහ බැංකුව වෙත යැවීමට කටයුතු කරනු ලබයි.
+Paribhogikayingen labena hani woo ho apirisidu mudal nottu nawatha sansaranayata noyawa ewa wenama wenkara Maha Bankuwa wetha yawata katayuthu karanu labayi.
+Cash deposit සහ withdrawal slips මෙන්ම වෙනත් අත්‍යවශ්‍ය printed forms stock අවසන් වීමට පෙර head office එකෙන් order කිරීම සාමාන්‍ය operations කටයුත්තකි.
+මුදල් තැන්පතු සහ ආපසු ගැනීමේ ස්ලිප් පත්‍ර මෙන්ම වෙනත් අත්‍යවශ්‍ය මුද්‍රිත පෝරම තොග අවසන් වීමට පෙර ප්‍රධාන කාර්යාලයෙන් ඇණවුම් කිරීම සාමාන්‍ය මෙහෙයුම් කටයුත්තකි.
+Mudal thanpathu saha apasu ganeeme slip pathra maufama wenath athyawashya mudritha porama thoga awasan weemata pera pradhana karyalayen anawum kireema samanya meheyum katayuththaki.
+Foreign remittances අදාළ accounts වෙත credit කිරීමට පෙර beneficiaryගේ නම සහ account number එක system එක සමඟ නිවැරදිව match වේදැයි check කෙරේ.
+විදේශ රටවල සිට ලැබෙන මුදල් ප්‍රේෂණ අදාළ ගිණුම් වෙත යොමු කිරීමට පෙර ප්‍රතිලාභියාගේ නම සහ ගිණුම් අංකය පද්ධතිය සමඟ නිවැරදිව ගැලපේදැයි පරීක්ෂා කෙරේ.
+Widesha ratawala sita labena mudal preshana adala ginum wetha yomu kireemata pera prathilabhiyage nama saha ginum ankaya paddhathiya samaga niwaredi galapedaipariksha kerei.
+දවසේ රාජකාරි නිම කිරීමට පෙර සෑම cashier කෙනෙකුම තමන් සතු physical cash ප්‍රමාණය system balance එකට හරියටම equal දැයි check කර බලා daily report එකක් submit කළ යුතුමය.
+දවසේ රාජකාරි නිම කිරීමට පෙර සෑම අයකැමියෙකුම තමන් සතු භෞතික මුදල් ප්‍රමාණය පද්ධතියේ ශේෂයට හරියටම සමාන දැයි පරීක්ෂා කර බලා දෛනික වාර්තාවක් ඉදිරිපත් කළ යුතුමය.
+Dawase rajahari nimakireemata pera sama ayakamiyekuma thaman sathu bhauthika mudal pramanaya paddhathiye sheshayata hariyatama samana daipariksha kara bala dainika warthawak idiripath kala yuthumaya.
+Inactive account එකකට යම් මුදලක් deposit කිරීම මගින් පමණක් එය automatically activate නොවන අතර ඒ සඳහා අනිවාර්යයෙන්ම account holderගේ written instructions අවශ්‍ය වේ.
+අක්‍රීය ගිණුමකට යම් මුදලක් තැන්පත් කිරීම මගින් පමණක් එය ස්වයංක්‍රීයව සක්‍රීය නොවන අතර ඒ සඳහා අනිවාර්යයෙන්ම ගිණුම්කරුගේ ලිඛිත උපදෙස් අවශ්‍ය වේ.
+Akriya ginumakata yam mudalak thanpath kireema magin pamanak eya swayang kriyawa sakriya nowana athara e sadaha aniwaryayenma ginumkaruge likhithaupades awashya we.
+Customer කෙනෙකු විසින් අතීත මාස කිහිපයක bank statements වල copies ඉල්ලා සිටින විට ඒ සඳහා නියමිත fee එකක් charge කර අදාළ statements print කර දීම සිදු කරනු ලැබේ.
+පාරිභෝගිකයෙකු විසින් අතීත මාස කිහිපයක බැංකු ප්‍රකාශන වල පිටපත් ඉල්ලා සිටින විට ඒ සඳහා නියමිත ගාස්තුවක් අයකර අදාළ ප්‍රකාශන මුද්‍රණය කර දීම සිදු කරනු ලැබේ.
+Paribhogikayeku wisin atheetha masa kihipayaka banku prakashana wala pitapath illa sitina wita e sadaha niyamitha gasthuwak ayakhara adala prakashana mudraya kara deema sidu karanu labe.
+Business customersලා විසින් bank එක වැසීමෙන් පසු night safe deposit box එකට දමනු ලබන cash පසුදින උදෑසන officersලා දෙදෙනෙකුගේ supervision එක යටතේ count කර අදාළ accounts වලට credit කරනු ලබයි.
+ව්‍යාපාරික පාරිභෝගිකයින් විසින් බැංකුව වැසීමෙන් පසු සුරක්ෂිත තැන්පතු පෙට්ටියට දමනු ලබන මුදල් පසුදින උදෑසන නිලධාරීන් දෙදෙනෙකුගේ අධීක්ෂණය යටතේ ගණනය කර අදාළ ගිණුම්වලට බැර කරනු ලබයි.
+Wyaparika paribhogikayin wisin bankuwa waseemen pasu surakshitha thanpathu pettiyata damanu labana mudal pasudina udasana niladhareen dedenekuge adheekshanya yatathe gananaya kara adala ginumwalata bara karanu labayi.
+Bank account එකක දීර්ඝ කාලයක් පුරාවට කිසිදු transaction එකක් සිදු නොකළ විට එය inactive account එකක් ලෙස වර්ගීකරණයට ලක් වේ.
+බැංකු ගිණුමක දීර්ඝ කාලයක් පුරාවට කිසිදු ගනුදෙනුවක් සිදු නොකළ විට එය අක්‍රීය ගිණුමක් ලෙස වර්ගීකරණයට ලක් වේ.
+Banku ginumaka deergha kalayak purawata kisidu ganudenuwak sidu nokala wita eya akriya ginumak lesa wargikaranyata lak we.
+Loan එකක් ආපසු ගෙවීමේදී reducing balance එක මත interest එක calculate කිරීමේ ක්‍රමය customerට වඩාත් වාසිදායක වේ.
+ණය මුදලක් ආපසු ගෙවීමේදී හීන වන ශේෂය මත පොලිය ගණනය කිරීමේ ක්‍රමය පාරිභෝගිකයාට වඩාත් වාසිදායක වේ.
+Naya mudalak apasu geweemdeedi heena wana sheshaya math polee gananaya kireeme kramaya paribhogikayata wadaath wasidayaka we.
+ATM card එකක් නැති වූ වහාම bank එකට දැනුම් දී එය cancel කිරීමෙන් සිදුවිය හැකි financial frauds වළක්වා ගත හැකිය.
+ස්වයංක්‍රීය ටෙලර් යන්ත්‍ර කාඩ්පතක් නැති වූ වහාම බැංකුවට දැනුම් දී එය අවලංගු කිරීමෙන් සිදුවිය හැකි මූල්‍ය වංචා වළක්වා ගත හැකිය.
+Swayang kriya teller yanthra cardpathak nathi woo wahaama bankuwata danum dee eya awalangu kireemen siduwiya haki moolya wancha walakwa gatha hakiya.
+දරුවන්ගේ අනාගතය සුරක්ෂිත කිරීම අරමුණු කරගනිමින් දෙමාපියන්ට ඔවුන්ගේ නමින් child savings accounts ආරම්භ කළ හැක.
+දරුවන්ගේ අනාගතය සුරක්ෂිත කිරීම අරමුණු කරගනිමින් දෙමාපියන්ට ඔවුන්ගේ නමින් ළමා ඉතුරුම් ගිණුම් ආරම්භ කළ හැක.
+Daruwange anagathaya surakshitha kireema aramunu karagamin demapiyanta owunge namin lama ithurum ginum arambha kala haka.
+විදේශයක සිට එවන මුදල් නිවැරදිව හා කඩිනමින් ලබා ගැනීම සඳහා bank එකේ SWIFT code එක අත්‍යවශ්‍ය වේ.
+විදේශයක සිට එවන මුදල් නිවැරදිව හා කඩිනමින් ලබා ගැනීම සඳහා බැංකුවේ ජාත්‍යන්තර හඳුනාගැනීමේ කේතය අත්‍යවශ්‍ය වේ.
+Wideshayaka sita ewana mudal niwaredi saha kadinamin laba ganeema sadaha bankuwe jathyanthara hadunaganeeme kethaya athyawashya we.
+Bank transactions පිළිබඳව ක්ෂණිකව දැනුවත් වීම සඳහා SMS alert service එක activate කර ගැනීම ඉතා වැදගත් වේ.
+බැංකු ගනුදෙනු පිළිබඳව ක්ෂණිකව දැනුවත් වීම සඳහා කෙටි පණිවිඩ සේවා පහසුකම සක්‍රීය කර ගැනීම ඉතා වැදගත් වේ.
+Banku ganudenu pilibandawa kshanikawa danuwath weema sadaha keti paniwida sewa pahasukawa sakriya kara ganeema ihatha wadagath we.
+වාහන මිලදී ගැනීම සඳහා leasing facilities ලබා ගැනීමේදී අදාළ vehicle එක සම්පූර්ණයෙන් settle කරන තුරු bank එක යටතේ register කර තබා ගනී.
+වාහන මිලදී ගැනීම සඳහා ලීසිං පහසුකම් ලබා ගැනීමේදී අදාළ වාහනය සම්පූර්ණයෙන් පියවන තුරු බැංකුව යටතේ ලියාපදිංචි කර තබා ගනී.
+Wahana miledi ganeema sadaha leasing pahasukam laba ganeemeedi adala wahanya sampoornayen piyawana thuru bankuwa yatathe liyapadinchi kara thaba gani.
+Anti-money laundering නීති රීති වලට අනුකූලව customer information update කිරීම bank එකක අනිවාර්ය කාර්යයකි.
+මූල්‍ය විශුද්ධිකරණය වැළැක්වීමේ නීති රීති වලට අනුකූලව පාරිභෝගික තොරතුරු යාවත්කාලීන කිරීම බැංකුවක අනිවාර්ය කාර්යයකි.
+Moolya wishuddhi karanya walakweeme neethi reethi wala anukulawa paribhogika thorathuru yawathkalina kireema bankuwaka aniwarya karyayaki.
+Credit cards මගින් සිදුකරන purchases සඳහා interest-free grace period එකක් භුක්ති විඳීමේ වරප්‍රසාදය customersලාට ලැබේ.
+ක්‍රෙඩිට් කාඩ්පත් මගින් සිදුකරන මිලදී ගැනීම් සඳහා පොලී රහිත සහන කාලසීමාවක් භුක්ති විඳීමේ වරප්‍රසාදය පාරිභෝගිකයන්ට ලැබේ.
+Credit cardpath magin sidukarana miledi ganeem sadaha polee rahitha sahana kalaseemawak bhukthi windeeme waraprasadaya paribhogikayanta labe.
+Online හරහා වෙනත් bank එකක account එකකට ක්ෂණිකව මුදල් transfer කිරීම සඳහා real-time fund transfer systems භාවිත කෙරේ.
+අන්තර්ජාලය හරහා වෙනත් බැංකුවක ගිණුමකට ක්ෂණිකව මුදල් මාරු කිරීම සඳහා තත්‍ය කාලීන අරමුදල් හුවමාරු පද්ධති භාවිත කෙරේ.
+Antharjalaya haraha wenath bankuwaka ginumakata kshanikawa mudal maru kireema sadaha thaththwa kalina aramudhala huwamaru paddhathi bhawitha kerei.
+Housing loan එකක් ලබා දීමට පෙර අදාළ land එක හෝ property එක bank එක විසින් පිළිගත් valuer කෙනෙකු ලවා evaluation එකකට ලක් කරනු ලබයි.
+නිවාස ණයක් ලබා දීමට පෙර අදාළ ඉඩම හෝ දේපළ බැංකුව විසින් පිළිගත් තක්සේරුකරුවෙකු ලවා ඇගයීමකට ලක් කරනු ලබයි.
+Niwasa nayak laba deemata pera adala idama ho depala bankuwa wisin piligatha thakserukaruyeku lawa agayeemakata lak karanu labayi.
+තම account එකේ daily cash withdrawal limit එක customerගේ අවශ්‍යතාවය අනුව වෙනස් කර ගැනීමේ හැකියාව පවතී.
+තම ගිණුමේ දෛනිකව ආපසු ලබාගත හැකි උපරිම මුදල් සීමාව පාරිභෝගිකයාගේ අවශ්‍යතාවය අනුව වෙනස් කර ගැනීමේ හැකියාව පවතී.
+Thama ginume dainikawa apasu labagatha haki uparima mudal seemawa paribhogikayage awashyathawayata anuwa wenas kara ganeeme hakiyawa pawathi.
+රජයේ tax නීති වලට යටත්ව, savings මගින් උපයන interest income එකෙන් නිශ්චිත percentage එකක් withholding tax එකක් ලෙස කපා හැරීමට bank එකට සිදුවේ.
+රජයේ බදු නීති වලට යටත්ව, ඉතුරුම් මගින් උපයන පොලී ආදායමෙන් නිශ්චිත ප්‍රතිශතයක් රඳවාගැනීමේ බද්දක් ලෙස කපා හැරීමට බැංකුවට සිදුවේ.
+Rajaye badu neethi wala yatathwa, ithurum magin upayana polee adayamen nishchitha prathishathayak radawaganeeme baddhak lesa kapa hareemata bankuwata siduwe.
+Joint account එකක කොන්දේසි අනුව එක් අයෙකුට පමණක් හෝ දෙදෙනාගේම signature එකෙන් යුතුව transactions කිරීමේ අයිතිය තීරණය කළ හැකිය.
+ඒකාබද්ධ ගිණුමක කොන්දේසි අනුව එක් අයෙකුට පමණක් හෝ දෙදෙනාගේම අත්සනින් යුතුව ගනුදෙනු කිරීමේ අයිතිය තීරණය කළ හැකිය.
+Ekabaddha ginumaka kondesi anuwa ek ayekuta pamanak ho dedenagema athsanin yuthuwa ganudenu kireeme ayithiya theeranaya kala hakiya.
+Education loan facilities බොහෝ විට studentsලාගේ course fees ගෙවීම සඳහා direct අදාළ educational institute එක වෙත issue කෙරේ.
+අධ්‍යාපන ණය පහසුකම් බොහෝ විට සිසුන්ගේ පාඨමාලා ගාස්තු ගෙවීම සඳහා සෘජුවම අදාළ අධ්‍යාපන ආයතනය වෙත නිකුත් කෙරේ.
+Adhyapana naya pahasukam boho wita sisunge pathamala gasthu geweema sadaha srijuwama adala adhyapana ayathanya wetha nikuth kerei.
+සාමාන්‍ය cash deposit එකක් වෙනුවට cheque එකක් account එකට credit කිරීමේදී එය clear වී මුදල් බවට පත්වීමට යම් දින ගණනක් ගත විය හැක.
+සාමාන්‍ය මුදල් තැන්පතුවක් වෙනුවට චෙක්පතක් ගිණුමට බැර කිරීමේදී එය අනුමත වී මුදල් බවට පත්වීමට යම් දින ගණනක් ගත විය හැක.
+Samanya mudal thanpathuwak wenuwata checkpathak ginumata bara kireemeedi eya anumatha vee mudal bawa pathweemata yam dina gananak gatha wiya haka.
+Senior citizensලා සඳහා පවත්වාගෙන යන විශේෂ savings accounts වලට සාමාන්‍ය accounts වලට වඩා ඉහළ interest rate එකක් හිමි වේ.
+ජ්‍යේෂ්ඨ පුරවැසියන් සඳහා පවත්වාගෙන යන විශේෂ ඉතුරුම් ගිණුම් වලට සාමාන්‍ය ගිණුම් වලට වඩා ඉහළ පොලී අනුපාතයක් හිමි වේ.
+Jyeshta purawayesiyan sadaha pawathwagena yana wishesha ithurum ginum wala samanya ginum walata wada ihala polee anuphathayak himi we.
+Bank frauds අවම කිරීම සඳහා customersලා තම online banking passwords සහ PIN numbers වරින් වර change කිරීම අනුමත කරනු ලැබේ.
+බැංකු වංචා අවම කිරීම සඳහා පාරිභෝගිකයන් තම අන්තර්ජාල බැංකු මුරපද සහ රහස්‍ය අංක වරින් වර වෙනස් කිරීම අනුමත කරනු ලැබේ.
+Banku wancha awama kireema sadaha paribhogikayan thama antharjala banku murapada saha rahasya anka warin wara wenas kireema anumatha karanu labe.
+හදිසි අනතුරකදී හෝ රෝහල්ගත වීමකදී benefits ලබාගත හැකි වන පරිදි සමහර bank accounts සඳහා නොමිලේ insurance cover එකක් ලබා දේ.
+හදිසි අනතුරකදී හෝ රෝහල්ගත වීමකදී ප්‍රතිලාභ ලබාගත හැකි වන පරිදි සමහර බැංකු ගිණුම් සඳහා නොමිලේ රක්ෂණ ආවරණයක් ලබා දේ.
+Hadisi anathurakadi ho rohalgatha weemakadi prathilabha labagatha haki wana paridi samahara banku ginum sadaha nomile rakshana awaranayak laba de.
+International credit හෝ debit cards භාවිතා කරමින් foreign countries වලදී පවා පහසුවෙන් cash withdraw කිරීමේ පහසුකම customersලාට හිමිවේ.
+අන්තර්ජාතික ක්‍රෙඩිට් හෝ ඩෙබිට් කාඩ්පත් භාවිතා කරමින් විදේශ රටවලදී පවා පහසුවෙන් මුදල් ආපසු ගැනීමේ පහසුකම ගනුදෙනුකරුවන්ට හිමිවේ.
+Antharjathika credit ho debit cardpath bhawitha karamin widesha ratawaladi pawa pahasuwen mudal apasu ganeeme pahasukawa ganudenukaruyanta himiwe.
+Account එකක් open කිරීමට පෙර ඔබේ identity එක verify කිරීම නීතියෙන් බැංකුවලට mandatory කර ඇත.
+ගිණුමක් ආරම්භ කිරීමට පෙර ඔබේ අනන්‍යතාවය තහවුරු කිරීම නීතියෙන් බැංකුවලට අනිවාර්ය කර ඇත.
+Ginumak arambha kireemata pera obe ananyathawayah thahawuru kireema neethiyen baankuwalata aniwaraya kara atha.
+Savings account සඳහා ලැබෙන interest rate සාමාන්‍යයෙන් inflation rate වලට වඩා අඩුය.
+ඉතුරුම් ගිණුම් සඳහා ලැබෙන පොලී අනුපාත සාමාන්‍යයෙන් උද්ධමන අනුපාතවලට වඩා අඩුය.
+Ithurum ginum sadaha labena polee anuphatha samanyayen uddhamana anuphathawalahta wada aduya.
+බොහෝ debit card transactions පැය 24 ත් 48 ත් අතර කාලයක් තුළ process වේ.
+බොහෝ ඩෙබිට් කාඩ් ගනුදෙනු පැය 24 ත් 48 ත් අතර කාලයක් තුළ ක්‍රියාත්මක වේ.
+Boho debit card ganudenu paya 24 th 48 th athara kalayak thula kriyaathmaka wei.
+ඔබට එකම කාලයකදී විවිධ මූල්‍ය ආයතනවල බැංකු accounts කිහිපයක් පවත්වාගෙන යා හැකිය.
+ඔබට එකම කාලයකදී විවිධ මූල්‍ය ආයතනවල බැංකු ගිණුම් කිහිපයක් පවත්වාගෙන යා හැකිය.
+Obata ekama kalayakedee wiwidha moolya ayathanawala baanku ginum kihipayak pawathwaagena yaa hakiya.
+Working hours වලින් පසුව සිදු කරන ATM cash withdrawals සාමාන්‍යයෙන් ඊළඟ working day එකේදී account එකට credit වේ.
+වැඩ කරන වේලාවෙන් පසුව සිදු කරන ඒ.ටී.එම්. මුදල් ලබාගැනීම් සාමාන්‍යයෙන් ඊළඟ වැඩ කරන දිනයේදී ගිණුමට බැර වේ.
+Wada karana welawen pasuwa sidu karana ATM mudal labaganeem samanyayen eelaga wada karana dinayedee ginumata baera wei.
+Credit card සමාගම් interest ගණනය කරනු ලබන්නේ මාසිකව නොව daily basis එකටයි.
+ක්‍රෙඩිට් කාඩ් සමාගම් පොලිය ගණනය කරනු ලබන්නේ මාසිකව නොව දෛනික පදනමිනි.
+Credit card samagam poliya gananaya karanulabanne maasikawa nowa dainika padanamini.
+පවත්වා ගත යුතු minimum balance requirement එක බැංකුවෙන් බැංකුවට සහ account type එකෙන් account type එකට වෙනස් වේ.
+පවත්වා ගත යුතු අවම ශේෂයේ අවශ්‍යතාවය බැංකුවෙන් බැංකුවට සහ ගිණුම් වර්ගයෙන් ගිණුම් වර්ගයට වෙනස් වේ.
+Pawathwa gatha yuthu awama sheshayage awashyathawayah baankuwen baankuwata saha ginum wargayen ginum wargayata wenas wei.
+Direct deposits සාමාන්‍යයෙන් කඩදාසි cheque deposits වලට වඩා වේගයෙන් clear වේ.
+සෘජු තැන්පතු සාමාන්‍යයෙන් කඩදාසි චෙක්පත් තැන්පතුවලට වඩා වේගයෙන් නිෂ්කාශනය වේ.
+Sraaju thanpathu samanyayen kadadasi checkpath thanpathuwalata wada wegayen nishkarshanaya wei.
+Loan සුදුසුකම් සහ interest rate තීරණය කිරීම සඳහා බැංකු ඔබේ credit score භාවිතා කරයි.
+ණය සුදුසුකම් සහ පොලී අනුපාත තීරණය කිරීම සඳහා බැංකු ඔබේ ණය ශ්‍රේණිගත කිරීම් භාවිතා කරයි.
+Naya sudusukam saha polee anuphatha theeranaya kireema sadaha baanku obe naya shrenigathanayan bhawitha karayi.
+ඔබේ account එකේ ඇති මුදලට වඩා වැඩි මුදලක් වියදම් කළ විට overdraft fees අය කෙරේ.
+ඔබේ ගිණුමේ ඇති මුදලට වඩා වැඩි මුදලක් වියදම් කළ විට අයිරා ගාස්තු අය කෙරේ.
+Obe ginume athi mudalata wada wadi mudalak viyadam kala wita ayira gaasthu aya kere.
+Electronic money transfer process එක අවසන් කර confirm කළ පසු ඒවා නැවත cancel කළ නොහැක.
+විද්‍යුත් මුදල් හුවමාරු ක්‍රියාවලිය අවසන් කර තහවුරු කළ පසු ඒවා නැවත අවලංගු කළ නොහැක.
+Widyuth mudal huwamaru kriyawaliya awasan kara thahawuru kala pasu ewa nawatha awalangu kala nohaka.
+මුදල් deposit කළේ කවුරුන් වුවද, joint account හිමියන්ට එහි ඇති සියලුම මුදල් සඳහා සමාන access අයිතියක් ඇත.
+මුදල් තැන්පත් කළේ කවුරුන් වුවද, ඒකාබද්ධ ගිණුම් හිමියන්ට එහි ඇති සියලුම මුදල් සඳහා සමාන ප්‍රවේශ අයිතියක් ඇත.
+Mudal thanpath kale kawurun wuwada, ekaabadhdha ginum himiyanta ehi athi siyaluma mudal sadaha samana prawesha ayithiyak atha.
+Bank holidays දිනවල බැංකු වසා තබන අතර, transactions ඊළඟ working day එක තෙක් process නොවේ.
+රජයේ නිවාඩු දිනවල බැංකු වසා තබන අතර, ගනුදෙනු ඊළඟ වැඩ කරන දිනය තෙක් ක්‍රියාත්මක නොවේ.
+Rajaye niwadu dinawala baanku wasa thabana athara, ganudenu eelaga wada karana dinaya thak kriyaathmaka nowe.
+ඔබේ account type එක අනුව mobile cheque deposits සඳහා daily හෝ monthly limits තිබිය හැකිය.
+ඔබේ ගිණුම් වර්ගය අනුව ජංගම දුරකථන චෙක්පත් තැන්පතු සඳහා දෛනික හෝ මාසික සීමාවන් තිබිය හැකිය.
+Obe ginum wargaya anuwa jangama durakathana checkpath thanpathu sadaha dainika ho maasika seemawan thibiya hakiya.
+Savings accounts මගින් බොහෝ විට මසකට කළ හැකි withdrawals ගණන limit කරනු ලබයි.
+ඉතුරුම් ගිණුම් මගින් බොහෝ විට මසකට කළ හැකි මුදල් ලබාගැනීම් ගණන සීමා කරනු ලබයි.
+Ithurum ginum magin boho wita masakata kala haki mudal labaganeem ganana seema karanulabayi.
+Cheque එකක් සඳහා ලබාදෙන stop payment order එකක් සාමාන්‍යයෙන් මාස හයකට පසු වලංගු නොවේ.
+චෙක්පතක් සඳහා ලබාදෙන ගෙවීම් නැවැත්වීමේ නියෝගයක් සාමාන්‍යයෙන් මාස හයකට පසු වලංගු නොවේ.
+Checkpathak sadaha labadena geweem nawathweeme niyogayak samanyayen maasa hayakata pasu walangu nowe.
+ඩොලර් 10,000 කට වඩා වැඩි cash deposits පිළිබඳව බැංකු විසින් federal authorities වෙත report කළ යුතුය.
+ඩොලර් 10,000 කට වඩා වැඩි මුදල් තැන්පතු පිළිබඳව බැංකු විසින් ෆෙඩරල් බලධාරීන් වෙත වාර්තා කළ යුතුය.
+Dollar 10,000 kata wada wadi mudal thanpathu pilibandawa baanku wisin federal baladharin wetha wartha kala yukthaya.
+එකම බැංකුවක වුවද ඔබේ current account number එක සහ savings account number එක එකිනෙකට වෙනස් වේ.
+එකම බැංකුවක වුවද ඔබේ ජංගම ගิණුම් අංකය සහ ඉතුරුම් ගිණුම් අංකය එකිනෙකට වෙනස් වේ.
+Ekama baankuwaka wuwada obe jangama ginum ankaya saha ithurum ginum ankaya ekinekata wenas wei.
+දිගු කලක් තිස්සේ කිසිදු transaction එකක් සිදු නොකළ dormant accounts සඳහා maintenance fees අය විය හැකිය.
+දිගු කලක් තිස්සේ කිසිදු ගනුදෙනුවක් සිදු නොකළ අක්‍රිය ගිණුම් සඳහා නඩත්තු ගාස්තු අය විය හැකිය.
+Digu kalak thisse kisidu ganudenuwak sidu nokala akriya ginum sadaha nadahathtu gaasthu aya wiya hakiya.
+ACH හරහා සිදුවන electronic fund transfers සඳහා සාමාන්‍යයෙන් working days එකක් හෝ තුනක් ගත වේ.
+ඒ.සී.එච්. හරහා සිදුවන විද්‍යුත් අරමුදල් හුවමාරු සඳහා සාමාන්‍යයෙන් වැඩ කරන දින එකක් හෝ තුනක් ගත වේ.
+ACH haraha siduwana widyuth aramudhal huwamaru sadaha samanyayen wada karana dina ekak ho thunak gatha wei.
+Bank statements සාමාන්‍යයෙන් ඔබේ account එක සඳහා සෑම මාසයකම එකම දිනයකදී සකස් කරනු ලබයි.
+බැංකු ප්‍රකාශන සාමාන්‍යයෙන් ඔබේ ගිණුම සඳහා සෑම මාසයකම එකම දිනයකදී සකස් කරනු ලබයි.
+Banku prakashana samanyayen obe ginuma sadaha saama masayakama ekama dinayakedee sakas karanulabayi.
+Bank drafts බැංකුව විසින් සහතික කරනු ලබන බැවින් ඒවා personal cheques වලට වඩා ආරක්ෂිත යැයි සැලකේ.
+බැංකු අණකර බැංකුව විසින් සහතික කරනු ලබන බැවින් ඒවා පෞද්ගලික චෙක්පත්වලට වඩා ආරක්ෂිත යැයි සැලකේ.
+Banku anakara bankuwa wisin sahathika karanulabana bavin ewa paudgalika checkpathwalata wada arakshitha yay salake.
+වෙනත් අයෙකුගේ නමට ලියා ඇති cheque එකක්, ඔවුන්ගේ අත්සනින් endorse කිරීමකින් තොරව ඔබට deposit කළ නොහැක.
+වෙනත් අයෙකුගේ නමට ලියා ඇති චෙක්පතක්, ඔවුන්ගේ අත්සනින් පිටසන් කිරීමකින් තොරව ඔබට තැන්පත් කළ නොහැක.
+Wenath ayekuge namata liya athi checkpathak, owunge athsanin pitasan kireemakin thorawa obata thanpath kala nohaka.
+ඔබේ account එකේ සිදුවන unauthorized transactions ආවරණය වන පරිදි බොහෝ බැංකු මගින් fraud protection සේවා සපයයි.
+ඔබේ ගිණුමේ සිදුවන අනවසර ගනුදෙනු ආවරණය වන පරිදි බොහෝ බැංකු මගින් වංචා ආරක්ෂණ සේවා සපයයි.
+Obe ginume siduwana anawasara ganudenu awaranaya wana paridi boho banku magin wancha arakshana sewa sapayayi.
+Voided cheque එකක් භාවිතා කරනු ලබන්නේ direct deposits සහ automatic payments set up කිරීම සඳහා මිස මිලදී ගැනීම් සිදු කිරීම සඳහා නොවේ.
+අවලංගු කරන ලද චෙක්පතක් භාවිතා කරනු ලබන්නේ සෘජු තැන්පතු සහ ස්වයංක්‍රීය ගෙවීම් සැකසීම සඳහා මිස මිලදී ගැනීම් සිදු කිරීම සඳහා නොවේ.
+Awalangu karana lada checkpathak bhawitha karanulabanne sraaju thanpathu saha swayangkreeya geweem sakaseema sadaha misa miladeeganeem sidu kireema sadaha nowe.
+International wire transfers සම්පූර්ණ වීම සඳහා working days පහක් දක්වා කාලයක් ගත විය හැකිය.
+ජාත්‍යන්තර විද්‍යුත් මුදල් හුවමාරු සම්පූර්ණ වීම සඳහා වැඩ කරන දින පහක් දක්වා කාලයක් ගත විය හැකිය.
+Jaathyanthara widyuth mudal huwamaru sampoorna weema sadaha wada karana dina pahak dakwa kalayak gatha wiya hakiya.
+Loans සහ deposits සඳහා බැංකු විසින් compound interest ගණනය කරනු ලබන්නේ simple interest ගණනය කරන ක්‍රමයට වඩා වෙනස් ආකාරයකටය.
+ණය සහ තැන්පතු සඳහා බැංකු විසින් වැල් පොලිය ගණනය කරනු ලබන්නේ සාමාන්‍ය පොලිය ගණනය කරන ක්‍රමයට වඩා වෙනස් ආකාරයකටය.
+Naya saha thanpathu sadaha banku wisin wal poliya gananaya karanulabanne samanya poliya gananaya karana kramayata wada wenas akarayakataya.
+Routing number එක මගින් ඔබේ බැංකුව හඳුනා ගන්නා අතර, account number එක මගින් ඔබේ නිශ්චිත account එක හඳුනා ගනී.
+රවුටින් අංකය මගින් ඔබේ බැංකුව හඳුනා ගන්නා අතර, ගිණුම් අංකය මගින් ඔබේ නිශ්චිත ගිණුම හඳුනා ගනී.
+Routing ankaya magin obe bankuwa handuna ganna athara, ginum ankaya magin obe nishchitha ginuma handuna gane.
+Post-dated cheques, ඒවායේ සඳහන් කර ඇති දිනයට පෙර cash කිරීමට නීත්‍යානුකූලව හැකියාව ඇත.
+පසුදින දැමූ චෙක්පත්, ඒවායේ සඳහන් කර ඇති දිනයට පෙර මුදල් කිරීමට නීත්‍යානුකූලව හැකියාව ඇත.
+Pasudina damoo checkpath, ewaye sadahan kara athi dinayata pera mudal kireemata neethiyaanukulawa hakiyawa atha.
+Fixed deposits නියමිත කාලයට පෙර withdraw කිරීමේදී අය කරන penalty එක සාමාන්‍යයෙන් මාස කිහිපයක interest එකට සමාන වේ.
+ස්ථාවර තැන්පතු නියමිත කාලයට පෙර ආපසු ගැනීමේදී අය කරන දඩ මුදල සාමාන්‍යයෙන් මාස කිහිපයක පොලියට සමාන වේ.
+Sthawara thanpathu niyamitha kalayata pera aapasu ganeemedee aya karana dada mudala samanyayen maasa kipayaka poliyata samana wei.
+සැකකටයුතු හෝ අසාමාන්‍ය ක්‍රියාකාරකම් හඳුනාගතහොත් බැංකු විසින් accounts තාවකාලිකව freeze කරනු ලබයි.
+සැකකටයුතු හෝ අසාමාන්‍ය ක්‍රියාකාරකම් හඳුනාගතහොත් බැංකු විසින් ගිණුම් තාවකාලිකව අත්හිටුවනු ලබයි.
+Sakakatayuthu ho asaamanya kriyaakarakam handunagathahoth banku wisin ginum thawakalikawa athhituwanulabayi.
+Garnishment order එකක් මගින් creditors ලාට ඔබේ bank account එකෙන් සෘජුවම මුදල් ලබා ගැනීමට අවසර ලැබේ.
+රාජසන්තක කිරීමේ නියෝගයක් මගින් ණයහිමියන්ට ඔබේ බැංකු ගිණුමෙන් සෘජුවම මුදල් ලබා ගැනීමට අවසර ලැබේ.
+Rajasanthaka kireeme niyogayak magin nayahimiyanta obe banku ginumen sraajuwama mudal laba ganeemata awasara labe.
+FDIC ආයතනය විසින් එක් depositor කෙනෙකු සඳහා එක් මූල්‍ය ආයතනයක ඇති බැංකු deposits ඩොලර් 250,000 ක් දක්වා insure කරයි.
+එෆ්.ඩී.අයි.සී. ආයතනය විසින් එක් තැන්පත්කරුවෙකු සඳහා එක් මූල්‍ය ආයතනයක ඇති බැංකු තැන්පතු ඩොලර් 250,000 ක් දක්වා රක්ෂණය කරයි.
+F.D.I.C. aayathanaya wisin ek thanpathkaruyeku sadaha ek moolya aayathanayaka athi banku thanpathu dollar 250,000 k dakwa rakshana karayi.
+ජාත්‍යන්තර භාවිතය සඳහා travelers cheques වෙනුවට දැන් බොහෝ දුරට debit සහ credit cards භාවිත කෙරේ.
+ජාත්‍යන්තර භාවිතය සඳහා සංචාරක චෙක්පත් වෙනුවට දැන් බොහෝ දුරට ඩෙබිට් සහ ක්‍රෙඩිට් කාඩ්පත් භාවිත කෙරේ.
+Jaathyanthara bhawithaya sadaha sancharaka checkpath wenuwata dan boho durata debit saha credit cardpath bhawitha kere.
+නෝට්ටුවකින් අඩකට වඩා වැඩි ප්‍රමාණයක් හොඳින් ඉතිරිව තිබේ නම්, හානි වූ notes භාර ගැනීම reject කිරීමට බැංකුවලට නොහැක.
+නෝට්ටුවකින් අඩකට වඩා වැඩි ප්‍රමාණයක් හොඳින් ඉතිරිව තිබේ නම්, හානි වූ මුදල් නෝට්ටු භාර ගැනීම නීත්‍යානුකූලව ප්‍රතික්ෂේප කිරීමට බැංකුවලට නොහැක.
+Nottuwakin adakata wada wadi pramanayak hodin ithiriwa thibe nam, haani woo mudal nottu bhara ganeema neethiyaanukulawa prathikshepa kireemata bankuwalata nohaka.
+ඔබේ account balance එක ප්‍රමාණවත් නොවුණද automatic bill payments දිගටම සිදුවේ.
+ඔබේ ගිණුම් ශේෂය ප්‍රමාණවත් නොවුණද ස්වයංක්‍රීය බිල්පත් ගෙවීම් දිගටම සිදුවේ.
+Obe ginum sheshaya pramanawath nowunada swayangkreeya billpath geweem digatama siduwe.
+Certified cheque එකක් මගින් ගෙවීම් සඳහා ප්‍රමාණවත් funds ඇති බවට සහ ඒවා වෙන්කර තබා ඇති බවට සහතික කෙරේ.
+සහතික කළ චෙක්පතක් මගින් ගෙවීම් සඳහා ප්‍රමාණවත් අරමුදල් ඇති බවට සහ ඒවා වෙන්කර තබා ඇති බවට සහතික කෙරේ.
+Sahathika kala checkpathak magin geweem sadaha pramanawath aramudhal athi bawata saha ewa wenkara thaba athi bawata sahathika kere.
+ඔබට යහපත් account history එකක් තිබුණද, විශාල වටිනාකමකින් යුත් cheque deposits සඳහා බැංකු විසින් තාවකාලික holds පැනවිය හැකිය.
+ඔබට යහපත් ගිණුම් ඉතිහාසයක් තිබුණද, විශාල වටිනාකමකින් යුත් චෙක්පත් තැන්පතු සඳහා බැංකු විසින් තාවකාලික රඳවා ගැනීම් පැනවිය හැකිය.
+Obata yahapath ginum ithihasayak thibunada, wishala watinakayakin yuthu checkpath thanpathu sadaha banku wisin thawakalika radawa ganeem panawiya hakiya.
+Negative balance එකක් සහිත bank account එකක් වසා දැමීම, වෙනත් ස්ථානවල accounts open කිරීමට ඇති ඔබේ හැකියාවට බලපෑම් කළ හැකිය.
+සෘණාත්මක ශේෂයක් සහිත බැංකු ගිණුමක් වසා දැමීම, වෙනත් ස්ථානවල ගිණුම් ආරම්භ කිරීමට ඇති ඔබේ හැකියාවට බලපෑම් කළ හැකිය.
+Srunathmaka sheshayak sahitha banku ginumak wasa dameema, wenath sthanawala ginum arambha kireemata athi obe hakiyawata balapam kala hakiya.
+Cheque එකක් පිටුපස for deposit only ලෙස සටහන් කිරීමෙන් වෙනත් කිසිවෙකුට එය cash කර ගැනීම වැළැක්විය හැකිය.
+චෙක්පතක් පිටුපස තැන්පතු සඳහා පමණයි ලෙස සටහන් කිරීමෙන් වෙනත් කිසිවෙකුට එය මුදල් කර ගැනීම වැළැක්විය හැකිය.
+Checkpathak pitupasa thanpathu sadaha pamanayi lesa sathan kireemen wenath kisiewukuha eya mudal kara ganeema walakwiya hakiya.
+Savings account සඳහා ලැබෙන interest rate සාමාන්‍යයෙන් fixed deposits සඳහා ලැබෙන interest rate වලට වඩා අඩුය.
+ඉතුරුම් ගිණුම් සඳහා ලැබෙන පොලී අනුපාත සාමාන්‍යයෙන් ස්ථාවර තැන්පතු සඳහා ලැබෙන පොලී අනුපාතවලට වඩා අඩුය.
+Ithurum ginum sadaha labena polee anuphatha samanyayen sthawara thanpathu sadaha labena polee anuphathawalata wada aduya.
+ඔබේ account balance එක අවශ්‍ය minimum balance එකට වඩා අඩු වුවහොත් බොහෝ බැංකු ඒ සඳහා fee එකක් අය කරයි.
+ඔබේ ගිණුම් ශේෂය අවශ්‍ය අවම මට්ටමට වඩා අඩු වුවහොත් බොහෝ බැංකු ඒ සඳහා ගාස්තුවක් අය කරයි.
+Obe ginum sheshaya awashya awama mattamata wada adu wuwahoth boho banku e sadaha gaasthuwak aya karayi.
+වෙනත් බැංකුවල ATM යන්ත්‍රවලින් cash withdraw කිරීමේදී සාමාන්‍යයෙන් අමතර charges අය වේ.
+වෙනත් බැංකුවල ඒ.ටී.එම්. යන්ත්‍රවලින් මුදල් ලබාගැනීමේදී සාමාන්‍යයෙන් අමතර ගාස්තු අය වේ.
+Wenath bankuwala ATM yanthrawalin mudal labaganeemedee samanyayen amathara gaasthu aya we.
+Due date එකට පසුව සිදුකරන credit card payments සඳහා late fees අය කෙරේ.
+නියමිත දිනට පසුව සිදුකරන ක්‍රෙඩිට් කාඩ් ගෙවීම් සඳහා ප්‍රමාද ගාස්තු අය කෙරේ.
+Niyamitha dinata pasuwa sidukarana credit card geweem sadaha pramaadha gaasthu aya kere.
+අලුතින් bank account එකක් open කිරීමට ඔබ වලංගු ID documents ඉදිරිපත් කළ යුතුය.
+අලුතින් බැංකු ගිණුමක් ආරම්භ කිරීමට ඔබ වලංගු අනන්‍යතා ලේඛන ඉදිරිපත් කළ යුතුය.
+Aluthin banku ginumak arambha kireemata oba walangu ananyatha lekhana idiripath kala yukthaya.
+Overdraft protection සේවාව මගින් ඔබේ account එකේ පවතින මුදලට වඩා වැඩි මුදලක් ලබා ගැනීමට ඔබට අවස්ථාව ලැබෙයි.
+අයිරා ආරක්ෂණ සේවාව මගින් ඔබේ ගිණුමේ පවතින මුදලට වඩා වැඩි මුදලක් ලබා ගැනීමට ඔබට අවස්ථාව ලැබෙයි.
+Ayira arakshana sewawa magin obe ginume pawathina mudalata wada wadi mudalak laba ganeemata obata awasthawa labeyi.
+ඉහළ ආරක්ෂාවක් සඳහා mobile banking apps වෙත පිවිසීමේදී two-factor authentication අවශ්‍ය වේ.
+ඉහළ ආරක්ෂාවක් සඳහා ජංගම බැංකු යෙදුම් වෙත පිවිසීමේදී ද්විත්ව සාධක සත්‍යාපනය අවශ්‍ය වේ.
+Ihala arakshawak sadaha jangama banku yedum wetha piwiseemedee dwithwa saadhaka sathyaapanaya awashya we.
+Cheques clear වීම සඳහා සාමාන්‍යයෙන් working days තුනක් හෝ පහක් ගත වේ.
+චෙක්පත් නිෂ්කාශනය වීම සඳහා සාමාන්‍යයෙන් වැඩ කරන දින තුනක් හෝ පහක් ගත වේ.
+Checkpath nishkarshanaya weema sadaha samanyayen wada karana dina thunak ho pahak gatha we.
+ඇතැම් transactions සඳහා joint account හිමියන් සියලු දෙනාගේම අත්සන් අවශ්‍ය වේ.
+ඇතැම් ගනුදෙනු සඳහා ඒකාබද්ධ ගිණුම් හිමියන් සියලු දෙනාගේම අත්සන් අවශ්‍ය වේ.
+Atham ganudenu sadaha ekaabadhdha ginum himiyan siyalu denagema athsan awashya we.
+Bank holidays දිනවල බැංකු වසා තබන අතර, එම දිනවල transactions ක්‍රියාත්මක නොවේ.
+රජයේ නිවාඩු දිනවල බැංකු වසා තබන අතර, එම දිනවල ගනුදෙනු ක්‍රියාත්මක නොවේ.
+Rajaye niwadu dinawala banku wasa thabana athara, ema dinawala ganudenu kriyaathmaka nowe.
+ශාඛාවකට ගොස් cheque එකක් deposit කිරීමට වඩා direct deposit ක්‍රමය වේගවත් වේ.
+ශාඛාවකට ගොස් චෙක්පතක් තැන්පත් කිරීමට වඩා සෘජු තැන්පතු ක්‍රමය වේගවත් වේ.
+Shaakhawakata gos checkpathak thanpath kireemata wada sraaju thanpathu kramaya wegawath we.
+Market conditions මත පදනම්ව foreign exchange rates දවස පුරා වෙනස් වේ.
+වෙළෙඳපොළ තත්ත්වයන් මත පදනම්ව විදේශ විනිමය අනුපාත දවස පුරා වෙනස් වේ.
+Weledapola thaththwayan math padanamwa widesha winimaya anuphatha dawasa pura wenas we.
+බැංකුවල ඇති safety deposit boxes සඳහා annual rental fees ගෙවිය යුතුය.
+බැංකුවල ඇති ආරක්ෂිත තැන්පතු පෙට්ටි සඳහා වාර්ෂික කුලී ගාස්තු ගෙවිය යුතුය.
+Bankuwala athi arakshitha thanpathu petti sadaha waarshika kulee gaasthu gewiya yukthaya.
+Loan approval එක ලැබීම ඔබේ credit score සහ ණය පියවීමේ හැකියාව මත රඳා පවතී.
+ණය අනුමැතිය ලැබීම ඔබේ ණය ශ්‍රේණිගත කිරීම සහ ණය පියවීමේ හැකියාව මත රඳා පවතී.
+Naya anumathiya labeema obe naya shrenigathanaya saha naya piyaweme hakiyawa math rada pawathe.
+Electronic fund transfers සාමාන්‍ය bank transfers වලට වඩා වේගවත් වන නමුත් ඒ සඳහා වැඩි cost එකක් වැය වේ.
+විද්‍යුත් මුදල් හුවමාරු සාමාන්‍ය බැංකු හුවමාරුවලට වඩා වේගවත් වන නමුත් ඒ සඳහා වැඩි පිරිවැයක් වැය වේ.
+Widyuth mudal huwamaru samanya banku huwamaruwalata wada wegawath wana namuth e sadaha wadi piriwayak waya we.
+නිශ්චිත කාලයක් තිස්සේ කිසිදු transaction එකක් සිදු නොකළහොත් dormant accounts freeze කිරීමට ඉඩ ඇත.
+නිශ්චිත කාලයක් තිස්සේ කිසිදු ගනුදෙනුවක් සිදු නොකළහොත් අක්‍රිය ගිණුම් අත්හිටුවීමට ඉඩ ඇත.
+Nishchitha kalayak thisse kisidu ganudenuwak sidu nokalahoth akriya ginum athhituwata ida atha.
+විශාල cash transactions පිළිබඳව බැංකු විසින් regulatory authorities වෙත report කළ යුතුය.
+විශාල මුදල් ගනුදෙනු පිළිබඳව බැංකු විසින් නියාමන බලධාරීන් වෙත වාර්තා කළ යුතුය.
+Wishala mudal ganudenu pilibandawa banku wisin niyamana baladharin wetha wartha kala yukthaya.
+Cheque එකක් cash කිරීමට පෙර එහි payment එක stop කිරීමට ඔබට හැකියාව ඇත.
+චෙක්පතක් මුදල් කිරීමට පෙර එහි ගෙවීම් නැවැත්වීමට ඔබට හැකියාව ඇත.
+Checkpathak mudal kireemata pera ehi geweem nawathweemata obata hakiyawa atha.
+මාසික bank statements අන්තර්ජාලය හරහා නොමිලේ ලබාගත හැකි වුවද, ඒවායේ printed copies සඳහා අමතර charges වැය විය හැකිය.
+මාසික ගිණුම් ප්‍රකාශන අන්තර්ජාලය හරහා නොමිලේ ලබාගත හැකි වුවද, ඒවායේ මුද්‍රිත පිටපත් සඳහා අමතර මුදලක් වැය විය හැකිය.
+Maasika ginum prakashana antharjalaya haraha nomile labagatha haki wuwada, ewaye mudritha pitapath sadaha amathara mudalak waya wiya hakiya.
+ඔබ මියගියහොත් ඔබේ account එකේ ඇති funds එහි නම් කර ඇති beneficiaries ලාට හිමි වේ.
+ඔබ මියගියහොත් ඔබේ ගිණුමේ ඇති අරමුදල් එහි නම් කර ඇති ප්‍රතිලාභීන්ට හිමි වේ.
+Oba miyagiyahoth obe ginume athi aramudhal ehi nam kara athi prathilabheenta himi we.
+Debit card transactions සඳහා වැය වන මුදල් ඔබේ account balance එකෙන් ක්ෂණිකවම අඩු කරනු ලැබේ.
+ඩෙබිට් කාඩ් ගනුදෙනු සඳහා වැය වන මුදල් ඔබේ ගිණුම් ශේෂයෙන් ක්ෂණිකවම අඩු කරනු ලැබේ.
+Debit card ganudenu sadaha waya wana mudal obe ginum sheshayen kshanikawama adu karanu labe.
+අලුත් savings account එකක් activate කිරීම සඳහා බැංකු විසින් minimum deposit එකක් අවශ්‍ය කරනු ලබයි.
+අලුත් ඉතුරුම් ගිණුමක් සක්‍රිය කිරීම සඳහා බැංකු විසින් අවම තැන්පතු මුදලක් අවශ්‍ය කරනු ලබයි.
+Aluth ithurum ginumak sakriya kireema sadaha banku wisin awama thanpathu mudalak awashya karanu labayi.
+Pre-approved loans සාමාන්‍ය loan applications වලට වඩා වේගයෙන් process කළ හැකිය.
+පූර්ව අනුමත ණය සාමාන්‍ය ණය අයදුම්පත්වලට වඩා වේගයෙන් ක්‍රියාවට නැංවිය හැකිය.
+Poorwa anumatha naya samanya naya ayadumpathwalata wada wegayen kriyawata nanwiya hakiya.
+ඉරුණු හෝ හානි වූ මුදල් නෝට්ටු ATM යන්ත්‍ර හරහා deposit කිරීමට ඔබට නොහැක.
+ඉරුණු හෝ හානි වූ මුදල් නෝට්ටු ඒ.ටී.එම්. යන්ත්‍ර හරහා තැන්පත් කිරීමට ඔබට නොහැක.
+Irunu ho haani woo mudal nottu ATM yanthra haraha thanpath kireemata obata nohaka.
+Standing orders මගින් කිසිදු manual මැදිහත්වීමකින් තොරව, නියමිත දිනවලදී ස්වයංක්‍රීයවම funds transfer වේ.
+ස්ථාවර නියෝග මගින් කිසිදු අතින් සිදුකරන මැදිහත්වීමකින් තොරව, නියමිත දිනවලදී ස්වයංක්‍රීයවම අරමුදල් හුවමාරු වේ.
+Sthawara niyoga magin kisidu athin sidukarana madihathweemakin thorawa, niyamitha dinawaladee swayangkreeyawama aramudhal huwamaru we.
+බොහෝ බැංකු මගින් මසකට කළ හැකි නොමිලේ ATM transactions සංඛ්‍යාව limit කරනු ලබයි.
+බොහෝ බැංකු මගින් මසකට කළ හැකි නොමිලේ ඒ.ටී.එම්. ගනුදෙනු සංඛ්‍යාව සීමා කරනු ලබයි.
+Boho banku magin masakata kala haki nomile ATM ganudenu sankhyawa seema karanulabayi.
+Credit cards සඳහා grace period එකක් හිමි වන අතර, එම කාලය තුළ මිලදී ගැනීම් සඳහා කිසිදු interest එකක් අය නොකෙරේ.
+ක්‍රෙඩිට් කාඩ්පත් සඳහා සහන කාලයක් හිමි වන අතර, එම කාලය තුළ මිලදී ගැනීම් සඳහා කිසිදු පොලියක් අය නොකෙරේ.
+Credit cardpath sadaha sahana kalayak himi wana athara, ema kalaya thula miladeeganeem sadaha kisidu poliyak aya nokere.
+Bank statements නිල ලේඛන කටයුතු සඳහා වලංගු proof of address එකක් ලෙස භාවිත කළ හැකිය.
+බැංකු ප්‍රකාශන නිල ලේඛන කටයුතු සඳහා වලංගු ලිපිනය තහවුරු කිරීමේ සාක්ෂියක් ලෙස භාවිත කළ හැකිය.
+Banku prakashana nila lekhana katayuthu sadaha walangu lipinaya thahawuru kireeme saakshiyak lesa bhawitha kala hakiya.
+Minors ලාට මවුපියන් හෝ භාරකරුවෙකු joint owner කෙනෙකු ලෙස නොමැතිව bank accounts open කළ නොහැක.
+බාලවයස්කරුවන්ට මවුපියන් හෝ භාරකරුවෙකු හවුල් හිමිකරුවෙකු ලෙස නොමැතිව බැංකු ගිණුම් ආරම්භ කළ නොහැක.
+Balawayaskaruyanta maupiyan ho bharakaruyeku hawul himikaruyeku lesa nathuwa banku ginum arambha kala nohaka.
+Security හේතූන් මත online banking password කලින් කලට වෙනස් කළ යුතුය.
+ආරක්ෂක හේතූන් මත අන්තර්ජාල බැංකු මුරපද කලින් කලට වෙනස් කළ යුතුය.
+Arakshaka hethoon math antharjala banku murapada kalin kalata wenas kala yukthaya.
+Bank drafts බැංකුව විසින් සහතික කරනු ලබන බැවින්, personal cheques මෙන් ඒවා bounce විය නොහැක.
+බැංකු අණකර බැංකුව විසින් සහතික කරනු ලබන බැවින්, පෞද්ගලික චෙක්පත් මෙන් ඒවා අගරු විය නොහැක.
+Banku anakara bankuwa wisin sahathika karanu labana bavin, paudgalika checkpath men ewa agaru wiya nohaka.
+Foreign currency accounts මගින් exchange rate වල සිදුවන උච්චාවචනයන්ගෙන් ඔබට ආරක්ෂාව සැලසේ.
+විදේශ විනිමය ගිණුම් මගින් විදේශ විනිමය අනුපාතවල සිදුවන උච්චාවචනයන්ගෙන් ඔබට ආරක්ෂාව සැලසේ.
+Widesha winimaya ginum magin widesha winimaya anuphathawala siduwana uchchawachanayangen obata arakshawa salase.
+Fraudulent activities සිදුවන බවට සැක කෙරෙන accounts, ඒවායේ investigation කටයුතු අවසන් වන තෙක් බැංකු විසින් තාවකාලිකව freeze කරනු ලබයි.
+වංචනික ක්‍රියාකාරකම් සිදුවන බවට සැක කෙරෙන ගිණුම්, ඒවායේ පරීක්ෂණ කටයුතු අවසන් වන තෙක් බැංකු විසින් තාවකාලිකව අත්හිටුවනු ලබයි.
+Wanchanika kriyaakarakam siduwana bawata saka kerewna ginum, ewaye pareekshana katayuthu awasan wana thak banku wisin thawakalikawa athhituwanulabayi.
+ඔබේ agreement එකේ කොන්දේසි මත පදනම්ව, loan මුදලක් නියමිත කාලයට පෙර පියවීමේදී early repayment penalty අය විය හැකිය.
+ඔබේ ගිවිසුමේ කොන්දේසි මත පදනම්ව, ණය මුදලක් නියමිත කාලයට පෙර පියවීමේදී දඩ මුදල් අය විය හැකිය.
+Obe giwisume kondesi math padanamwa, naya mudalak niyamitha kalayata pera piyawemeedee dada mudal aya wiya hakiya.
+ඔබ විසින් අදාළ අවසරය manually cancel කරන තෙක් automatic bill payments දිගටම සිදුවේ.
+ඔබ විසින් අදාළ අවසරය අතින් අවලංගු කරන තෙක් ස්වයංක්‍රීය බිල්පත් ගෙවීම් දිගටම සිදුවේ.
+Oba wisin adala awasara athin awalangu karana thak swayangkreeya billpath geweem digatama siduwe.
+බැංකු විසින් තමන් සතු deposits වලින් යම් ප්‍රතිශතයක් cash reserves ලෙස පවත්වාගෙන යාම mandatory වේ.
+බැංකු විසින් තමන් සතු තැන්පතුවලින් යම් ප්‍රතිශතයක් මුදල් සංචිත ලෙස පවත්වාගෙන යාම අනිවාර්ය වේ.
+Banku wisin thaman sathu thanpathuwalin yam prathishathayak mudal sanchitha lesa pawathwaagena yaama aniwaraya we.
+Fixed deposits මගින් ඉහළ interest එකක් වෙනුවෙන් ඔබේ මුදල් නිශ්චිත කාලසීමාවකට රඳවා තබා ගනී.
+ස්ථාවර තැන්පතු මගින් ඉහළ පොලියක් වෙනුවෙන් ඔබේ මුදල් නිශ්චිත කාලසීමාවකට රඳවා තබා ගනී.
+Sthawara thanpathu magin ihala poliyak wenuwen obe mudal nishchitha kalaseemawakata radawa thaba ganee.
+ඔබේ අනුමැතියකින් තොරව සිදු වූ unauthorized transactions පිළිබඳව සීමිත කාලසීමාවක් තුළ පැමිණිලි කිරීමට ඔබට හැකියාව ඇත.
+ඔබේ අනුමැතියකින් තොරව සිදු වූ අනවසර ගනුදෙනු පිළිබඳව සීමිත කාලසීමාවක් තුළ පැමිණිලි කිරීමට ඔබට හැකියාව ඇත.
+Obe anumayakin thorawa sidu woo anawasara ganudenu pilibandawa seemitha kalaseemawak thula pamahili kireemata obata hakiyawa atha.
+ඔබේ account එකේ නම් කර ඇති nominees ලාගේ තොරතුරු මගින්, දේපළ අයිතිය ඔවුන් වෙත පැවරීම වඩාත් සුමටව සිදු කිරීමට සහතික වේ.
+ඔබේ ගිණුමේ නම් කර ඇති උරුමකරුවන්ගේ තොරතුරු මගින්, දේපළ අයිතිය ඔවුන් වෙත පැවරීම වඩාත් සුමටව සිදු කිරීමට සහතික වේ.
+Obe ginume nam kara athi urumakaruwange thhorathuru magin, depala ayithiya owun wetha pawareema wadhath sumatawa sidu kireemata sahathika we.
+බැංකු විසින් savings accounts සඳහා interest ගණනය කරනු ලබන්නේ daily balance එක හෝ monthly average balance එක පදනම් කරගනිමිනි.
+බැංකු විසින් ඉතුරුම් ගිණුම් සඳහා පොලිය ගණනය කරනු ලබන්නේ දෛනික ශේෂය හෝ මාසික සාමාන්‍ය ශේෂය පදනම් කරගනිමිනි.
+Banku wisin ithurum ginum sadaha poliya gananaya karanulabanne dainika sheshaya ho maasika samanya sheshaya padanam karaganimini.
+Personal Loan එකක් සඳහා ඔබ Apply කරන විට, මූල්‍යමය අපහසුතාවයකින් තොරව ඔබට මාසික වාරික ගෙවීමට හැකිදැයි තීරණය කිරීම සඳහා බැංකුව විසින් ඔබේ Debt-to-Income Ratio එක Evaluate කරනු ඇත.
+පුද්ගලික ණයක් සඳහා ඔබ අයදුම් කරන විට, මූල්‍යමය අපහසුතාවයකින් තොරව ඔබට මාසික වාරික ගෙවීමට හැකිදැයි තීරණය කිරීම සඳහා බැංකුව විසින් ඔබේ ණය සහ ආදායම් අනුපාතය ඇගයීමට ලක් කරනු ඇත.
+Pudgalika nayak sadaha oba ayadum karana vita, moolyamaya apahasuthawayakin thorawa obata maseeka waarika gewimata hakidai theeranaya kireema sadaha bankuwa wisin obe naya saha aadayam anupaathaya aegayeemata lak karanu atha.
+ඔබේ Debit Card එක නැති වුවහොත් හෝ එය සොරකම් කරනු ලැබුවහොත්, Card එක Block කිරීමට සහ අනවසර Transactions වැලැක්වීමට ඔබ වහාම එය බැංකුවට Report කළ යුතුය.
+ඔබේ ඩෙබිට් කාඩ්පත නැති වුවහොත් හෝ එය සොරකම් කරනු ලැබුවහොත්, කාඩ්පත අවහිර කිරීමට සහ අනවසර ගනුදෙනු වැලැක්වීමට ඔබ වහාම එය බැංකුවට වාර්තා කළ යුතුය.
+Obe debit cardpatha nathi wuwahoth ho eya sorakam karanu labuwahoth, cardpatha awahira kireemata saha anawasara ganudenu walaqueemata oba wahama eya bankuwata waarutha kala yuthuya.
+වයස අවුරුදු හැටට වැඩි Customersලාට Benefit එකක් ලෙස බැංකු විසින් Senior Citizen Savings Accounts සඳහා ඉහළ Interest Rates ලබා දෙයි.
+වයස අවුරුදු හැටට වැඩි පාරිභෝගිකයින්ට ප්‍රතිලාභයක් ලෙස බැංකු විසින් ජ්‍යෙෂ්ඨ පුරවැසි ඉතුරුම් ගිණුම් සඳහා ඉහළ පොලී අනුපාත ලබා දෙයි.
+Wayasa awurudu haitata wadi paaribhogikayinta prathilaabayak lesa banku wisin jyeshta purawasi ithurum ginuwom sadaha ihala polee anupaatha laba dei.
+ACH Transfers මඟින් Businessesවලට නියමිත පදනමක් මත සේවකයින්ගේ Bank Accounts වෙත සෘජුවම Salaries Deposit කිරීමට ඉඩ සලසයි.
+ස්වයංක්‍රීය නිෂ්කාශන මධ්‍යස්ථාන මාරු කිරීම් මඟින් ව්‍යාපාරවලට නියමිත පදනමක් මත සේවකයින්ගේ බැංකු ගිණුම් වෙත සෘජුවම වැටුප් තැන්පතු සැකසීමට ඉඩ සලසයි.
+Swayangkreeya nishkarana madhyasthaana maaru kireem magin wyapaara wala niyamitha padanamak math sewakayinoge banku ginuwom wetha srijuwama watup thanpathu sakaseemata ida salasai.
+ඔබ Check එකක් ලියන විට, Processing Errors හෝ Bounce වීම් මඟහරවා ගැනීම සඳහා අකුරින් ලියා ඇති Amount එක ඉලක්කම්වලින් ලියා ඇති Amount එකට Match වන බව තහවුරු කර ගත යුතුය.
+ඔබ චෙක්පතක් ලියන විට, සැකසීමේ දෝෂ හෝ ප්‍රතික්ෂේප වීම් මඟහරවා ගැනීම සඳහා අකුරින් ලියා ඇති මුදල ඉලක්කම්වලින් ලියා ඇති මුදලට ගැළපෙන බව තහවුරු කර ගත යුතුය.
+Oba checkpathak liyana vita, sakaseeme doha ho prathikshepa weem mawharawa ganeema sadaha akurin liya athi mudala ilakkam walin liya athi mudalata galapena bawa thahauru kara gatha yuthuya.
+Credit Card Reward Points ඔබ කරන සෑම Purchase එකක් සමඟම එකතු වන අතර, එම Program එක මත පදනම්ව Cashbacks, Vouchers හෝ Air Miles සඳහා ඒවා Redeem කර ගත හැක.
+ක්‍රෙඩිට් කාඩ්පත් ත්‍යාග ලකුණු ඔබ කරන සෑම මිලදී ගැනීමක් සමඟම එකතු වන අතර, එම වැඩසටහන මත පදනම්ව මුදල් ආපසු ලබාගැනීම්, වවුචර හෝ ගුවන් ගමන් සැතපුම් සඳහා ඒවා ලබා ගත හැක.
+Credit cardpath thyaaga lakunu oba karana saama miledee ganeemak samagama ekathu wana athara, ema wadastahana math padanamwa mudal aapasu labaganeem, voucher ho giwan gaman sathayma sadaha ewa laba gatha haka.
+ඔබට ඔබේ Bank Account එක Close කිරීමට අවශ්‍ය නම්, ඔබ මුලින්ම ගෙවීමට ඇති සියලුම Balance පියවිය යුතුය, භාවිත නොකළ Check Books ආපසු භාර දිය යුතුය, සහ ඉතිරි Balance එක Withdraw කරගත යුතුය.
+ඔබට ඔබේ බැංකු ගිණුම වසා දැමීමට අවශ්‍ය නම්, ඔබ මුලින්ම ගෙවීමට ඇති සියලුම හිඟ මුදල් පියවිය යුතුය, භාවිත නොකළ චෙක්පත් පොත් ආපසු භාර දිය යුතුය, සහ ඉතිරි ශේෂය ආපසු ලබාගත යුතුය.
+Obata obe banku ginuwa wasa dazeemata awashya nam, oba mulinma gewimata athi siyalu ma higa mudal piyawiya yuthuya, bhawitha nokaala checkpath poth aapasu bhaara diya yuthuya, saha ithiri sheshaya aapasu labagatha yuthuya.
+බැංකු Online සහ Mobile Banking Transactions අතරතුර ඔබේ Personal Information Protect කිරීම සඳහා Encryption Technology සහ Secure Communication Layers භාවිතා කරයි.
+බැංකු සබැඳි සහ ජංගම බැංකු ගනුදෙනු අතරතුර ඔබේ පුද්ගලික තොරතුරු ආරක්ෂා කිරීම සඳහා කේතන තාක්ෂණය සහ ආරක්ෂිත සන්නිවේදන ස්ථර භාවිතා කරයි.
+Banku sabandi saha jangama banku ganudenu athara thura obe pudgalika thorathuru araksha kireema sadaha kethana thakshanaya saha arakshitha sanniwedana sthara bhawitha karai.
+Housing Loan එකක් සඳහා සාමාන්‍යයෙන් බැංකුව ඉතිරි මුදල Finance කිරීමට පෙර, Property එකෙහි Value එකෙන් අවම වශයෙන් සියයට දහයක සිට විස්සක් දක්වා Down Payment එකක් කිරීම ඔබෙන් අපේක්ෂා කෙරේ.
+නිවාස ණයක් සඳහා සාමාන්‍යයෙන් බැංකුව ඉතිරි මුදල මූල්‍යකරණය කිරීමට පෙර, දේපළෙහි වටිනාකමෙන් අවම වශයෙන් සියයට දහයක සිට විස්සක් දක්වා මූලික ගෙවීමක් කිරීම ඔබෙන් අපේක්ෂා කෙරේ.
+Niwasa nayak sadaha saamanyayen bankuwa ithiri mudala moolyakaranya kireemata pera, depalae watinaakamen awama wasayen siyatha dahayakin sita wissak dakwa moolika gewimak kireema oben apeksha kere.
+Post-dated Checks, ඒවායේ ලියා ඇති Date එකට පෙර Present කළහොත් බැංකුව විසින් භාර නොගන්නා අතර, එමඟින් ඔබව නොමේරූ Withdrawalsවලින් Protect කරයි.
+පසුදින දමන ලද චෙක්පත්, ඒවායේ ලියා ඇති දිනයට පෙර ඉදිරිපත් කළහොත් බැංකුව විසින් භාර නොගන්නා අතර, එමඟින් ඔබව නොමේරූ මුදල් ආපසු ගැනීම්වලින් ආරක්ෂා කරයි.
+Pasudhina damana lada checkpath, ewaaye liya athi dhinayata pera idiripath kalahoth bankuwa wisin bhaara noganna athara, emagin obawa nomeyaru mudal aapasu ganeem walin araksha karai.
+බැංකු විසින් Credit Cards සඳහා Annual Maintenance Fees අය කරන නමුත්, ඔබ වසර තුළ යම් නිශ්චිත Spending Limits සපුරාලන්නේ නම් මෙම Fees Waive කරනු ලැබිය හැකිය.
+බැංකු විසින් ක්‍රෙඩිට් කාඩ්පත් සඳහා වාර්ෂික නඩත්තු ගාස්තු අය කරන නමුත්, ඔබ වසර තුළ යම් නිශ්චිත වියදම් සීමාවන් සපුරාලන්නේ නම් මෙම ගාස්තු නිදහස් කරනු ලැබිය හැකිය.
+Banku wisin credit cardpath sadaha waarshika nadahaththu gaasthu aya karana nuth, oba wasara thula yam nishchitha wiyadam seemawan sapuralanne nam mehee gaasthu nidahas karanu labiya hakiya.
+Internationally Travel කරන විට, Suspicious Activities පිළිබඳ Alerts හේතුවෙන් ඔබේ Card එක Block වීම වැළැක්වීම සඳහා ඔබ කල්තියා ඔබේ බැංකුව Inform කළ යුතුය.
+ජාත්‍යන්තරව සංචාරය කරන විට, සැක සහිත ක්‍රියාකාරකම් පිළිබඳ අනතුරු ඇඟවීම් හේතුවෙන් ඔබේ කාඩ්පත අවහිර වීම වැළැක්වීම සඳහා ඔබ කල්තියා ඔබේ බැංකුව දැනුවත් කළ යුතුය.
+Jaathyantharawa sancharaya karana vita, sakasahitah kriyaakarakam pilibanda anathuru ahangeem hethuwen obe cardpatha awahira weema walakweema sadaha oba kalthiya obe bankuwa danuwath kala yuthuya.
+Zero Balance Accounts මඟින් Customersලාට Minimum Balance Requirements පිළිබඳව කරදර නොවී Bank Account එකක් Maintain කරගෙන යාමට ඉඩ සලසයි, එමඟින් Banking සැමට Accessible එකක් බවට පත් කරයි.
+ශුන්‍ය ශේෂ ගිණුම් මඟින් පාරිභෝගිකයින්ට අවම ශේෂ අවශ්‍යතා පිළිබඳව කරදර නොවී බැංකු ගිණුමක් පවත්වාගෙන යාමට ඉඩ සලසයි, එමඟින් බැංකුකරණය සැමට ප්‍රවේශ විය හැකි එකක් බවට පත් කරයි.
+Shunya shesha ginuwom magin paaribhogikayinta awama shesha awashyatha pilibandawa karadara nowee banku ginuwak pawathwagena yaamata ida salasai, emagin banku karanya samata praweshya wiya haki ekak bawa path karai.
+බැංකු විසින් ඔබේ Credit Card Payment History එක CRIB වෙත Report කරන අතර, එය ඔබේ Credit Score එකට සහ අනාගතයේදී Loans ලබා ගැනීමේ හැකියාවට සෘජුවම බලපායි.
+බැංකු විසින් ඔබේ ක්‍රෙඩිට් කාඩ්පත් ගෙවීම් ඉතිහාසය ණය තොරතුරු කාර්යාංශ වෙත වාර්තා කරන අතර, එය ඔබේ ණය ලකුණු ප්‍රමාණයට සහ අනාගතයේදී ණය ලබා ගැනීමේ හැකියාවට සෘජුවම බලපායි.
+Banku wisin obe credit cardpath gewim ithihasaya naya thorathuru karyaansha wetha waarutha karana athara, eya obe naya lakunu pramaanayata saha anaagathayedee naya laba ganeeme hakiyawata srijuwama balapaai.
+ප්‍රමාණවත් Funds නොමැතිකම හේතුවෙන් Check එකක් Return වුවහොත්, Check එක Issue කරන්නාට සහ එය Receive කරන්නාට ඔවුන්ගේ අදාළ බැංකු මඟින් Fine Charges අය කරනු ලැබිය හැකිය.
+ප්‍රමාණවත් මුදල් නොමැතිකම හේතුවෙන් චෙක්පතක් අගරු වුවහොත්, චෙක්පත නිකුත් කරන්නාට සහ එය ලබන්නාට ඔවුන්ගේ අදාළ බැංකු මඟින් දඩ ගාස්තු අය කරනු ලැබිය හැකිය.
+Pramanwath mudal nomathikama hethuwen checkpathak agaru wuwahoth, checkpatha nikhuth karannata saha eya labannata owunge adala banku magin dada gaasthu aya karanu labiya hakiya.
+Auto-sweep Fixed Deposits මඟින් ඔබේ Savings Account එකේ ඇති අතිරික්ත Funds, Liquidity එක පවත්වා ගනිමින් ඉහළ Interest එකක් Earn කිරීම සඳහා ස්වයංක්‍රීයව Fixed Deposit එකක් වෙත Transfer කරනු ලබයි.
+ස්වයංක්‍රීය මාරුකිරීම් ස්ථාවර තැන්පතු මඟින් ඔබේ ඉතුරුම් ගිණුමේ ඇති අතිරික්ත මුදල්, ද්‍රවශීලතාවය පවත්වා ගනිමින් ඉහළ පොලියක් උපයා ගැනීම සඳහා ස්වයංක්‍රීයව ස්ථාවර තැන්පතුවක් වෙත මාරු කරනු ලබයි.
+Swayangkreeya maarukireem sthaawara thanpathu magin obe ithurum ginuwe athi athiriktha mudal, drawasheelathawayai pawathwa ganimin ihala poleeyak upaya ganeema sadaha swayangkreeyawa sthaawara thanpathuwak wetha maaru karanu labai.
+බැංකු විසින් Checksවල ඇති Signature එක System එකේ ඇති Signature Format එක සමඟ Compare කර බලන අතර, කිසියම් Mismatch එකක් සිදුවුවහොත් Check එක Return වීමට හේතු වේ.
+බැංකු විසින් චෙක්පත්වල ඇති අත්සන ලිපිගොනුවල ඇති අත්සන් ආකෘතිය සමඟ සසඳා බලන අතර, කිසියම් නොගැලපීමක් සිදුවුවහොත් චෙක්පත අගරු වීමට හේතු වේ.
+Banku wisin checkpath wala athi athsana lipigonuwala athi athsan aakruthiya samaga sasada balana athara, kisiyam nogalapeemak siduwuwahoth checkpatha agaru weemata hethu we.
+ඔබ Loan එකක් ගන්නා විට, EMI එකට Principal Loan Amount එක පියවීම සහ Reducing Balance Methods උපයෝගී කරගනිමින් Calculate කරන ලද Interest Component එක යන දෙකම ඇතුළත් වේ.
+ඔබ ණයක් ගන්නා විට, සමාන කළ මාසික වාරිකයට මූලික ණය මුදල පියවීම සහ අඩු වන ශේෂ ක්‍රම උපයෝගී කරගනිමින් ගණනය කරන ලද පොලී සංරචකය යන දෙකම ඇතුළත් වේ.
+Oba nayak ganna vita, samaana kala maseeka waarikayata moolika naya mudala piyaseema saha adu wana shesha krama upayogee karaganimin gananaya karana lada polee sanrachakaya yana dhekama athulath we.
+ATM Cards සඳහා වන PIN Number කිසිවිටෙක බැංකු සේවකයින් ඇතුළු කිසිවෙකු සමඟ Share නොකළ යුතුය, මන්ද බැංකු කිසිවිටෙකත් මෙම Information ඉල්ලා නොසිටින බැවිනි.
+ඒටීඑම් කාඩ්පත් සඳහා වන පුද්ගලික හඳුනාගැනීමේ අංක කිසිවිටෙක බැංකු සේවකයින් ඇතුළු කිසිවෙකු සමඟ බෙදා නොගත යුතුය, මන්ද බැංකු කිසිවිටෙකත් මෙම තොරතුරු ඉල්ලා නොසිටින බැවිනි.
+ATM cardpath sadaha wana pudgalika handunaganeeme ankaya kisiwitaka banku sewakayin athulu kisiwek samaga beda nogatha yuthuya, manda banku kisiwitakath mehee thorathuru illa nositina bawini.
+ඔබට ඔබේ Employerගෙන් Salary Account එකක් ලැබෙන්නේ නම්, බැංකුව විසින් Zero Balance Requirements සහ නොමිලේ Check Books වැනි Additional Benefits ලබා දිය හැකිය.
+ඔබට ඔබේ සේවායෝජකයාගෙන් වැටුප් ගිණුමක් ලැබෙන්නේ නම්, බැංකුව විසින් ශුන්‍ය ශේෂ අවශ්‍යතා සහ නොමිලේ චෙක්පත් පොත් වැනි අතිරේක ප්‍රතිලාභ ලබා දිය හැකිය.
+Obata obe sewayojakayagen watup ginuwak labenne nam, bankuwa wisin shunya shesha awashyatha saha nomile checkpath poth wani athireka prathilaaba laba diya hakiya.
+ඔබ Recurring Deposit Account එකක් ආරම්භ කරන විට, පූර්ව නිශ්චිත කාලසීමාවක් සඳහා සෑම මසකම ස්ථාවර මුදලක් තැන්පත් කිරීමට ඔබ බැඳෙන අතර, බැංකුව විසින් Maturity එකේදී එකතු වූ Interest එක ඔබට ගෙවනු ලබයි.
+ඔබ වාරික තැන්පතු ගිණුමක් ආරම්භ කරන විට, පූර්ව නිශ්චිත කාලසීමාවක් සඳහා සෑම මසකම ස්ථාවර මුදලක් තැන්පත් කිරීමට ඔබ බැඳෙන අතර, බැංකුව විසින් කල් පිරිරීමේදී එකතු වූ පොලිය ඔබට ගෙවනු ලබයි.
+Oba waarika thanpathu ginuwak aarambha karana vita, poorwa nishchitha kaalaseemawak sadaha saama masahama sthaawara mudalak thanpathu kireemata oba badena athara, bankuwa wisin kal pireemeedee ekathu woo poleeya obata gewanu labai.
+KYC Regulationsවලට අනුව ඔබේ Identity එක තහවුරු කිරීමට බැංකුවලට නීතිමය වශයෙන් අවශ්‍ය වේ, එයින් අදහස් කරන්නේ Account opening process එකේදී ඔබ Identity සහ Address එක Prove කරන Documents ඉදිරිපත් කළ යුතු බවයි.
+ඔබේ පාරිභෝගිකයා හඳුනාගන්න රෙගුලාසිවලට අනුව ඔබේ අනන්‍යතාවය තහවුරු කිරීමට බැංකුවලට නීතිමය වශයෙන් අවශ්‍ය වේ, එයින් අදහස් කරන්නේ ගිණුම් විවෘත කිරීමේ ක්‍රියාවලියේදී ඔබ අනන්‍යතාවය සහ ලිපිනය සනාථ කරන ලියකියවිලි ඉදිරිපත් කළ යුතු බවයි.
+Obe paaribhogikaya handunaganna regulaasiwalata anuwa obe ananyathaya thahauru kireemata bankuwalata neethimaya wasayen awashya we, eyin adahas wanne ginuwa wiwrtha kireeme kriyaawaliyedee oba ananyathaya saha lipinaya sanaatha karana liyakiwili idiripath kala yuthu bawayi.
+ඔබට එකම බැංකුවකින් ලබාගත් Loans කිහිපයක් තිබේ නම්, අලුත් Loans සමඟ සසඳන විට සාපේක්ෂව අඩු Interest Rates යටතේ අමතර ප්‍රතිපාදන සපයන Top-up Loan එකක් ලබා ගැනීමට ඔබ සුදුසුකම් ලැබිය හැකිය.
+ඔබට එකම බැංකුවකින් ලබාගත් ණය කිහිපයක් තිබේ නම්, නව ණය සමඟ සසඳන විට සාපේක්ෂව අඩු පොලී අනුපාත යටතේ අමතර ප්‍රතිපාදන සපයන අතිරේක ණයක් ලබා ගැනීමට ඔබ සුදුසුකම් ලැබිය හැකිය.
+Obata ekama bankuwakin labagath naya kihipayak thibeyinam, nawa naya samaga sasada balana vita saapekshawa adu polee anupaatha yatathe amathara prathipaadana sapayana athireka nayak laba ganeemata oba sudusukam labiya hakiya.
+Credit Card Balance Transfers මඟින් ගෙවීමට ඇති Outstanding Amount එකක් අඩු Interest Rates ලබා දෙන වෙනත් Card එකකට Transfer කිරීමට ඔබට ඉඩ සලසයි, එමඟින් කාලයත් සමඟ Interest Charges සඳහා යන මුදල් ඉතිරි කර ගැනීමට ඔබට උපකාරී වේ.
+ක්‍රෙඩිට් කාඩ්පත් ශේෂ මාරු කිරීම් මඟින් ගෙවීමට ඇති හිඟ ණය මුදලක් අඩු පොලී අනුපාත ලබා දෙන වෙනත් කාඩ්පතකට මාරු කිරීමට ඔබට ඉඩ සලසයි, එමඟින් කාලයත් සමඟ පොලී ගාස්තු සඳහා යන මුදල් ඉතිරි කර ගැනීමට ඔබට උපකාරී වේ.
+Credit cardpath shesha maaru kireem magin gewimata athi higa naya mudalak adu polee anupaatha laba dena wenath cardpathakata maaru kireemata obata ida salasai, emagin kaalayath samaga polee gaasthu sadaha yana mudal ithiri kara ganeemata obata upakaaree we.
+බැංකු සාමාන්‍යයෙන් විදේශයන්ගෙන් ලැබෙන Remittances දින එකක් හෝ තුනක් ඇතුළත Process කරනු ලබයි, නමුත් ඒ සඳහා ගතවන නිශ්චිත කාලය මුදල් එවනු ලබන රට, Intermediate Banks සහ Currency Conversion අවශ්‍යතා මත රඳා පවතී.
+බැංකු සාමාන්‍යයෙන් විදේශයන්ගෙන් ලැබෙන ප්‍රේෂණ දින එකක් හෝ තුනක් ඇතුළත සකසනු ලබයි, නමුත් ඒ සඳහා ගතවන නිශ්චිත කාලය මුදල් එවනු ලබන රට, අතරමැදි බැංකු සහ මුදල් පරිවර්තන අවශ්‍යතා මත රඳා පවතී.
+Banku saamanyayen wideshayangin labena preshana dhina ekak ho thunak athulatha sakasanu labai, namuth eya sadaha gathawana nishchitha kaalaya mudal ewanu labana rata, atharamadi banku saha mudal pariwarthana awashyatha math rada pawathi.
+Loan එකක් සඳහා Collateral එකක් ලෙස ඔබ Fixed Deposits ඇපයට තබන විට, ඇපයට තැබූ මුදල සඳහා තවදුරටත් Interest Earn කරන අතරතුරම, Deposit Value එකෙන් සියයට අනූවක් දක්වා Borrow කිරීමට ඔබට හැකියාව ඇත.
+ණයක් සඳහා ඇපකරයක් ලෙස ඔබ ස්ථාවර තැන්පතු ඇපයට තබන විට, ඇපයට තැබූ මුදල සඳහා තවදුරටත් පොලී උපයන අතරතුරම, තැන්පතු වටිනාකමෙන් සියයට අනූවක් දක්වා ණයට ගැනීමට ඔබට හැකියාව ඇත.
+Nayak sadaha aepakarayak lesa oba sthaawara thanpathu aepayata thabana vita, aepayata thabu mudala sadaha thawaduratath polee upayana atharathurama, thanpathu watinaakamen siyatha anuwak dakwa nayata ganeemata obata hakiyawa aetha.
+බැංකුවේ Cut-off Time එකට පෙර අවසන් කරන ලද EFT Transactions එදිනම Process කරනු ලබන අතර, එම වේලාවෙන් පසුව ආරම්භ කරන ලද Transactions ඊළඟ Working Day එකේදී Process කරනු ලැබේ.
+බැංකුවේ නියමිත වේලාවට පෙර අවසන් කරන ලද විද්‍යුත් අරමුදල් මාරු කිරීමේ ගනුදෙනු එදිනම සකසනු ලබන අතර, එම වේලාවෙන් පසුව ආරම්භ කරන ලද ගනුදෙනු ඊළඟ වැඩ කරන දිනයේදී සකසනු ලැබේ.
+Bankuwe niyamitha welawata pera awasan karana lada widyuth aramudhala maaru kireeme ganudenu edahama sakasanu labana athara, ema welawen pasuwa aarambha karana lada ganudenu eelaga wada karana dhinayedee sakasanu labe.
+ඔබේ Card එක සොරකම් කරනු ලැබුවහොත් හෝ Fraudstersලා අතට පත් වුවහොත් සිදුවන පාඩුව අවම කිරීම සඳහා බැංකු විසින් ATM Cash Withdrawals සහ POS Purchases සඳහා Transaction Limits පනවනු ලබයි.
+ඔබේ කාඩ්පත සොරකම් කරනු ලැබුවහොත් හෝ වංචාකරුවන් අතට පත් වුවහොත් සිදුවන පාඩුව අවම කිරීම සඳහා බැංකු විසින් ඒටීඑම් මුදල් ආපසු ගැනීම් සහ විකුණුම් ස්ථාන මිලදී ගැනීම් සඳහා ගනුදෙනු සීමාවන් පනවනු ලබයි.
+Obe cardpatha sorakam karanu labuwahoth ho wanchakarayan athata path wuwahoth siduwana paaduwa awama kireema sadaha banku wisin ATM mudal aapasu ganeem saha wikunum sthaana miledee ganeem sadaha ganudenu seemawan panawanu labai.
+ඔබ යහපත් Credit History එකක් පවත්වා ගනිමින් නියමිත වේලාවට වාරික ගෙවන්නේ නම්, අලුතින් Application Process එකක් අවශ්‍ය නොවී, Credit Card Limits වැඩි කිරීම සඳහා බැංකු විසින් ඔබව Pre-approved කරනු ලැබිය හැකිය.
+ඔබ යහපත් ණය ඉතිහාසයක් පවත්වා ගනිමින් නියමිත වේලාවට වාරික ගෙවන්නේ නම්, අලුතින් අයදුම් කිරීමේ ක්‍රියාවලියක් අවශ්‍ය නොවී, ක්‍රෙඩිට් කාඩ්පත් සීමාවන් වැඩි කිරීම සඳහා බැංකු විසින් ඔබව පූර්ව-අනුමත කරනු ලැබිය හැකිය.
+Oba yahapath naya ithihasayak pawathwaganimin niyamitha welawata waarika gewanne nam, aluthin ayadum kireeme kriyaawaliyak awashya nowee, credit cardpath seemawan wadi kireema sadaha banku wisin obawa poorwa-anumatha karanu labiya hakiya.
+Demand Drafts යනු Beneficiaryට ගෙවීම් සහතික කරන බැංකු විසින් නිකුත් කරනු ලබන Payment Instruments වන අතර, Property Purchases වැනි විශාල Transactions සඳහා Personal Checksවලට වඩා ඒවා Secure වේ.
+ඉල්ලුම් ඩ්‍රාෆ්ට් යනු ප්‍රතිලාභියාට ගෙවීම් සහතික කරන බැංකු විසින් නිකුත් කරනු ලබන ගෙවීම් උපකරණ වන අතර, දේපළ මිලදී ගැනීම් වැනි විශාල ගනුදෙනු සඳහා පුද්ගලික චෙක්පත්වලට වඩා ඒවා ආරක්ෂිත වේ.
+Illum draft yanu prathilaabhayata gewim sahathika karana banku wisin nikhuth karanu labana gewim upakarana wana athara, depala miledee ganeem wani wishala ganudenu sadaha pudgalika checkpathwalata wada ewa arakshitha we.
+Interest Rates ඉහළ යන විට, Floating Rates සහිත Loansවල EMI ඒ අනුව ඉහළ යන අතර, Fixed Rates සහිත Loans මුළු Loan Tenure එක පුරාම Market Fluctuationsවලින් බලපෑමක් නොලබා පවතී.
+පොලී අනුපාත ඉහළ යන විට, වෙනස් වන පොලී අනුපාත සහිත ණයවල සමාන කළ මාසික වාරික ඒ අනුව ඉහළ යන අතර, ස්ථාවර පොලී අනුපාත සහිත ණය මුළු ණය කාලය පුරාම වෙළෙඳපොළ උච්චාවචනයන්ගෙන් බලපෑමක් නොලබා පවතී.
+Polee anupaatha ihala yana vita, wenas wana polee anupaatha sahitha nayawala samaana kala maseeka waarika eya anuwa ihala yana athara, sthaawara polee anupaatha sahitha naya mulu naya kaalaya purama weledapola uchchawachanayangin balapamak nolaba pawathi.
+බැංකු විසින් Savings Accounts සඳහා Compound Interest ගණනය කරනු ලබන්නේ උපයන ලද Interest එක නියමිත කාල පරාසයන්හිදී Principal Amount එකට නැවත එකතු කිරීමෙනි, එමඟින් කාලයත් සමඟ ඔබේ මුදල් ශීඝ්‍රයෙන් Grow වීමට ඉඩ සලසයි.
+බැංකු විසින් ඉතුරුම් ගිණුම් සඳහා වැල් පොලී ගණනය කරනු ලබන්නේ උපයන ලද පොලිය නියමිත කාල පරාසයන්හිදී මූලික ණය මුදලට නැවත එකතු කිරීමෙනි, එමඟින් කාලයත් සමඟ ඔබේ මුදල් ශීඝ්‍රයෙන් වර්ධනය වීමට ඉඩ සලසයි.
+Banku wisin ithurum ginuwom sadaha wal polee gananaya karanu labanne upayana lada poleeya niyamitha kaala paraasayanhidee moolika naya mudalata nawatha ekathu kireemeni, emagin kaalayath samaga obe mudal sheeghrayen wardhanaya weemata ida salasai.
+කිහිප වතාවක්ම ඇතුළත් කළ Passwords Fail වීමෙන් පසුව ඔබට ඔබේ Internet Banking Password එක අමතක වුවහොත්, ඔබ නැවත Credentials Settings හදන තෙක් Unauthorized Access වැළැක්වීම සඳහා බැංකුව විසින් ඔබේ Account එක තාවකාලිකව Lock කරනු ඇත.
+කිහිප වතාවක්ම ඇතුළත් කළ මුද්‍රිත මුරපද අසාර්ථක වීමෙන් පසුව ඔබට ඔබේ අන්තර්ජාල බැංකු මුරපදය අමතක වුවහොත්, ඔබ නැවත අක්තපත්‍ර සකසන තෙක් අනවසර ප්‍රවේශය වැළැක්වීම සඳහා බැංකුව විසින් ඔබේ ගිණුම තාවකාලිකව අගුළු දමනු ඇත.
+Kihipa wawathawakma athulath kala mudhritha murapadha asaahatha weemen pasuwa obata obe antharjaala banku murapadhaya amathaka wuwahoth, oba nawatha akthapathra sakasana thuru anawasara praweshya walakweema sadaha bankuwa wisin obe ginuwa thaawalikawa agulu damanu atha.
+Home Mortgage Loans සඳහා ඔබ Property Insurance එකක් ලබා ගැනීම සහ ඇපකර Asset එකට සිදුවිය හැකි හානියක් හෝ අලාභයක් සඳහා ආරක්ෂාවක් ලෙස එම Insurance Policy Documents බැංකුවට ඉදිරිපත් කිරීම අවශ්‍ය වේ.
+නිවාස උකස් ණය සඳහා ඔබ දේපළ රක්ෂණයක් ලබා ගැනීම සහ ඇපකර වත්කමට සිදුවිය හැකි හානියක් හෝ අලාභයක් සඳහා ආරක්ෂාවක් ලෙස එම රක්ෂණ ඔප්පු ලේඛන බැංකුවට ඉදිරිපත් කිරීම අවශ්‍ය වේ.
+Niwasa ukas naya sadaha oba depala rakshanayak laba ganeem saha aepakara wathkamata siduwiya haki haaniyak ho alaabhayak sadaha aarakshawak lesa ema rakshana oppu lekhana bankuwata idiripath kireema awashya we.
+වියදම් පියවා ගැනීම සඳහා ඔබේ Account Balance එක නිශ්චිත සීමාවකට වඩා අඩු වූ විට, ඔබේ Fixed Deposit එකෙන් මුදල් ස්වයංක්‍රීයව Savings Account එකට Transfer කරන Auto-sweep Facilities බැංකු විසින් පිරිනමනු ලබයි.
+වියදම් පියවා ගැනීම සඳහා ඔබේ ගිණුමේ ශේෂය නිශ්චිත සීමාවකට වඩා අඩු වූ විට, ඔබේ ස්ථාවර තැන්පතුවෙන් මුදල් ස්වයංක්‍රීයව ඉතුරුම් ගිණුමට මාරු කරන ස්වයංක්‍රීය අරමුදල් මාරු කිරීමේ පහසුකම් බැංකු විසින් පිරිනමනු ලබයි.
+Wiyadam piyawa ganeema sadaha obe ginuwe sheshaya nishchitha seemawakata wada adu woo vita, obe sthaawara thanpathuwen mudal swayangkreeyawa ithurum ginuwata maaru karana swayangkreeya aramudhala maaru kireeme pahasukam banku wisin pirinamanu labai.
+Educational Loan එකක් සඳහා Apply කරන විට, ප්‍රධාන Borrower වගකීම් පැහැර හැරියහොත් Loan එක පියවීම සඳහා සමානව වගකියනු ලබන Co-borrower කෙනෙකු හෝ Guarantor කෙනෙකු බැංකුව විසින් ඉල්ලා සිටිය හැකිය.
+අධ්‍යාපන ණයක් සඳහා අයදුම් කරන විට, ප්‍රධාන ණයකරු වගකීම් පැහැර හැරියහොත් ණය පියවීම සඳහා සමානව වගකියනු ලබන සම-ණයකරුවෙකු හෝ ඇපකරුවෙකු බැංකුව විසින් ඉල්ලා සිටිය හැකිය.
+Adhyapana nayak sadaha ayadum karana vita, pradhana nayakaru wagakeem pahara hariyoth naya piyaseema sadaha samaanawa wagakiyanu labana sama-nayakaruyeku ho aepakaruyeku bankuwa wisin illa sitiya hakiya.
+Contactless Debit සහ Credit Cards සඳහා NFC Technology භාවිතා කරන අතර, එමඟින් PIN Number එකක් ඇතුළත් නොකර Terminal එක මත Card එක Tap කිරීමෙන් පමණක් සුළු වටිනාකමකින් යුත් Payments කිරීමට ඔබට ඉඩ සලසයි.
+ස්පර්ශ රහිත ඩෙබිට් සහ ක්‍රෙඩිට් කාඩ්පත් සඳහා නියර්-ෆීල්ඩ් සන්නිවේදන තාක්ෂණය භාවිතා කරන අතර, එමඟින් රහස් අංකයක් ඇතුළත් නොකර පර්යන්තය මත කාඩ්පත තට්ටු කිරීමෙන් පමණක් සුළු වටිනාකමකින් යුත් ගෙවීම් කිරීමට ඔබට ඉඩ සලසයි.
+Sparsha rahitha debit saha credit cardpath sadaha near-field sanniwedana thakshanaya bhawitha karana athara, emagin rahas ankayak athulath nokara paryanthaya math cardpatha thattu kireemen pamanak sulu watinaakamekin yuthu gewim kireemata obata ida salasai.
+ඔබට විදේශීය Currency එකකින් Check එකක් ලැබුණහොත්, ඔබේ බැංකුව පවතින Exchange Rate එක භාවිතා කරමින් එය Local Currency බවට Convert කරන අතර, එය Process කිරීම සඳහා Collection Fees අය කරනු ලැබිය හැකිය.
+ඔබට විදේශීය මුදලකින් චෙක්පතක් ලැබුණහොත්, ඔබේ බැංකුව පවතින විනිමය අනුපාතිකය භාවිතා කරමින් එය දේශීය මුදල් බවට පරිවර්තනය කරන අතර, එය සැකසීම සඳහා එකතු කිරීමේ ගාස්තු අය කරනු ලැබිය හැකිය.
+Obata widesheeya mudalakin checkpathak labunahoth, obe bankuwa pawathina winimaya anupaathiya bhawitha karamin eya deshaya mudal bawa-ta pariwarthanya karana athara, eya sakaseema sadaha ekathu kireeme gaasthu aya karanu labiya hakiya.
+Housing Loans සඳහා ගෙවන ලද Interest එක වෙනුවෙන් බැංකු විසින් Tax Deduction Certificates ලබා දෙන අතර, Tax Returns File කිරීමේදී අදාළ Income Tax ප්‍රතිපාදන යටතේ Reliefs ලබා ගැනීමට ඔබට ඒවා භාවිතා කළ හැකිය.
+නිවාස ණය සඳහා ගෙවන ලද පොලිය වෙනුවෙන් බැංකු විසින් බදු අඩු කිරීමේ සහතික ලබා දෙන අතර, බදු වාර්තා ගොනු කිරීමේදී අදාළ ආදායම් බදු ප්‍රතිපාදන යටතේ සහන ලබා ගැනීමට ඔබට ඒවා භාවිතා කළ හැකිය.
+Niwasa naya sadaha gewana lada poleeya wenuwen banku wisin badu adu kireeme sahathika laba dena athara, badu waarutha gonu kireemeedee adala aadayam badu prathipaadana yatathe sahana laba ganeemata obata ewa bhawitha kala hakiya.
+බැංකු විසින් පිරිනමනු ලබන Loyalty Programs මඟින් දිගුකාලීන Customersලාට Loan Processing Fees අඩු කිරීම, Deposits සඳහා ඉහළ Interest Rates සහ Annual Credit Card Fees Waive කිරීම වැනි Benefits පිරිනමයි.
+බැංකු විසින් පිරිනමනු ලබන පක්ෂපාතීත්ව වැඩසටහන් මඟින් දිගුකාලීන පාරිභෝගිකයින්ට ණය සැකසුම් ගාස්තු අඩු කිරීම, තැන්පතු සඳහා ඉහළ පොලී අනුපාත සහ වාර්ෂික ක්‍රෙඩිට් කාඩ්පත් ගාස්තු නිදහස් කිරීම වැනි ප්‍රතිලාභ පිරිනමයි.
+Banku wisin pirinamanu labana pakshapaatheethwaya wadastahana magin dhigukaaleena paaribhogikayinta naya sakaseeme gaasthu adu kireema, thanpathu sadaha ihala polee anupaatha saha waarshika credit cardpath gaasthu nidahas kireema wani prathilaaba pirinamai.
+දැනට පවතින Debit Card එකට හානි සිදුවී ඇත්නම් හෝ එහි expiry date එක පසුවී ඇත්නම්, customers ලාට ඒ වෙනුවට නව card එකක් request කළ හැකිය.
+දැනට පවතින ඩෙබිට් කාඩ්පතට හානි සිදුවී ඇත්නම් හෝ එහි වලංගු කාලය ඉකුත් වී ඇත්නම්, පාරිභෝගිකයින්ට ඒ වෙනුවට නව කාඩ්පතක් ඉල්ලා සිටිය හැකිය.
+Danata pawathina debit cardpathata haani siduvee aathnam ho ehi walangu kaalaya ikuth vee aathnam, paaribhogikayinta ae wenuwata nawa cardpathak illa sitiya hakiya.
+Account එකක contact details update කිරීමට පෙර banks සාමාන්‍යයෙන් customer ගේ identity එක verify කරනු ලබයි.
+ගිණුමක සම්බන්ධතා තොරතුරු යාවත්කාලීන කිරීමට පෙර බැංකු සාමාන්‍යයෙන් පාරිභෝගිකයාගේ අනන්‍යතාවය තහවුරු කරනු ලබයි.
+Ginuwaka sambandhatha thorathuru yaawathkaaleena kireemata pera banku saamanyayen paaribhogikayaage ananyathaya thahauru karanu labai.
+Monthly maintenance fees මඟහරවා ගැනීම සඳහා savings account එකක minimum balance එකක් පවත්වාගෙන යාම අවශ්‍ය විය හැකිය.
+මාසික නඩත්තු ගාස්තු මඟහරවා ගැනීම සඳහා ඉතුරුම් ගිණුමක අවම ශේෂයක් පවත්වාගෙන යාම අවශ්‍ය විය හැකිය.
+Maaseeka nadahaththu gaasthu mawaharawa ganeema sadaha ithurum ginuwaka awama sheshayak pawathwagena yaama awashya wiya hakiya.
+Branch staff එක බොහෝ විට අලුතින් issue කරන ලද ATM cards activate කිරීමට customers ලාට support වෙති.
+ශාඛා කාර්ය මණ්ඩලය බොහෝ විට අලුතින් නිකුත් කරන ලද ඒටීඑම් කාඩ්පත් සක්‍රීය කිරීමට පාරිභෝගිකයින්ට සහාය වෙති.
+Shaakha kaarya mandalaya boho wita aluthin nikhuth karana lada ATM cardpath sakreeya kireemata paaribhogikayinta sahaaya wethi.
+සමහර banks අරමුදල් fund transfers සිදුකරනු ලබන්නේ working days වල business hours තුළ පමණි.
+සමහර බැංකු අරමුදල් මාරු කිරීම් සිදුකරනු ලබන්නේ වැඩ කරන දිනවල නිල ව්‍යාපාරික වේලාවන් තුළ පමණි.
+Samahara banku aramudhala maaru kireem sidukaranu labanne wada karana dhinawala nila wyapaarika welawan thula pamanai.
+Scheduled maintenance සිදුවන කාලසීමාවන් තුළදී online banking services තාවකාලිකව disable විය හැකිය.
+සැලසුම්ගත නඩත්තු කටයුතු සිදුවන කාලසීමාවන් තුළදී සබැඳි බැංකු සේවා තාවකාලිකව අත්හිටුවිය හැකිය.
+Salasumgatha nadahaththu katuwathu siduwana kaalaseemawan thuladhee sabandi banku sewa thaawalikawa athhituwiya hakiya.
+Customers ලාට teller counter එකක් වෙත නොගොස් Cash Deposit Machine මඟින් cash deposit කළ හැකිය.
+පාරිභෝගිකයින්ට ටෙලර් කවුන්ටරයක් ​​වෙත නොගොස් ස්වයංක්‍රීය මුදල් තැන්පත් කිරීමේ යන්ත්‍ර මඟින් මුදල් තැන්පත් කළ හැකිය.
+Paaribhogikayinta teller counterayak wetha nogos swayangkreeya mudal thanpathu kireeme yanthra magin mudal thanpathu kala hakiya.
+Banks සාමාන්‍යයෙන් monthly account statements, email හෝ mobile banking apps හරහා එවනු ලබයි.
+බැංකු සාමාන්‍යයෙන් මාසික ගිණුම් ප්‍රකාශන විද්‍යුත් තැපෑල හෝ ජංගම බැංකු යෙදුම් හරහා එවනු ලබයි.
+Banku saamanyayen maaseeka ginuom prakaashana widyuth thaapaala ho jangama banku yeduom haraha ewanu labai.
+Joint account එකක් මඟින් පුද්ගලයන් එක් අයෙකුට වඩා වැඩි ගණනකට එකම account එකක් use කිරීමට සහ manage කිරීමට ඉඩ සලසයි.
+ඒකාබද්ධ ගිණුමක් මඟින් පුද්ගලයන් එක් අයෙකුට වඩා වැඩි ගණනකට එකම ගිණුමක් භාවිතා කිරීමට සහ කළමනාකරණය කිරීමට ඉඩ සලසයි.
+Ekaabaddha ginuwak magin pudgalayan ek ayekuta wada wadi gananakata ekama ginuwak bhawitha kireemata saha kalamanaakaranya kireemata ida salasai.
+Financial institutions විසින් ඇතැම් savings accounts වලින් මසකට සිදුකළ හැකි withdrawals ගණන limit කරනු ලැබිය හැකිය.
+මූල්‍ය ආයතන විසින් ඇතැම් ඉතුරුම් ගිණුම්වලින් මසකට සිදුකළ හැකි මුදල් ආපසු ගැනීම් සංඛ්‍යාව සීමා කරනු ලැබිය හැකිය.
+Moolyamaya aayathana wisin aetham ithurum ginuwawalin masakata sidukhala haki mudal aapasu ganeem sankhyaawa seema karanu labiya hakiya.
+Cheque books සාමාන්‍යයෙන් issue කරනු ලබන්නේ account එකක් සාර්ථකව open කර එය verify කිරීමෙන් පසුවය.
+චෙක්පත් පොත් සාමාන්‍යයෙන් නිකුත් කරනු ලබන්නේ ගිණුමක් සාර්ථකව ආරම්භ කර එය තහවුරු කිරීමෙන් පසුවය.
+Checkpath poth saamanyayen nikhuth karanu labanne ginuwak saarthakawa aarambha kara eya thahauru kireemen pasuwaya.
+Internet banking වල suspicious logins detector වූ විට banks බොහෝ විට ඒ පිළිබඳව customers ලාව inform කරයි.
+අන්තර්ජාල බැංකු සේවාවන්හි සැක සහිත ඇතුළුවීම් අනාවරණය වූ විට බැංකු බොහෝ විට ඒ පිළිබඳව පාරිභෝගිකයින් දැනුවත් කරයි.
+Antharjaala banku sewawanhi sakasahitah aethulweweem anawaranya woo wita banku boho wita ae pilibandawa paaribhogikayin danuwath karai.
+Customer convenience එක සඳහා සමහර bank branches, weekends වලදී extended hours සපයයි.
+පාරිභෝගික පහසුව සඳහා සමහර බැංකු ශාඛා සති අන්තයන්හිදී දීර්ඝ කරන ලද සේවා කාලයන් සපයයි.
+Paaribhogika pahasuwa sadaha samahara banku shaakha sathi anthayanhidee deergha karana lada sewa kaalayan sapayai.
+Fixed deposits සඳහා වන interest rates තෝරාගත් deposit period එක අනුව වෙනස් විය හැකිය.
+ස්ථාවර තැන්පතු සඳහා වන පොලී අනුපාත තෝරාගත් තැන්පතු කාලසීමාව අනුව වෙනස් විය හැකිය.
+Sthaawara thanpathu sadaha wana polee anupaatha thoragath thanpathu kaalaseemawa anuwa wenas wiya hakiya.
+Account compliance එක පවත්වා ගැනීම සඳහා customers ලාට වරින් වර ඔවුන්ගේ KYC documents update කිරීමට සිදුවිය හැකිය.
+ගිණුම් අනුකූලතාවය පවත්වා ගැනීම සඳහා පාරිභෝගිකයින්ට වරින් වර ඔවුන්ගේ අනන්‍යතා ලේඛන යාවත්කාලීන කිරීමට සිදුවිය හැකිය.
+Ginuom anukooleethawayai pawathwa ganeema sadaha paaribhogikayinta warin wara owunge ananyatha lekhana yaawathkaaleena kireemata siduviya hakiya.
+Mobile banking apps සාමාන්‍යයෙන් account balance check කිරීම්, bill payments සහ fund transfers සඳහා පහසුකම් සපයයි.
+ජංගම බැංකු යෙදුම් සාමාන්‍යයෙන් ගිණුම් ශේෂය පරීක්ෂා කිරීම්, බිල්පත් ගෙවීම් සහ අරමුදල් මාරු කිරීම් සඳහා පහසුකම් සපයයි.
+Jangama banku yeduom saamanyayen ginuom sheshaya pareeksha kireem, billpath gewim saha aramudhala maaru kireem sadaha pahasukam sapayai.
+වැරදි PIN number එකක් ඇතුළත් කිරීමට කිහිප වතාවක් try කළහොත් bank එකට card එක තාවකාලිකව block කළ හැකිය.
+වැරදි රහස් අංක ඇතුළත් කිරීමට කිහිප වතාවක් උත්සාහ කළහොත් බැංකුවට කාඩ්පතක් තාවකාලිකව අවහිර කළ හැකිය.
+Waradhi rahas angka athulath kireemata kihipa wawathawak uthsaha kalahoth bankuwata cardpathak thaawalikawa awahira khala hakiya.
+Transaction එක සාර්ථකව complete වූ පසු loan installments සාමාන්‍යයෙන් automatically record වේ.
+ගනුදෙනුව සාර්ථකව අවසන් වූ පසු ණය වාරික ගෙවීම් සාමාන්‍යයෙන් ස්වයංක්‍රීයව වාර්තා වේ.
+Ganudenuwa saarthakawa awasan woo pasu naya waarika gewim saamanyayen swayangkreeyawa waarutha we.
+Account holders ලාට deposits, withdrawals සහ card transactions සඳහා SMS alerts ලැබිය හැකිය.
+ගිණුම් හිමියන්ට තැන්පතු, මුදල් ආපසු ගැනීම් සහ කාඩ්පත් ගනුදෙනු සඳහා කෙටි පණිවුඩ ඇඟවීම් ලැබිය හැකිය.
+Ginuom himiyanta thanpathu, mudal aapasu ganeem saha cardpath ganudenu sadaha keti panivida aengangeem labiya hakiya.
+Service quality එක සහ transactions වල efficiency එක ඉහළ නැංවීම සඳහා banks බොහෝ විට ඔවුන්ගේ internal operations review කරයි.
+සේවා ගුණාත්මකභාවය සහ ගනුදෙනුවල කාර්යක්ෂමතාව ඉහළ නැංවීම සඳහා බැංකු බොහෝ විට ඔවුන්ගේ අභ්‍යන්තර මෙහෙයුම් ක්‍රියා පටිපාටි සමාලෝචනය කරයි.
+Sewa gunaathmathawayai saha ganudenuwala kaaryakshamathawayai ihala naenweema sadaha banku boho wita owunge abhyanthara meheyum kriya patipaadi samaalochanya karai.
+පාරිභෝගිකයන්ට online banking systems හරහා automatic bill payments schedule කළ හැකිය.
+පාරිභෝගිකයන්ට අන්තර්ජාල බැංකුකරණ පද්ධති හරහා ස්වයංක්‍රීය බිල්පත් ගෙවීම් කාලසටහන්ගත කළ හැකිය.
+Paaribhogikayanta antharjaala bankukarana paddhathi haraha swayangkreeya billpath gewim kaalasatahangatha kala hakiya.
+සාර්ථකව සිදු කරන ලද digital money transfers සඳහා බැංකු සාමාන්‍යයෙන් transaction reference numbers නිකුත් කරයි.
+සාර්ථකව සිදු කරන ලද ඩිජිටල් මුදල් හුවමාරු සඳහා බැංකු සාමාන්‍යයෙන් ගනුදෙනු විමර්ශන අංක නිකුත් කරයි.
+Saarthakawa sidu karana lada digital mudal huwamaru sadaha banku saamanyayen ganudenu wimarshana angka nikhuth karai.
+Current account එකක් මඟින් සාමාන්‍ය savings account එකකට වඩා ඉහළ transaction limits ලබා දිය හැකිය.
+ජංගම ගිණුමක් මඟින් සාමාන්‍ය ඉතුරුම් ගිණුමකට වඩා ඉහළ ගනුදෙනු සීමාවන් ලබා දිය හැකිය.
+Jangama ginuwak magin saamanya ithurum ginuwakata wada ihala ganudenu seemawan laba diya hakiya.
+Counter එකෙන් සිදු කරන ඇතැම් requests process කිරීමේදී financial institutions බොහෝ විට signatures අවශ්‍ය කරයි.
+කවුන්ටරයෙන් සිදු කරන ඇතැම් ඉල්ලීම් සැකසීමේදී මූල්‍ය ආයතන බොහෝ විට අත්සන් අවශ්‍ය කරයි.
+Counterayen sidu karana aetham illum sakaseemeedee moolyamaya aayathana boho wita athsan awashya karai.
+Customers ලාට තමන් register කර ඇති mobile numbers හෝ email addresses භාවිතයෙන් ඔවුන්ගේ online banking passwords reset කළ හැකිය.
+පාරිභෝගිකයන්ට තමන් ලියාපදිංචි කර ඇති ජංගම දුරකථන අංක හෝ විද්‍යුත් තැපැල් ලිපිනයන් භාවිතයෙන් ඔවුන්ගේ අන්තර්ජාල බැංකුකරණ මුරපද නැවත සැකසිය හැකිය.
+Paaribhogikayanta thaman liyapadinchi kara aethi jangama dhurakathana angka ho widyuth thaapaala lipinayan bhawitha kireemen owunge antharjaala bankukarana murapadha nawatha sakasiya hakiya.
+Unusual activity patterns හඳුනාගතහොත් බැංකුවලට online transactions තාවකාලිකව suspend කළ හැකිය.
+අසාමාන්‍ය ක්‍රියාකාරකම් රටාවන් හඳුනාගතහොත් බැංකුවලට අන්තර්ජාල ගනුදෙනු තාවකාලිකව අත්හිටුවිය හැකිය.
+Asaamanya kriyaakarakam ratawan handunagathahoth bankuwalata antharjaala ganudenu thaawalikawa athhituwiya hakiya.
+ATM cash withdrawal limits සාමාන්‍යයෙන් සකස් කර ඇත්තේ account type එක සහ bank policy එකට අනුකූලවය.
+ස්වයංක්‍රීය ටෙලර් යන්ත්‍ර මුදල් ආපසු ගැනීමේ සීමාවන් සාමාන්‍යයෙන් සකස් කර ඇත්තේ ගිණුම් වර්ගය සහ බැංකු ප්‍රතිපත්තියට අනුකූලවය.
+Swayangkreeya teller yanthra mudal aapasu ganeeme seemawan saamanyayen sakas kara aaththe ginuom wargaya saha banku prathipaththiyata anukoolawayala.
+ඇතැම් බැංකු මඟින් customers ලාට නිශ්චිත dates සඳහා account statements request කිරීමට අවස්ථාව ලබා දෙයි.
+ඇතැම් බැංකු මඟින් පාරිභෝගිකයන්ට නිශ්චිත දින වකවානු සඳහා ගිණුම් වාර්තා ඉල්ලා සිටීමට අවස්ථාව ලබා දෙයි.
+Aetham banku magin paaribhogikayanta nishchitha dhina wakawaanu sadaha ginuom waarutha illa sitiyata awasthawa laba dhei.
+Foreign currency exchange services සාමාන්‍යයෙන් selected bank branches වලින් ලබාගත හැකිය.
+විදේශ විනිමය හුවමාරු සේවා සාමාන්‍යයෙන් තෝරාගත් බැංකු ශාඛාවලින් ලබාගත හැකිය.
+Widesha winimaya huwamaru sewa saamanyayen thoragath banku shaakhawalin labagatha hakiya.
+International money transfers සඳහා බැංකු විසින් service charges අය කරනු ලැබිය හැකිය.
+ජාත්‍යන්තර විද්‍යුත් මුදල් හුවමාරු ගනුදෙනු සඳහා බැංකු විසින් සේවා ගාස්තු අය කරනු ලැබිය හැකිය.
+Jaathyanthara widyuth mudal huwamaru ganudenu sadaha banku wisin sewa gaasthu aya karanu labiya hakiya.
+Failed transactions පිළිබඳ complaints solve කිරීම සඳහා customer support teams බොහෝ විට users ලාට උපකාර කරයි.
+අසාර්ථක වූ ගනුදෙනු පිළිබඳ පැමිණිලි විසඳීම සඳහා පාරිභෝගික සහය කණ්ඩායම් බොහෝ විට පරිශීලකයන්ට උපකාර කරයි.
+Asaahatha woo ganudenu pilibanda paeminiwli wisadhima sadaha paaribhogika sahaya kandayam boho wita parishilakayanta upakaara karai.
+Peak hours වලදී ඇතැම් bank services ලබාගැනීමට පෙර booking එකක් දමා ගැනීම අවශ්‍ය වේ.
+ඉහළ ඉල්ලුමක් පවතින කාල සීමාවන්හිදී ඇතැම් බැංකු සේවාවන් ලබාගැනීමට පෙර වේලාවක් වෙන්කරවා ගැනීම අවශ්‍ය වේ.
+Ihala illumak pawathina kaala seemawanheedee aetham banku sewawan labaganeemata pera welawak wenkarawa ganeema awashya we.
+Financial institutions නව security features හඳුන්වා දීම සඳහා mobile banking apps update කරනු ලැබිය හැකිය.
+මූල්‍ය ආයතන නව ආරක්ෂක අංග හඳුන්වා දීම සඳහා ජංගම බැංකුකරණ යෙදුම් යාවත්කාලීන කරනු ලැබිය හැකිය.
+Moolyamaya aayathana nawa aarakshaka anga handunwa dheema sadaha jangama bankukarana yeduom yaawathkaaleena karanu labiya hakiya.
+පහසු management එකක් සඳහා customers ලාට තනි online banking profile එකකට accounts කිහිපයක් link කළ හැකිය.
+පහසු කළමනාකරණය සඳහා පාරිභෝගිකයන්ට තනි අන්තර්ජාල බැංකුකරණ පැතිකඩකට ගිණුම් කිහිපයක් සම්බන්ධ කළ හැකිය.
+Pahasu kalamanaakaranya sadaha paaribhogikayanta thani antharjaala bankukarana paethikadhakata ginuom kihipayak sambandha kala hakiya.
+Operations වල අනුකූලතාවය සහ service reliability එක සහතික කිරීම සඳහා බැංකු සාමාන්‍යයෙන් regular audits සිදු කරයි.
+මෙහෙයුම් අනුකූලතාවය සහ සේවා විශ්වසනීයත්වය සහතික කිරීම සඳහා බැංකු සාමාන්‍යයෙන් නිත්‍ය විගණන සිදු කරයි.
+Meheyum anukooleethawayai saha sewa wishwasaneeyathawayai sahathika kireema sadaha banku saamanyayen nithya wigadhana sidu karai.
+Inter-bank verification අවසන් වන තෙක් ඇතැම් transactions pending status වල පැවතිය හැකිය.
+අන්තර් බැංකු සත්‍යාපනය අවසන් වන තෙක් ඇතැම් ගනුදෙනු පොරොත්තු තත්ත්වයේ පැවතිය හැකිය.
+Anthar banku sathyaapanya awasan wana thek aetham ganudenu porohththu thaththwaye pawathiya hakiya.
+සාර්ථක cash හෝ cheque deposits වලින් පසුව සාමාන්‍යයෙන් deposit receipts වහාම ලබා දෙනු ලැබේ.
+සාර්ථක මුදල් හෝ චෙක්පත් තැන්පතුවලින් පසුව සාමාන්‍යයෙන් තැන්පතු කුවිතාන්සි වහාම ලබා දෙනු ලැබේ.
+Saarthaka mudal ho checkpath thanpathuwalin pasuwa saamanyayen thanpathu kuwithainsi wahama laba dhenu labe.
+Technical breakdowns පවතින අවස්ථාවලදී continuous පැවැත්ම සහතික කිරීම සඳහා බැංකු බොහෝ විට backup systems පවත්වාගෙන යයි.
+තාක්ෂණික බිඳවැටීම් පවතින අවස්ථාවලදී අඛණ්ඩතාව සහතික කිරීම සඳහා බැංකු බොහෝ විට උපස්ථ පද්ධති පවත්වාගෙන යයි.
+Thaakshanika bidhawateem pawathina awasthawaladhee akhandathawayai sahathika kireema sadaha banku boho wita upastha paddhathi pawathwaගෙන yai.
+Account balance එක කලින් define කළ limit එකකට වඩා අඩු වූ විට customers ලාට ඒ පිළිබඳ notifications ලැබිය හැකිය.
+ගිණුම් ශේෂය කලින් නිර්වචනය කළ සීමාවකට වඩා අඩු වූ විට පාරිභෝගිකයන්ට ඒ පිළිබඳ දැනුම්දීම් ලැබිය හැකිය.
+Ginuom sheshaya kalin nirwachanaya kala seemawakata wada adu woo vita paaribhogikayanta ae pilibanda dhanuomdeem labiya hakiya.
+Operations monitor කිරීමේ කටයුතු සඳහා financial institutions සාමාන්‍යයෙන් customer service requests පිළිබඳ records පවත්වාගෙන යයි.
+මෙහෙයුම් නිරීක්ෂණ කටයුතු සඳහා මූල්‍ය ආයතන සාමාන්‍යයෙන් පාරිභෝගික සේවා ඉල්ලීම් පිළිබඳ වාර්තා පවත්වාගෙන යයි.
+Meheyum nireekshana katuthu sadaha moolyamaya aayathana saamanyayen paaribhogika sewa illum pilibanda waarutha pawathwaගෙන yai.
+Internal compliance department එක මඟින් අතිරේක verification procedures අවසන් කරන තෙක්, අසාමාන්‍ය ලෙස විශාල transactions process කිරීම බැංකු විසින් තාවකාලිකව delay කරනු ලැබිය හැකිය.
+අභ්‍යන්තර අනුකූලතා දෙපාර්තමේන්තුව මඟින් අතිරේක සත්‍යාපන ක්‍රියා පටිපාටි අවසන් කරන තෙක්, අසාමාන්‍ය ලෙස විශාල ගනුදෙනු සැකසීම බැංකු විසින් තාවකාලිකව ප්‍රමාද කරනු ලැබිය හැකිය.
+Abhyanthara anukoolatha departhamenthuwa magin athireka sathyapana kriya patipadi awasan karana thek, asamanya lesa vishala ganudenu sakasima banku wisin thawakalikawa pramada karanu labiya hakiya.
+තම residential address එක වෙනස් කරන customers ලා, බැංකුව විසින් account records සංශෝධනය කිරීමට පෙර updated identity documents සැපයීම සාමාන්‍යයෙන් compulsory වේ.
+තම පදිංචි ලිපිනය වෙනස් කරන පාරිභෝගිකයන්, බැංකුව විසින් ගිණුම් වාර්තා සංශෝධනය කිරීමට පෙර යාවත්කාලීන කරන ලද අනන්‍යතා ලේඛන සැපයීම සාමාන්‍යයෙන් අනිවාර්ය වේ.
+Thama padinchi lipinaya wenas karana paribhogikayan, bankuwa wisin ginum wartha sanshodhanaya kirimata pera yawathkalana karana lada ananyatha lekhana sapayima samanyayen aniwarya we.
+Customers ලාට සිදුවන service disruptions අවම කිරීම සඳහා financial institutions බොහෝ විට මධ්‍යම රාත්‍රී කාලයේදී ඔවුන්ගේ digital banking systems වල regular maintenance කටයුතු සිදු කරයි.
+පාරිභෝගිකයන්ට සිදුවන සේවා බාධා අවම කිරීම සඳහා මූල්‍ය ආයතන බොහෝ විට මධ්‍යම රාත්‍රී කාලයේදී ඔවුන්ගේ ඩිජිටල් බැංකුකරණ පද්ධතිවල නිත්‍ය නඩත්තු කටයුතු සිදු කරයි.
+Paribhogikayanta siduwana sewa badha awama kirima sadaha moolya ayathana boho wita madhyama rathri kalayedhi owunge digital bankukaranaya paddhathiwala nithya nadaththu katuyuthu sidu karayi.
+Online banking access තාවකාලිකව ලබාගත නොහැකි හෝ limit වී ඇති අවස්ථාවකදී, customer කෙනෙකුට bank branch එකකින් printed transaction history එකක් request කළ හැකිය.
+අන්තර්ජාල බැංකුකරණ ප්‍රවේශය තාවකාලිකව ලබාගත නොහැකි හෝ සීමා වී ඇති අවස්ථාවකදී, පාරිභෝගිකයෙකුට බැංකු ශාඛාවකින් මුද්‍රිත ගනුදෙනු ඉතිහාසයක් ඉල්ලා සිටිය හැකිය.
+Antharjala bankukaranaya praveshaya thawakalikawa labagatha nohaki ho sima wee athi awasthawakahadi, paribhogikayekuta banku shakawayakin mudhritha ganudenu ithihasayak illa sitiya hakiya.
+Recurring loan installment payments නියමිත දිනට ළඟා වන විට, බැංකු සාමාන්‍යයෙන් customers ලා වෙත automatic reminders යවනු ලබයි.
+පුනරාවර්තන ණය වාරික ගෙවීම් නියමිත දිනට ළඟා වන විට, බැංකු සාමාන්‍යයෙන් පාරිභෝගිකයන් වෙත ස්වයංක්‍රීය මතක් කිරීම් යවනු ලබයි.
+Punarawarthana naya warika gewim niyamitha dinata laga wana wita, banku samanyayen paribhogikayan wetha swayankriya mathak kirim yawanu labayi.
+International funds transfers වැනි ඇතැම් bank services සඳහා, destination country එක සහ transfer amount එක මත පදනම්ව අතිරේක approval steps අවශ්‍ය විය හැකිය.
+ජාත්‍යන්තර අරමුදල් හුවමාරු වැනි ඇතැම් බැංකු සේවාවන් සඳහා, ගමනාන්ත රට සහ හුවමාරු මුදල් ප්‍රමාණය මත පදනම්ව අතිරේක අවසර දීමේ පියවර අවශ්‍ය විය හැකිය.
+Jathyanthara aramudala huwamaru wani aetham banku sewawan sadaha, gamanantha rata saha huwamaru mudal pramanaya matha padhanawa athireka awasara dhime piyawara awashya wi hakiya.
+System traffic එක අධික හෝ network instability පවතින කාල සීමාවන්හිදී, mobile banking apps භාවිත කරන customers ලාට තාවකාලික transaction delays අත්විඳීමට සිදුවිය හැකිය.
+පද්ධති තදබදය අධික හෝ ජාල අස්ථාවරතා පවතින කාල සීමාවන්හිදී, ජංගම බැංකුකරණ යෙදුම් භාවිත කරන පාරිභෝගිකයන්ට තාවකාලික ගනුදෙනු ප්‍රමාදයන් අත්විඳීමට සිදුවිය හැකිය.
+Paddhathi thadabhadaya adhika ho jala asthawaratha pawathina kala simawanhedi, jangama bankukaranaya yedum bhwitha karana paribhogikayanta thawakalika ganudenu pramadayan athwindhimata siduwi hakiya.
+විවිධ languages සහ regional backgrounds වලින් පැමිණෙන clients ලාට support වීම සඳහා financial institutions බොහෝ විට multilingual customer support සේවාවන් සපයයි.
+විවිධ භාෂා සහ ප්‍රාදේශීය පසුබිම්වලින් පැමිණෙන සේවාදායකයන්ට සහය වීම සඳහා මූල්‍ය ආයතන බොහෝ විට බහුභාෂා පාරිභෝගික සහය සේවාවන් සපයයි.
+Wiwidha bhasha saha pradeshiya pasubimwalin pamina sewadhakayanta sahaya wima sadaha moolya ayathana boho wita bahubhasha paribhogika sahaya sewawan sapayayi.
+Mandatory customer verification procedures නියමිත කාල සීමාව තුළ අවසන් කර නොමැති නම් බැංකු විසින් ඇතැම් account activities restrict කරනු ලැබිය හැකිය.
+අනිවාර්ය පාරිභෝගික සත්‍යාපන ක්‍රියා පටිපාටි නියමිත කාල සීමාව තුළ අවසන් කර නොමැති නම් බැංකු විසින් ඇතැම් ගිණුම් ක්‍රියාකාරකම් සීමා කරනු ලැබිය හැකිය.
+Aniwarya paribhogika sathyapana kriya patipadi niyamitha kala simawa thula awasan kara nathnam banku wisin aetham ginum kriyakarakam sima karanu labiya hakiya.
+Account-related service requests process කිරීමට පෙර, ඉදිරිපත් කරන ලද documents වල authenticity එක verify කිරීමේ වගකීම සාමාන්‍යයෙන් branch staff එක සතු වේ.
+ගිණුම් ආශ්‍රිත සේවා ඉල්ලීම් සැකසීමට පෙර, ඉදිරිපත් කරන ලද ලේඛනවල සත්‍යතාව තහවුරු කිරීමේ වගකීම සාමාන්‍යයෙන් ශාඛා සේවකයන් සතු වේ.
+Ginum ashrayitha sewa illum sakasimata pera, idhiripath karana lada lekhanawala sathya thahawuru kirime wagakima samanyayen shaka sewakayan sathu we.
+Personal preference එක මත පදනම්ව SMS, email හෝ mobile app messages හරහා alerts ලබාගැනීම සඳහා customers ලාට සාමාන්‍යයෙන් account notification settings adjust කරගත හැකිය.
+පුද්ගලික මනාපය මත පදනම්ව කෙටි පණිවිඩ, විද්‍යුත් තැපෑල හෝ ජංගම යෙදුම් පණිවිඩ හරහා ඇඟවීම් ලබාගැනීම සඳහා පාරිභෝගිකයන්ට සාමාන්‍යයෙන් ගිණුම් දැනුම්දීම් සැකසුම් සකස් කරගත හැකිය.
+Pudhgalika manapaya matha padhanamwa keti panivida, vidhyutha thapala ho jangama yedum panivida haraha aegalwim labaganim sadaha paribhogikayanta samanyayen ginum dannwim sakasum sakasagatha hakiya.
+ඇතැම් බැංකු online payments සඳහා automatic ලෙස digital receipts generate කරන අතර, අනාගත reference එක සඳහා ඒවා customer ගේ transaction history එක තුළ store කරයි.
+ඇතැම් බැංකු අන්තර්ජාල ගෙවීම් සඳහා ස්වයංක්‍රීයව ඩිජිටල් කුවිතාන්සි ජනනය කරන අතර, අනාගත පරිශීලනය සඳහා ඒවා පාරිභෝගිකයාගේ ගනුදෙනු ඉතිහාසය තුළ ගබඩා කරයි.
+Aetham banku antharjala gewim sadaha swayankriyawa digital kuwithasi jananaya karana athara, anagatha parishilanaya sadaha ewa paribhogikayage ganudenu ithihasaya thula gabada karayi.
+Service inefficiencies හඳුනා ගැනීමට සහ branches පුරා transaction processing performance එක ඉහළ නැංවීම සඳහා financial institutions විසින් internal operational reviews පවත්වනු ලැබිය හැකිය.
+සේවා අකාර්යක්ෂමතාවන් හඳුනා ගැනීමට සහ ශාඛා පුරා ගනුදෙනු සැකසීමේ කාර්ය සාධනය ඉහළ නැංවීම සඳහා මූල්‍ය ආයතන අභ්‍යන්තර මෙහෙයුම් සමාලෝචන පවත්වනු ලැබිය හැකිය.
+Sewa akaryakshamong hanadhanaganima saha shaka pura ganudenu sakasime karya sadhanaya ihala nanswima sadaha moolya ayathana abhyanthara meheyum samalochana pawathwanu labiya hakiya.
+Peak hours වලදී branch එකකට පැමිණෙන customers ලාට, counters සහ support services සඳහා පවතින ඉහළ demand එක හේතුවෙන් දිගු වේලාවක් wait කිරීමට සිදුවිය හැකිය.
+ව්‍යාපාරික කටයුතු අධික වේලාවන්හිදී ශාඛාවකට පැමිණෙන පාරිභෝගිකයන්ට, කවුන්ටර සහ සහය සේවාවන් සඳහා පවතින ඉහළ ඉල්ලුම හේතුවෙන් දිගු වේලාවක් රැඳී සිටීමට සිදුවිය හැකිය.
+Wyaparika katuyuthu adhika welawanhedi shakawakata pamina paribhogikayanta, kountara saha sahaya sewawan sadaha pawathina ihala illuma hethuwen dhigu welawak radi sitimata siduwi hakiya.
+Technical breakdowns හෝ data loss සිදුවීම්වලදී operations recovery එක සහතික කිරීම සඳහා බැංකු සාමාන්‍යයෙන් transaction records වල secure backup copies පවත්වාගෙන යයි.
+තාක්ෂණික බිඳවැටීම් හෝ දත්ත අහිමි වීමේ සිදුවීම්වලදී මෙහෙයුම් යථා තත්ත්වයට පත් කිරීම සහතික කිරීම සඳහා බැංකු සාමාන්‍යයෙන් ගනුදෙනු වාර්තාවල ආරක්ෂිත උපස්ථ පිටපත් පවත්වාගෙන යයි.
+Thakshonika bidhawatim ho daththa ahimi wime siduwiwaladhi meheyum yatha thaththwayata path kirima sahathika kirima sadaha banku samanyayen ganudenu warthawala arakshitha upastha pitapath pawathwagena yayi.
+ඉහළ cash withdrawal limits හෝ international transaction access ඇතුළු ඇතැම් account features ලබාගත හැක්කේ අතිරේක customer verification procedures වලින් පසුව පමණි.
+ඉහළ මුදල් ආපසු ගැනීමේ සීමාවන් හෝ ජාත්‍යන්තර ගනුදෙනු ප්‍රවේශය ඇතුළු ඇතැම් ගිණුම් අංග ලබාගත හැක්කේ අතිරේක පාරිභෝගික සත්‍යාපන ක්‍රියා පටිපාටිවලින් පසුව පමණි.
+Ihala mudal apahu ganime simawan ho jathyanthara ganudenu praveshaya athulu aetham ginum anga labagatha hakke athireka paribhogika sathyapana kriya patiphadiwalin pasuwa pamani.
+Unauthorized account access වල risk එක අඩු කිරීම සඳහා නිතිපතා passwords සහ security settings update කිරීමට financial institutions බොහෝ විට customers ලා දිරිමත් කරයි.
+අනවසරයෙන් ගිණුම්වලට ප්‍රවේශ වීමේ අවදානම අඩු කිරීම සඳහා නිතිපතා මුරපද සහ ආරක්ෂක සැකසුම් යාවත්කාලීන කිරීමට මූල්‍ය ආයතන බොහෝ විට පාරිභෝගිකයන් දිරිමත් කරයි.
+Anawasarayen ginumwalata pravesha wime awadhama adu kirima sadaha nithipada murapadha saha arakshaka sakasum yawathkalana kirimata moolya ayathana boho wita paribhogikayan dhibagmathu karayi.
+Unfamiliar devices හෝ locations වලින් නැවත නැවතත් failed login attempts බැංකු systems මඟින් detect කළ විට, customers ලාට තාවකාලික transaction restrictions පැනවිය හැකිය.
+හුරුපුරුදු නොවන උපාංග හෝ ස්ථානවලින් නැවත නැවතත් අසාර්ථක වූ අනන්‍යතා තහවුරු කිරීමේ උත්සාහයන් බැංකු පද්ධති මඟින් හඳුනාගත් විට, පාරිභෝගිකයන්ට තාවකාලික ගනුදෙනු සීමාවන් පැනවිය හැකිය.
+Hurupurudhu noewana upakarana ho sthanawalin nawatha nawathath asartha woo ananyatha thahawuru kirime uthshahayan banku paddhathi magin hanadhanagath wita, paribhogikayanta thawakalika ganudenu simawan panawiya hakiya.
+Updated financial regulations සහ evolving security requirements වලට අනුකූල වීම සඳහා බැංකු සමහර විට operational policies සහ service procedures revise කරයි.
+යාවත්කාලීන කරන ලද මූල්‍ය රෙගුලාසි සහ විකාශනය වන ආරක්ෂක අවශ්‍යතාවලට අනුකූල වීම සඳහා බැංකු සමහර විට මෙහෙයුම් ප්‍රතිපත්ති සහ සේවා ක්‍රියා පටිපාටි සංශෝධනය කරයි.
+Yawathkalana karana lada moolya regulasi saha wikashanaya wana arakshaka awashyathawalata anukoola wima sadaha banku samahara wita meheyum prathipaththi saha sewa kriya patipadi sanshodhanaya karayi.
+Account එකක් close කිරීමට request කරන customer කෙනෙකුට, බැංකුව විසින් account closure process එක complete කිරීමට පෙර verification සහ settlement procedures කිහිපයක් සම්පූර්ණ කිරීමට අවශ්‍ය විය හැකිය.
+ගිණුමක් වසා දැමීමට ඉල්ලන පාරිභෝගිකයෙකුට, බැංකුව විසින් ගිණුම අවසන් කිරීමේ ක්‍රියාවලිය සම්පූර්ණ කිරීමට පෙර සත්‍යාපන සහ බේරුම්කරණ ක්‍රියා පටිපාටි කිහිපයක් සම්පූර්ණ කිරීමට අවශ්‍ය විය හැකිය.
+Ginumak wasa dhamata illana paribhogikayekuta, bankuwa wisin ginuma awasan kirime kriyawaliyasampurna kirimata pera sathyapana saha berumkarana kriya patipadi kihipayak sampurna kirimata awashya wi hakiya.
+ඉදිරිපත් කරන ලද account information සහ පද්ධතිය තුළ පවත්වාගෙන යනු ලබන පවතින identity records අතර discrepancies හඳුනාගත් විට බැංකු විසින් customers ලාව සෘජුවම contact කර ගනු ලැබිය හැකිය.
+ඉදිරිපත් කරන ලද ගිණුම් තොරතුරු සහ පද්ධතිය තුළ පවත්වාගෙන යනු ලබන පවතින අනන්‍යතා වාර්තා අතර නොගැලපීම් හඳුනාගත් විට බැංකු විසින් පාරිභෝගිකයන් සෘජුවම සම්බන්ධ කර ගනු ලැබිය හැකිය.
+Idhiripath karana lada ginum thorathuru saha paddhathiya thula pawathwagena yanu labana pawathina ananyatha wartha athara nogalapim handhanagath wita banku wisin paribhogikayan srujuwama sambandha kara ganu labiya hakiya.
+නිතර travel කරන customers ලාට, ඔවුන් පිටත්ව යාමට පෙර තමන්ගේ payment cards සඳහා foreign transactions support එක තාවකාලිකව activate කරන ලෙස request කළ හැකිය.
+නිතර විදේශගත වන පාරිභෝගිකයන්ට, ඔවුන් පිටත්ව යාමට පෙර තමන්ගේ ගෙවීම් කාඩ්පත් සඳහා විදේශීය ගනුදෙනු සහය තාවකාලිකව සක්‍රීය කරන ලෙස ඉල්ලා සිටිය හැකිය.
+Nithara wideshagatha wana paribhogikayanta, owun pitathwa yamata pera thamange gewim kardpath sadaha wideshiya ganudenu sahaya thawakalikawa sakriya karana lesa illa sitiya hakiya.
+විවිධ regions පුරා බාධාවකින් තොරව cash withdrawal services සහතික කිරීම සහ technical breakdowns හඳුනා ගැනීම සඳහා financial institutions බොහෝ විට ATM networks continuous ලෙස monitor කරයි.
+විවිධ ප්‍රදේශ පුරා බාධාවකින් තොරව මුදල් ආපසු ගැනීමේ සේවාවන් සහතික කිරීම සහ තාක්ෂණික බිඳවැටීම් හඳුනා ගැනීම සඳහා මූල්‍ය ආයතන බොහෝ විට ස්වයංක්‍රීය ටෙලර් යන්ත්‍ර ජාල අඛණ්ඩව නිරීක්ෂණය කරයි.
+Wiwidha pradesha pura badhawakin thora mudal apahu ganime sewawan sahathika kirima saha thakshonika bidhawatim handhanaganim sadaha moolya ayathana boho wita swayankriya teller yanthra jala akhandawa nirikshanaya karayi.
+Security purposes සඳහා, අලුතින් register කරන ලද device එකකින් online banking වලට access වීමට උත්සාහ කරන customer කෙනෙකුට අතිරේක identity verification steps complete කිරීමට අවශ්‍ය විය හැකිය.
+ආරක්ෂක අරමුණු සඳහා, අලුතින් ලියාපදිංචි කරන ලද උපාංගයකින් අන්තර්ජාල බැංකුකරණයට ප්‍රවේශ වීමට උත්සාහ කරන පාරිභෝගිකයෙකුට අතිරේක අනන්‍යතා තහවුරු කිරීමේ පියවර සම්පූර්ණ කිරීමට අවශ්‍ය විය හැකිය.
+Arakshaka aramunu sadaha, aluthin liyapadhinchi karana lada upakaranayakin antharjala bankukaranayata pravesha wimata uthshaha karana paribhogikayekuta athireka ananyatha thahawuru kirime piyawara sampurna kirimata awashya wi hakiya.
+බැංකු සාමාන්‍යයෙන් cheque clearance කටයුතු සිදු කරනු ලබන්නේ inter-bank settlement schedules වලට අනුකූලව වන අතර, weekends සහ public holidays අනුව ඒවා වෙනස් විය හැකිය.
+බැංකු සාමාන්‍යයෙන් චෙක්පත් නිෂ්කාශන කටයුතු සිදු කරනු ලබන්නේ අන්තර් බැංකු බේරුම්කරණ කාලසටහන්වලට අනුකූලව වන අතර, සති අන්ත සහ රජයේ නිවාඩු දින අනුව ඒවා වෙනස් විය හැකිය.
+Banku samanyayen cheque path nishkrashana katuyuthu sidu karanu labanne anthar banku berumkarana kalasatahanwalata anukoolawa wana athara, sathi antha saha rajaye niwadu dhina anuwa ewa wenas wi hakiya.
+Support agents ලා විසින් sensitive banking services සැපයීමට පෙර, customers ලාගෙන් තමන්ගේ personal account details verbally හෝ digitally verify කරන ලෙස ඉල්ලා සිටිය හැකිය.
+සහය සේවා නියෝජිතයන් විසින් සංවේදී බැංකු සේවාවන් සැපයීමට පෙර, පාරිභෝගිකයන්ගෙන් තමන්ගේ පුද්ගලික ගිණුම් විස්තර වාචිකව හෝ ඩිජිටල් ලෙස තහවුරු කරන ලෙස ඉල්ලා සිටිය හැකිය.
+Sahaya sewa niyojithayan wisin sangwedi banku sewawan sapayimata pera, paribhogikayangen thamange pudhgalika ginum wisthara wachikawa ho digital lesa thahawuru karana lesa illa sitiya hakiya.
+Branches, call centers සහ digital banking systems පුරා operational consistency එක ඉහළ නැංවීම සඳහා financial institutions සාමාන්‍යයෙන් internal service guidelines update කරයි.
+ශාඛා, ඇමතුම් මධ්‍යස්ථාන සහ ඩිජිටල් බැංකුකරණ පද්ධති පුරා මෙහෙයුම් ඒකාකාරීත්වය ඉහළ නැංවීම සඳහා මූල්‍ය ආයතන සාමාන්‍යයෙන් අභ්‍යන්තර සේවා මාර්ගෝපදේශ යාවත්කාලීන කරයි.
+Shaka, amathum madhyasthana saha digital bankukaranaya paddhathi pura meheyum ekarakara thwaya ihala nanswima sadaha moolya ayathana samanyayen abhyanthara sewa margopadhesha yawathkalana karayi.
+Peak hours වලදී customer service requests වඩාත් efficient ලෙස organize කිරීම සඳහා ඇතැම් බැංකු විසින් branches තුළ queue management systems සපයනු ලබයි.
+කාර්යබහුල මෙහෙයුම් වේලාවන්හිදී පාරිභෝගික සේවා ඉල්ලීම් වඩාත් කාර්යක්ෂමව සංවිධානය කිරීම සඳහා ඇතැම් බැංකු විසින් ශාඛා තුළ පෝලිම් කළමනාකරණ පද්ධති සපයනු ලබයි.
+Karyabahula meheyum welawanhedi paribhogika sewa illum wada-ath karyakshama lesa sangawidhanya kirima sadaha aetham banku wisin shaka thula polim kalamanakarana paddhathi sapayanu labayi.
+Customers ලාට සාමාන්‍යයෙන් bank branch එකකට personally පැමිණීමට අවශ්‍යතාවයකින් තොරව, mobile banking apps හරහා misplaced හෝ stolen payment cards පිළිබඳව report කළ හැකිය.
+පාරිභෝගිකයන්ට සාමාන්‍යයෙන් බැංකු ශාඛාවකට පෞද්ගලිකව පැමිණීමට අවශ්‍යතාවයකින් තොරව, ජංගම බැංකුකරණ යෙදුම් හරහා අස්ථානගත වූ හෝ සොරකම් කරන ලද ගෙවීම් කාඩ්පත් පිළිබඳව වාර්තා කළ හැකිය.
+Paribhogikayanta samanyayen banku shakawakata paudgalikawa paminimata awashyathawayakin thorawa, jangama bankukaranaya yedum haraha asthanagatha woo ho sorakam karana lada gewim kardpath pilibadhawa wartha kala hakiya.
+Standard verification සහ monitoring procedures සම්පූර්ණයෙන්ම අවසන් වන තෙක් බැංකු විසින් අලුතින් activate කරන ලද accounts වල transaction limits තාවකාලිකව reduce කරනු ලැබිය හැකිය.
+සම්මත සත්‍යාපන සහ නිරීක්ෂණ ක්‍රියා පටිපාටි සම්පූර්ණයෙන්ම අවසන් වන තෙක් බැංකු විසින් අලුතින් සක්‍රීය කරන ලද ගිණුම්වල ගනුදෙනු සීමාවන් තාවකාලිකව අඩු කරනු ලැබිය හැකිය.
+Sammatha sathyapana saha nirikshana kriya patipadi sampurnayenma awasan wana thek banku wisin aluthin sakriya karana lada ginumwala ganudenu simawan thawakalikawa adu karanu labiya hakiya.
+Customer complaints, transaction disputes සහ operational issues investigate කිරීම සම්බන්ධයෙන් කටයුතු කිරීම සඳහා financial institutions බොහෝ විට වෙනම departments පවත්වාගෙන යයි.
+පාරිභෝගික පැමිණිලි, ගනුදෙනු ආරවුල් සහ මෙහෙයුම් ගැටලු විමර්ශනය කිරීම සම්බන්ධයෙන් කටයුතු කිරීම සඳහා මූල්‍ය ආයතන බොහෝ විට වෙනම දෙපාර්තමේන්තු පවත්වාගෙන යයි.
+Paribhogika paminili, ganudenu arawdhu saha meheyum gatulu wimarshanya kirima sambandhayen katuyuthu kirima sadaha moolya ayathana boho wita wenama departhamenthu pawathwagena yayi.
+Self-service banking booths භාවිත කරන customers ලාට, complex service requests හෝ documents submit කිරීම් process කිරීමේදී තවමත් branch staff එකේ support එක අවශ්‍ය විය හැකිය.
+ස්වයං සේවා බැංකු කුටි භාවිත කරන පාරිභෝගිකයන්ට, සංකීර්ණ සේවා ඉල්ලීම් හෝ ලේඛන ඉදිරිපත් කිරීම් සැකසීමේදී තවමත් ශාඛා කාර්ය මණ්ඩලයේ සහය අවශ්‍ය විය හැකිය.
+Swayan sewa banku kuthi bhwitha karana paribhogikayanta, sangkirna sewa illum ho lekhana idhiripath kirim sakasimedi thawath shaka karyamandalaye sahaya awashya wi hakiya.
+Regulatory compliance සහ audit requirements වලට අනුකූලව බැංකු සාමාන්‍යයෙන් transaction සහ operational records දිගු කාල සීමාවන් සඳහා archive කර තබයි.
+රෙගුලාසි අනුකූලතාවය සහ විගණන අවශ්‍යතාවලට අනුකූලව බැංකු සාමාන්‍යයෙන් ගනුදෙනු සහ මෙහෙයුම් වාර්තා දිගු කාල සීමාවන් සඳහා ලේඛනාගාරගත කර තබයි.
+Regulasi anukoolathwaya saha wigadhana awashyathawalata anukoolawa banku samanyayen ganudenu saha meheyum wartha dhigu kala simawan sadaha lekhanagaragatha kara thabayi.
+Account management සහ reporting tasks improve කිරීම සඳහා ඇතැම් bank systems මඟින් transactions ස්වයංක්‍රීයව විවිධ spending හෝ operational categories වලට categorize කරනු ලබයි.
+ගිණුම් කළමනාකරණ සහ වාර්තාකරණ කාර්යයන් වැඩිදියුණු කිරීම සඳහා ඇතැම් බැංකු පද්ධති මඟින් ගනුදෙනු ස්වයංක්‍රීයව විවිධ වියදම් හෝ මෙහෙයුම් කාණ්ඩවලට වර්ග කරනු ලබයි.
+Ginum kalamanakarana saha warthakarana karyayan wadi dhiunu kirima sadaha aetham banku paddhathi magin ganudenu swayankriyawa wiwidha wiyadham ho meheyum kanda walata warga karanu labayi.
+Customers ලාගේ normal transaction behavior එකෙන් බැහැර වූ unusual account activity හඳුනාගත් විට, ඒවා confirm කරන ලෙස ඉල්ලා customers ලා වෙත notifications ලැබිය හැකිය.
+පාරිභෝගිකයන්ගේ සාමාන්‍ය ගනුදෙනු හැසිරීම් රටාවලින් බැහැර වූ අසාමාන්‍ය ගිණුම් ක්‍රියාකාරකම් හඳුනාගත් විට, ඒවා තහවුරු කරන ලෙස ඉල්ලා පාරිභෝගිකයන් වෙත දැනුම්දීම් ලැබිය හැකිය.
+Paribhogikayanfe samanya ganudenu haesirim rathawalin bahara woo asamanya ginum kriyakarakam handhanagath wita, ewa thahawuru karana lesa illa paribhogikayan wetha dannwim labiya hakiya.
+Performance, reliability සහ operational security එක ඉහළ නැංවීම සඳහා financial institutions නිතරම ATMs සහ online banking systems වල software updates සිදු කරයි.
+ක්‍රියාකාරීත්වය, විශ්වසනීයත්වය සහ මෙහෙයුම් ආරක්ෂාව ඉහළ නැංවීම සඳහා මූල්‍ය ආයතන නිතරම ස්වයංක්‍රීය ටෙලර් යන්ත්‍ර සහ අන්තර්ජාල බැංකු පද්ධතිවල මෘදුකාංග යාවත්කාලීන කිරීම් සිදු කරයි.
+Kriyakari thwaya, wishwasaniyalathwaya saha meheyum arakshawa ihala nanswima sadaha moolya ayathana nitharama swayankriya teller yanthra saha antharjala banku paddhathiwala mardhukanga yawathkalana kirim sidu karayi.
+Account ownership, nominee details හෝ linked service configurations වලට අදාළ වෙනස්කම් approve කිරීමට පෙර බැංකු විසින් supporting documents ඉල්ලා සිටිය හැකිය.
+ගිණුම් හිමිකාරිත්වය, නම් කරන ලද තැනැත්තාගේ තොරතුරු හෝ අනුබද්ධ සේවා වින්‍යාසයන්ට අදාළ වෙනස්කම් අනුමත කිරීමට පෙර බැංකු විසින් සනාථ කරන ලේඛන ඉල්ලා සිටිය හැකිය.
+Ginum himikarathwaya, nam karana lada thanaththa ge thorathuru ho anubaddha sewa winyasanata adhala wenaswim anumatha kirimata pera banku wisin sanatha karana lekhana illa sitiya hakiya.
+Unauthorized activities හෝ unexpected bank charges ඉක්මනින් හඳුනා ගැනීම සඳහා නිතිපතා transaction history එක review කිරීමට customers ලා දිරිමත් කරනු ලැබේ.
+අනවසර ක්‍රියාකාරකම් හෝ බලාපොරොත්තු නොවූ බැංකු ගාස්තු ඉක්මනින් හඳුනා ගැනීම සඳහා නිතිපතා ගනුදෙනු ඉතිහාසය සමාලෝචනය කිරීමට පාරිභෝගිකයන් දිරිමත් කරනු ලැබේ.
+Anawasara kriyakarakam ho balaporoththu nowoo banku gadhasthu ikmanin handhanaganim sadaha nithipada ganudenu ithihasaya samalochana kirimata paribhogikayan dhibagmathu karanu labe.
+Network breakdowns හෝ infrastructure maintenance කටයුතු ඇතුළු unexpected operational situations වලදී financial institutions විසින් selected services තාවකාලිකව suspend කරනු ලැබිය හැකිය.
+ජාල බිඳවැටීම් හෝ යටිතල පහසුකම් නඩත්තු කටයුතු ඇතුළු හදිසි මෙහෙයුම් අවස්ථාවන්හිදී මූල්‍ය ආයතන විසින් තෝරාගත් සේවාවන් තාවකාලිකව අත්හිටුවනු ලැබිය හැකිය.
+Jala bidhawatim ho yathala pahasukam nadaththu katuyuthu athulu hadhisi meheyum awasthawanhadhi moolya ayathana wisin thoragath sewawan thawakalikawa athhituwanu labiya hakiya.
+Service performance indicators monitor කිරීම සහ customer operations වල overall efficiency එක ඉහළ නැංවීම සඳහා බැංකු සාමාන්‍යයෙන් automated monitoring mechanisms ක්‍රියාත්මක කරයි.
+සේවා කාර්ය සාධන දර්ශක නිරීක්ෂණය කිරීම සහ පාරිභෝගික මෙහෙයුම්වල සමස්ත කාර්යක්ෂමතාව ඉහළ නැංවීම සඳහා බැංකු සාමාන්‍යයෙන් ස්වයංක්‍රීය නිරීක්ෂණ යාන්ත්‍රණ ක්‍රියාත්මක කරයි.
+Sewa karya sadhana dharshaka nirikshanaya kirima saha paribhogika meheyumwala samastha karyakshamathwaya ihala nanswima sadaha banku samanyayen swayankriya nirikshana yanthrana kriya thmaka karayi.
+Bank Overdraft පහසුකම් මඟින් Account Holders ලාට තම ගිණුමේ ඇති Balance එකට වඩා වැඩි මුදලක් අනුමත සීමාවක් දක්වා ලබා ගැනීමට අවස්ථාව සලසා දෙයි.
+බැංකු අයිරා පහසුකම් මඟින් ගිණුම් හිමියන්ට තම ගිණුමේ ඇති ඉතිරියට වඩා වැඩි මුදලක් අනුමත සීමාවක් දක්වා ලබා ගැනීමට අවස්ථාව සලසා දෙයි.
+Banku ayira pahasukam magin ginum himiyanta thama ginume athi ithiriyata wada wadi mudalak anumatha simawak dhakwa laba ganimata awasthawa salasa dheyi.
+ගිණුම් වාර්තා කාලසීමාව පුරා Minimum Balance අවශ්‍යතාවන් සපුරා ඇත්නම් මාසික Account Maintenance Fees නිදහස් කළ හැකිය.
+ගිණුම් වාර්තා කාලසීමාව පුරා අවම ශේෂ අවශ්‍යතාවන් සපුරා ඇත්නම් මාසික ගිණුම් නඩත්තු ගාස්තු නිදහස් කළ හැකිය.
+Ginum wartha kalasimawa pura awama shesha awashyathawan sapura athnam masika ginum nadaththu gasthu nidahas kala hakiya.
+Direct Debit නියෝග මඟින් නියමිත දිනවලදී වාරික බිල්පත් ගෙවීම සඳහා ඔබේ ගිණුමෙන් ස්වයංක්‍රීයවම මුදල් Transfer කරනු ලබයි.
+ඍජු හර නියෝග මඟින් නියමිත දිනවලදී වාරික බිල්පත් ගෙවීම සඳහා ඔබේ ගිණුමෙන් ස්වයංක්‍රීයවම මුදල් හුවමාරු කරනු ලබයි.
+Ruju hara niyoga magin niyamitha dhinawaledhi warika bilpath gewima sadaha obe ginumen swayankriyawama mudhal huwamaru karanu labayi.
+Standing Orders මඟින් කිසිදු අතින් සිදුකරන මැදිහත්වීමකින් තොරව, එකම Beneficiary වෙත නිත්‍ය ස්ථාවර ගෙවීම් යැවීමට ඉඩ සලසයි.
+ස්ථාවර නියෝග මඟින් කිසිදු අතින් සිදුකරන මැදිහත්වීමකින් තොරව, එකම ප්‍රතිලාභියා වෙත නිත්‍ය ස්ථාවර ගෙවීම් යැවීමට ඉඩ සලසයි.
+Sthawara niyoga magin kisidhu athin sidukarana madhihathwimakin thorawa, ekama prathilabhiya wetha nithya sthawara gewim yayimata ida salasayi.
+Online Banking පද්ධති මඟින් Transaction History එක සහ Account Statements වෙත Real-time Access ලබා දෙයි.
+අන්තර්ජාල බැංකුකරණ පද්ධති මඟින් ගනුදෙනු ඉතිහාසය සහ ගිණුම් ප්‍රකාශන වෙත තත්කාලීන ප්‍රවේශය ලබා දෙයි.
+Antharjala bankukaranaya paddhathi magin ganudenu ithihasaya saha ginum prakashana wetha thathkalina praveshaya laba dheyi.
+Credit Card මිලදී ගැනීම් මෙන් නොව, Debit Card ගනුදෙනු සෘජුවම සම්බන්ධිත ගිණුමෙන් වහාම Debit කරනු ලැබේ.
+ක්‍රෙඩිට් කාඩ්පත් මිලදී ගැනීම් මෙන් නොව, ඩෙබිට් කාඩ්පත් ගනුදෙනු සෘජුවම සම්බන්ධිත ගිණුමෙන් වහාම හර කරනු ලැබේ.
+Credit cardpath mildhi ganim men nowa, debit cardpath ganudenu srujuwama sambandhitha ginumen wahama hara karanu labe.
+අදාළ බැංකු ජාලයට අයත් නොවන ATM යන්ත්‍රවලින් මුදල් ලබා ගැනීමේදී සාමාන්‍යයෙන් අමතර Service Charges අය කෙරේ.
+අදාළ බැංකු ජාලයට අයත් නොවන ටෙලර් යන්ත්‍රවලින් මුදල් ලබා ගැනීමේදී සාමාන්‍යයෙන් අමතර සේවා ගාස්තු අය කෙරේ.
+Adhala banku jalayata ayath nowana teller yanthrawalin mudhal laba ganimedi samanyayen amathara sewa gasthu aya kere.
+Joint Accounts වල ඇතැම් බැංකු කටයුතු සඳහා නම් කර ඇති සියලුම හිමියන්ගේ කැමැත්ත ලබා දීම අවශ්‍ය වේ.
+ඒකාබද්ධ ගිණුම්වල ඇතැම් බැංකු කටයුතු සඳහා නම් කර ඇති සියලුම හිමියන්ගේ කැමැත්ත ලබා දීම අවශ්‍ය වේ.
+Ekabaddha ginumwala aetham banku katuyuthu sadaha nam kara athi siyaluom himiyange kamaththa laba dhima awashya we.
+දිගු කාලයක් තිස්සේ කිසිදු ක්‍රියාකාරකමක් නොපෙන්වන Dormant Accounts නැවත Activate කිරීමේ ක්‍රියා පටිපාටිවලට යටත් විය හැකිය.
+දිගු කාලයක් තිස්සේ කිසිදු ක්‍රියාකාරකමක් නොපෙන්වන අක්‍රිය ගිණුම් නැවත සක්‍රිය කිරීමේ ක්‍රියා පටිපාටිවලට යටත් විය හැකිය.
+Dhigu kalayak thosse kisidhu kriyakari thwayak noponwana akriya ginum nawatha sakriya kirime kriya patipadiwalata yathath wi hakiya.
+Savings තැන්පතු සඳහා Interest එක සාමාන්‍යයෙන් දිනපතා ගණනය කරනු ලබන අතර මාසිකව හෝ කාර්තුවකට වරක් ගිණුමට Credit කරනු ලැබේ.
+ඉතුරුම් තැන්පතු සඳහා පොලිය සාමාන්‍යයෙන් දිනපතා ගණනය කරනු ලබන අතර මාසිකව හෝ කාර්තුවකට වරක් ගිණුමට බැර කරනු ලැබේ.
+Ithurum thampathu sadaha poliya samanyayen dhinapatha gananaya karanu labana athara masikawa ho karthuwakata warak ginumata bara karanu labe.
+Cheque Clearing සඳහා සාමාන්‍යයෙන් මුදල් ලබා ගැනීමට පෙර Working Days කිහිපයක් ගත වේ.
+චෙක්පත් නිෂ්කාශනය සඳහා සාමාන්‍යයෙන් මුදල් ලබා ගැනීමට පෙර වැඩ කරන දින කිහිපයක් ගත වේ.
+Chequepath nishkrashanaya sadaha samanyayen mudhal laba ganimata pera wada karana dhina kihipayak gatha we.
+සැක සහිත හෝ අසාමාන්‍ය ගනුදෙනු රටාවන් අනාවරණය වුවහොත් බැංකු විසින් ගිණුම් තාවකාලිකව Freeze කිරීමට ඉඩ ඇත.
+සැක සහිත හෝ අසාමාන්‍ය ගනුදෙනු රටාවන් අනාවරණය වුවහොත් බැංකු විසින් ගිණුම් තාවකාලිකව අත්හිටුවීමට ඉඩ ඇත.
+Saka sahitha ho asamanya ganudenu rathaewan anawaranya wuwahoth banku wisin ginum thawakalikawa athhituwimata ida atha.
+Mobile Banking Apps මඟින් පාරිභෝගිකයින්ට ක්ෂණිකව Balances පරීක්ෂා කිරීමට සහ තමන්ගේම ගිණුම් අතර මුදල් Transfer කිරීමට ඉඩ සලසයි.
+ජංගම බැංකුකරණ යෙදුම් මඟින් පාරිභෝගිකයින්ට ක්ෂණිකව ශේෂයන් පරීක්ෂා කිරීමට සහ තමන්ගේම ගිණුම් අතර මුදල් හුවමාරු කිරීමට ඉඩ සලසයි.
+Jangama bankukaranaya yedum magin paribhogikayinta kshanikawa sheshayan pariksha kirimata saha thamangema ginum athara mudhal huwamaru kirimata ida salasayi.
+Nominees ලා ලියාපදිංචි කිරීම මඟින් ගිණුම් හිමියාගේ අභාවයකදී නම් කරන ලද පුද්ගලයන්ට ගිණුමේ මුදල් ලබා ගැනීමට හැකි බව සහතික කරයි.
+නාමිකයන් ලියාපදිංචි කිරීම මඟින් ගිණුම් හිමියාගේ අභාවයකදී නම් කරන ලද පුද්ගලයන්ට ගිණුමේ මුදල් ලබා ගැනීමට හැකි බව සහතික කරයි.
+Namikayan liyapadhinchi kirima magin ginum himiyage abhawayakadhi nam karana lada pudhgalayanta ginume mudhal laba ganimata haki bawa sahathika karayi.
+SMS හෝ විද්‍යුත් තැපෑල හරහා ලැබෙන Transaction Alerts ගිණුම් හිමියන්ට සියලුම Credits සහ Debits තත්කාලීනව නිරීක්ෂණය කිරීමට උපකාරී වේ.
+කෙටි පණිවිඩ හෝ විද්‍යුත් තැපෑල හරහා ලැබෙන ගනුදෙනු දැනුම්දීම් ගිණුම් හිමියන්ට සියලුම බැර සහ හර කිරීම් තත්කාලීනව නිරීක්ෂණය කිරීමට උපකාරී වේ.
+Keti panivida ho vidhyutha thapala haraha labena ganudenu dannwim ginum himiyanta siyaluom bara saha hara kirim thathkalinawa nirikshanaya kirimata upakari we.
+බැංකු ශාඛාවට හෝ ස්වයංක්‍රීය Passbook Printer වෙත ඉදිරිපත් කළ විට Passbook Updates මඟින් සියලුම ගනුදෙනු නිරූපණය කෙරේ.
+බැංකු ශාඛාවට හෝ ස්වයංක්‍රීය පාස්පොත් මුද්‍රණ යන්ත්‍ර වෙත ඉදිරිපත් කළ විට පාස්පොත් යාවත්කාලීන කිරීම් මඟින් සියලුම ගනුදෙනු නිරූපණය කෙරේ.
+Banku shakawata ho swayankriya passbook mudhrana yanthra wetha idhiripath kala wita passbook yawathkalana kirim magin siyaluom ganudenu nirupanaya kere.
+මාසය අවසානයේදී ගිණුම් ශේෂය නියමිත සීමාවට වඩා අඩු වුවහොත් Minimum Balance Penalty අදාළ වේ.
+මාසය අවසානයේදී ගිණුම් ශේෂය නියමිත සීමාවට වඩා අඩු වුවහොත් අවම ශේෂ දඩ මුදල් අදාළ වේ.
+Masaya awasanayedhi ginum sheshaya niyamitha simayata wada adu wuwahoth awama shesha dhadha mudhal adhala we.
+NEFT සහ RTGS යනු සැකසුම් වේගය සහ ගනුදෙනු වටිනාකම් සීමාවන්ගෙන් එකිනෙකට වෙනස් වන Electronic Fund Transfer පද්ධතීන් වේ.
+එන්.ඊ.එෆ්.ටී. සහ ආර්.ටී.එස්.ජී. යනු සැකසුම් වේගය සහ ගනුදෙනු වටිනාකම් සීමාවන්ගෙන් එකිනෙකට වෙනස් වන විද්‍යුත් මුදල් හුවමාරු පද්ධතීන් වේ.
+N.E.F.T. saha R.T.G.S. yanu sakasum weghaya saha ganudenu watinakama simawangen ekinekata wenas wana vidhyutha mudhal huwamaru paddhathin we.
+පුද්ගලික වාර්තා තබා ගැනීම සඳහා PDF සහ Excel ඇතුළු විවිධ ආකෘතිවලින් Account Statements Download කළ හැකිය.
+පුද්ගලික වාර්තා තබා ගැනීම සඳහා පී.ඩී.එෆ්. සහ එක්සෙල් ඇතුළු විවිධ ආකෘතිවලින් ගිණුම් ප්‍රකාශන බාගත හැකිය.
+Pudhgalika wartha thaba ganima sadaha PDF saha Excel athulu wiwidha akrathiwalin ginum prakashana baha gatha hakiya.
+Safe Deposit Lockers මඟින් බැංකු ශාඛාවල වටිනා භාණ්ඩ සහ වැදගත් ලේඛන සඳහා ආරක්ෂිත ගබඩා පහසුකම් සපයයි.
+ආරක්ෂිත තැන්පතු ලාච්චු මඟින් බැංකු ශාඛාවල වටිනා භාණ්ඩ සහ වැදගත් ලේඛන සඳහා ආරක්ෂිත ගබඩා පහසුකම් සපයයි.
+Arakshitha thampathu lachchu magin banku shakawala watina bhandha saha wagath lekhana sadaha arakshitha gabada pahasukam sapayayi.
+Sweep-in පහසුකම් මඟින් වඩා හොඳ පොලී ආදායමක් ලබා ගැනීම සඳහා Current Accounts වල ඇති අතිරික්ත මුදල් Fixed Deposits වෙත ස්වයංක්‍රීයවම Transfer කරනු ලබයි.
+ඉතිරි මුදල් ස්වයංක්‍රීයව මාරු කිරීමේ පහසුකම් මඟින් වඩා හොඳ පොලී ආදායමක් ලබා ගැනීම සඳහා ජංගම ගිණුම්වල ඇති අතිරික්ත මුදල් ස්ථාවර තැන්පතු වෙත ස්වයංක්‍රීයවම හුවමාරු කරනු ලබයි.
+Ithiri mudhal swayankriyawa maaru kireeme pahasukam magin wada hoda polee aadhayamak laba ganeema sadaha jangama ginumwala athi athirikhtha mudhal sthawara thampathu wetha swayankriyawama huwamaru karanu labayi.
+ඕනෑම ගිණුම් කටයුත්තකට අවසර දීමට පෙර බැංකු විසින් KYC Documents මඟින් පාරිභෝගික අනන්‍යතාවය තහවුරු කරනු ලබයි.
+ඕනෑම ගිණුම් කටයුත්තකට අවසර දීමට පෙර බැංකු විසින් පාරිභෝගිකයා හඳුනාගැනීමේ ලේඛන මඟින් පාරිභෝගික අනන්‍යතාවය තහවුරු කරනු ලබයි.
+Onama ginum katuyuthakata awasara deemata pera banku wisin paribhogikaya hadhunaganeeme lekhana magin paribhogika ananyathawayaya thahawuru karanu labayi.
+Stop Payment උපදෙස් මඟින්, Clearing එකට පෙර දැනුම් දුන්නහොත්, නිශ්චිත Cheques සඳහා මුදල් ගෙවීම වළක්වනු ලබයි.
+ගෙවීම් නැවැත්වීමේ උපදෙස් මඟින්, නිෂ්කාශනයට පෙර දැනුම් දුන්නහොත්, නිශ්චිත චෙක්පත් සඳහා මුදල් ගෙවීම වළක්වනු ලබයි.
+Geweem nawathweeme upadhes magin, nishkrashanayata pera dhanu dhunnahoth, nishchitha chequepath sadaha mudhal gewima walakwanu labayi.
+Account Aggregation සේවා මඟින් බැංකු කිහිපයක ඇති මූල්‍ය තොරතුරු තනි Dashboard එකක් වෙත එක්රැස් කර පෙන්වයි.
+ගිණුම් ඒකාබද්ධ කිරීමේ සේවා මඟින් බැංකු කිහිපයක ඇති මූල්‍ය තොරතුරු තනි පුවරුවක් වෙත එක්රැස් කර පෙන්වයි.
+Ginum ekabaddha kireeme sewa magin banku kihipayaka athi moolya thorathuru thani puwaruwak wetha ekras kara penwayi.
+Third Parties ලාට මුදල් ලබා ගැනීමට පෙර, පූර්ව අනුමත Debits සඳහා ගිණුම් හිමියන්ගෙන් ලිඛිත කැමැත්ත අවශ්‍ය වේ.
+තෙවැනි පාර්ශවයන්ට මුදල් ලබා ගැනීමට පෙර, පූර්ව අනුමත හර කිරීම් සඳහා ගිණුම් හිමියන්ගෙන් ලිඛිත කැමැත්ත අවශ්‍ය වේ.
+Thewani parshawayanta mudhal laba ganeemata pera, poorwa anumatha hara kireem sadaha ginum himiyangen likhitha kamaththa awashya we.
+Instant Payment Options මඟින් බැංකු නොවන වේලාවන්හිදී සහ නිවාඩු දිනවලදී පවා පැය විසිහතර පුරාම මුදල් Transfer කිරීමට ඉඩ සලසයි.
+ක්ෂණික ගෙවීම් සේවා මඟින් බැංකු නොවන වේලාවන්හිදී සහ නිවාඩු දිනවලදී පවා පැය විසිහතර පුරාම මුදල් හුවමාරු කිරීමට ඉඩ සලසයි.
+Kshanika geweem sewa magin banku nowana welawanhadhi saha niwadu dhinawala pawa paya wisi-hathara purama mudhal huwamaru kireemata ida salasayi.
+Auto-debit සැකසුම් මඟින් නියමිත දිනවලදී EMI මුදල් ස්වයංක්‍රීයවම Transfer කිරීම මඟින් ණය ප්‍රතිපූරණය පහසු කරයි.
+ස්වයංක්‍රීය හර කිරීමේ සැකසුම් මඟින් නියමිත දිනවලදී සමාන මාසික වාරික මුදල් ස්වයංක්‍රීයවම හුවමාරු කිරීම මඟින් ණය ප්‍රතිපූරණය පහසු කරයි.
+Swayankriya hara kireeme sakasum magin niyamitha dhinawaledhi samana masika warika mudhal swayankriyawama huwamaru kireema magin naya prathipooranaya pahasu karayi.
+Cash Deposit Machines මඟින් සාමාන්‍ය බැංකු වේලාවන්ගෙන් බාහිරව, ගිණුමට වහාම Credit වීම සඳහා නෝට්ටු සහ කාසි භාරගනු ලබයි.
+මුදල් තැන්පත් කිරීමේ යන්ත්‍ර මඟින් සාමාන්‍ය බැංකු වේලාවන්ගෙන් බාහිරව, ගිණුමට වහාම බැර වීම සඳහා නෝට්ටු සහ කාසි භාරගනු ලබයි.
+Mudhal thampath kireeme yanthra magin samanya banku welawangen bahirawa, ginumata wahaama bara weema sadaha nottu saha kasi bharaganu labayi.
+Phone Banking සහ අන්තර්ජාල ද්වාර ඇතුළු බහුවිධ මාධ්‍යයන් හරහා Balance Inquiry සේවාවන් ලබා ගත හැකිය.
+දුරකථන බැංකුකරණය සහ අන්තර්ජාල ද්වාර ඇතුළු බහුවිධ මාධ්‍යයන් හරහා ගිණුම් ශේෂය විමසීමේ සේවාවන් ලබා ගත හැකිය.
+Dhurakathana bankukaranaya saha antharjala dwarayan athulu bahuwithha madhyayan haraha ginum sheshaya wimaswime sewawan laba gatha hakiya.
+Relationship Managers ලා විසින් ඉහළ ගිණුම් ශේෂයන් පවත්වාගෙන යන පාරිභෝගිකයින් සඳහා පුද්ගලීකරණය කළ බැංකු සහාය සපයයි.
+සම්බන්ධතා කළමනාකරුවන් විසින් ඉහළ ගිණුම් ශේෂයන් පවත්වාගෙන යන පාරිභෝගිකයින් සඳහා පුද්ගලීකරණය කළ බැංකු සහාය සපයයි.
+Sambandhatha kalamanakaruwan wisin ihala ginum sheshayan pawathwagena yana paribhogikayin sadaha pudhgalikarana kala banku sahaya sapayayi.
+Account Upgrade විකල්ප මඟින් පාරිභෝගිකයින්ට මූලික ගිණුම්වල සිට ඉහළ පහසුකම් සහිත Premium Account Types වෙත මාරු වීමට ඉඩ සලසයි.
+ගිණුම් ශ්‍රේණි උත්ශ්‍රේණි කිරීමේ විකල්ප මඟින් පාරිභෝගිකයින්ට මූලික ගිණුම්වල සිට ඉහළ පහසුකම් සහිත වාරික ගිණුම් වර්ග වෙත මාරු වීමට ඉඩ සලසයි.
+Ginum shreni uthshreni kireeme wikalpa magin paribhogikayinta moolika ginumwala sita ihala pahasukam sahitha warika ginum warga wetha maaru weemata ida salasayi.
+Beneficiary Management පද්ධති මඟින් ඉක්මන් සහ පහසු හුවමාරු සඳහා නිතර භාවිතා කරන මුදල් ලබන්නන්ගේ විස්තර ගබඩා කර තබා ගනී.
+ප්‍රතිලාභී කළමනාකරණ පද්ධති මඟින් ඉක්මන් සහ පහසු හුවමාරු සඳහා නිතර භාවිතා කරන මුදල් ලබන්නන්ගේ විස්තර ගබඩා කර තබා ගනී.
+Prathilabhi kalamanakarana paddhathi magin ikman saha pahasu huwamaru sadaha nithara bhwitha karana mudhal labannange wisthara gabada kara thabayee.
+Transaction Limits ගිණුම් වර්ගය මත පදනම්ව වෙනස් වන අතර පාරිභෝගික අවශ්‍යතා අනුව ඒවා වෙනස් කරගත හැකිය.
+ගනුදෙනු සීමාවන් ගිණුම් වර්ගය මත පදනම්ව වෙනස් වන අතර පාරිභෝගික අවශ්‍යතා අනුව ඒවා වෙනස් කරගත හැකිය.
+Ganudenu simawan ginum warga matha padhanamwa wenas wana athara paribhogika awashyatha anuwa ewa wenas karagatha hakiya.
+ගිණුම් හිමියන් සඳහා Cheque Book Requests වැඩ කරන දින කිහිපයක් ඇතුළත සකසනු ලැබේ.
+ගිණුම් හිමියන් සඳහා චෙක්පත් පොත් ඉල්ලීම් වැඩ කරන දින කිහිපයක් ඇතුළත සකසනු ලැබේ.
+Ginum himiyan sadaha chequepath poth illum wada karana dhina kihipayak athulatha sakasanu labe.
+මුදල් හුවමාරු Reversals කළ හැක්කේ නිශ්චිත කාල රාමුවක් තුළ සහ මුදල් ලබන්නාගේ බැංකුවේ සහයෝගීතාවයට යටත්ව පමණි.
+මුදල් හුවමාරු ආපසු හැරවීම් කළ හැක්කේ නිශ්චිත කාල රාමුවක් තුළ සහ මුදල් ලබන්නාගේ බැංකුවේ සහයෝගීතාවයට යටත්ව පමණි.
+Mudhal huwamaru aapahu harewim kala hakke nishchitha kala ramaawak thula saha mudhal labannage bankuwe sahayogithayata yathathwa pamani.
+Multi-currency Accounts මඟින් මුදල් පරිවර්තන ගාස්තු නොමැතිව විදේශීය ව්‍යවහාර මුදල් රඳවා තබා ගැනීමට සහ ගනුදෙනු කිරීමට පහසුකම් සලසයි.
+බහු-විනිමය ගිණුම් මඟින් මුදල් පරිවර්තන ගාස්තු නොමැතිව විදේශීය ව්‍යවහාර මුදල් රඳවා තබා ගැනීමට සහ ගනුදෙනු කිරීමට පහසුකම් සලසයි.
+Bahu-winiwaya ginum magin mudhal pariwarthana gasthu nathuwa wideshiya wyawahara mudhal radhawa thaba ganeemata saha ganudenu kireemata pahasukam salasayi.
+Account Closure ක්‍රියා පටිපාටි සඳහා ගෙවීමට ඇති සියලුම හිඟ මුදල් පියවීම සහ භාවිත නොකළ Cheque Leaves ආපසු භාරදීම අවශ්‍ය වේ.
+ගිණුම් වැසීමේ ක්‍රියා පටිපාටි සඳහා ගෙවීමට ඇති සියලුම හිඟ මුදල් පියවීම සහ භාවිත නොකළ චෙක්පත් කොළ ආපසු භාරදීම අවශ්‍ය වේ.
+Ginum waseeme kriya patipadi sadaha geweemata athi siyaluom higa mudhal piyawima saha bhwitha nokala chequepath kola aapahu bharadhima awashya we.
+Digital Tokens හෝ අනන්‍යතා තහවුරු කරන්නන් මඟින් Online Transactions Auth කිරීම සඳහා අමතර ආරක්ෂිත ස්ථර සපයයි.
+ඩිජිටල් සංකේත හෝ අනන්‍යතා තහවුරු කරන්නන් මඟින් අන්තර්ජාල ගනුදෙනු බලය පැවරීම සඳහා අමතර ආරක්ෂිත ස්ථර සපයයි.
+Digital sanketha ho ananyatha thahawuru karannan magin antharjala ganudenu balaya pawareema sadaha amathara arakshitha sthara sapayayi.
+Scheduled Transfers මඟින් පාරිභෝගිකයින්ට ස්වයංක්‍රීයව ක්‍රියාත්මක වන අනාගත දින වකවානු සහිත ගෙවීම් සැකසීමට ඉඩ සලසයි.
+කාලසටහන්ගත හුවමාරු මඟින් පාරිභෝගිකයින්ට ස්වයංක්‍රීයව ක්‍රියාත්මක වන අනාගත දින වකවානු සහිත ගෙවීම් සැකසීමට ඉඩ සලසයි.
+Kalasatahangatha huwamaru magin paribhogikayinta swayankriyawa kriyaathmaka wana anagatha dhina wakawanu sahitha geweem sakaseemata ida salasayi.
+Branch Locator Tools මඟින් පාරිභෝගිකයින්ට නිශ්චිත සේවා හැකියාවන් සහිත අසල ඇති ATMs සහ බැංකු මධ්‍යස්ථාන සොයා ගැනීමට උපකාරී වේ.
+ශාඛා සොයා ගැනීමේ මෙවලම් මඟින් පාරිභෝගිකයින්ට නිශ්චිත සේවා හැකියාවන් සහිත අසල ඇති ටෙලර් යන්ත්‍ර සහ බැංකු මධ්‍යස්ථාන සොයා ගැනීමට උපකාරී වේ.
+Shaka soya ganeeme mewalam magin paribhogikayinta nishchitha sewa hakiyawan sahitha asala athi teller yanthra saha banku madhyasthana soya ganeemata upakari we.
+Savings Account එකක් මඟින් සාමාන්‍යයෙන් තැන්පත් කළ මුදල් ලබා ගැනීමට අඛණ්ඩව ඉඩ සලසන අතරම Interest ආදායමක්ද උපයා දෙයි.
+ඉතුරුම් ගිණුමක් මඟින් සාමාන්‍යයෙන් තැන්පත් කළ මුදල් ලබා ගැනීමට අඛණ්ඩව ඉඩ සලසන අතරම පොලී ආදායමක්ද උපයා දෙයි.
+Ithurum ginumak magin samanyayen thanpath kala mudal laba ganimata akhandawa ida salasanathara polee adayamakda upaya deyi.
+Digital Banking සේවාවන් වෙත ප්‍රවේශ වීමට අවසර දීමට පෙර බැංකු විසින් බොහෝ විට පාරිභෝගික අනන්‍යතාවය තහවුරු කරනු ලබයි.
+ඩිජිටල් බැංකු සේවාවන් වෙත ප්‍රවේශ වීමට අවසර දීමට පෙර බැංකු විසින් බොහෝ විට පාරිභෝගික අනන්‍යතාවය තහවුරු කරනු ලබයි.
+Digital banku sewawan wetha pravesha weemata awasara deemata pera banku wisin boho wita paribhogika ananyathawaya thahuwuru karanu labayi.
+Fixed Deposit එකක් මඟින් සාමාන්‍යයෙන් එකඟ වූ Maturity කාලසීමාව අවසන් වන තෙක් මුදල් ලබා ගැනීම් සීමා කරයි.
+ස්ථාවර තැන්පතුවක් මඟින් සාමාන්‍යයෙන් එකඟ වූ කල් පිරීමේ කාලසීමාව අවසන් වන තෙක් මුදල් ලබා ගැනීම් සීමා කරයි.
+Sthawara thanpathuwak magin samanyayen ekaga woo kal pireeme kalaseemawa awasan wana thak mudal laba ganeem seema karayi.
+Debit Cards පොදුවේ පාරිභෝගිකයෙකුගේ ගිණුමේ ඇති Balance එක සමඟ සෘජුවම සම්බන්ධ කර ඇත.
+ඩෙබිට් කාඩ්පත් පොදුවේ පාරිභෝගිකයෙකුගේ ගිණුමේ ඇති ඉතිරි මුදල සමඟ සෘජුවම සම්බන්ධ කර ඇත.
+Debit cardpath poduwe paribhogikaekuge ginume athi ithiri mudala samaga srijuwama sambandha kara atha.
+Online Banking පද්ධති මඟින් ගිණුම් හිමියන්ට බැංකු ශාඛාවකට නොපැමිණ ගිණුම් කටයුතු සමාලෝචනය කිරීමට ඉඩ සලසයි.
+අන්තර්ජාල බැංකුකරණ පද්ධති මඟින් ගිණුම් හිමියන්ට බැංකු ශාඛාවකට නොපැමිණ ගිණුම් කටයුතු සමාලෝචනය කිරීමට ඉඩ සලසයි.
+Antharjala bankukarana paddhathi magin ginum himiyanta banku shakhawakata nopamina ginum katayuthu samalochanya kireemata ida salasayi.
+අසාමාන්‍ය ගිණුම් ක්‍රියාකාරකමක් අනාවරණය වූ විට සමහර banks ස්වයංක්‍රීයවම customers ව දැනුවත් කරයි.
+අසාමාන්‍ය ගිණුම් ක්‍රියාකාරකමක් අනාවරණය වූ විට සමහර බැංකු ස්වයංක්‍රීයවම පාරිභෝගිකයන්ව දැනුවත් කරයි.
+Asamanya ginum kriyaakarakamak anawaranya woo wita samahara banku swayankreeyawama paribhogikayanwa danuwath karayi.
+ගිණුම් සැකසුම් මත පදනම්ව, Joint Accounts එකකට වඩා වැඩි බලයලත් ගිණුම් හිමියන් පිරිසකට හැසිරවිය හැකිය.
+ගිණුම් සැකසුම් මත පදනම්ව, ඒකාබද්ධ ගිණුම් එකකට වඩා වැඩි බලයලත් ගිණුම් හිමියන් පිරිසකට හැසිරවිය හැකිය.
+Ginum sakasum math padanamawa, ekaabadhdha ginum ekakata wadawadi balayalatha ginum himiyan pirisakata hansariwiya hakkiya.
+monitoring වලදී safety problems හඳුනාගතහොත් බැංකුවක් විසින් තාවකාලිකව account access limit කිරීමට ඉඩ ඇත.
+නිරීක්ෂණ කටයුතුවලදී ආරක්ෂක ගැටළු හඳුනාගතහොත් බැංකුවක් විසින් තාවකාලිකව ගිණුම් ප්‍රවේශය සීමා කිරීමට ඉඩ ඇත.
+Nireekshana katayuthuwaladee arakshaka gatalu handunagathoth bankuwak wisin thawakalikawa ginum praveshaya seema kireemata ida atha.
+බැංකු වාර්තා නිවැරදිව තබා ගැනීම සඳහා පාරිභෝගිකයින් සාමාන්‍යයෙන් තමන්ගේ පුද්ගලික තොරතුරු Update කිරීම අවශ්‍ය වේ.
+බැංකු වාර්තා නිවැරදිව තබා ගැනීම සඳහා පාරිභෝගිකයින් සාමාන්‍යයෙන් තමන්ගේ පුද්ගලික තොරතුරු යාවත්කාලීන කිරීම අවශ්‍ය වේ.
+Banku wartha niwaradiwa thaba ganeema sadaha paribhogikayin samanyayen thaman_ge pudgalika thorathuru yawathkaleena kireema awashya we.
+තැන්පතු ගිණුම් සඳහා වන Interest Rates ගිණුම් වර්ගය සහ බැංකු ප්‍රතිපත්ති මත පදනම්ව වෙනස් විය හැකිය.
+තැන්පතු ගිණුම් සඳහා වන පොලී අනුපාත ගිණුම් වර්ගය සහ බැංකු ප්‍රතිපත්ති මත පදනම්ව වෙනස් විය හැකිය.
+Thanpathu ginum sadaha wana polee anuphatha ginum wargaya saha banku prathipaththi math padanamawa wenas wiya hakkiya.
+Mobile Banking Apps මඟින් බොහෝ විට Account Statements සහ සේවා ඉල්ලීම් වෙත ඉක්මන් ප්‍රවේශයක් ලබා දෙයි.
+ජංගම බැංකුකරණ යෙදුම් මඟින් බොහෝ විට ගිණුම් ප්‍රකාශන සහ සේවා ඉල්ලීම් වෙත ඉක්මන් ප්‍රවේශයක් ලබා දෙයි.
+Jangama bankukarana yedum magin boho wita ginum prakashana saha sewa illam wetha ikman praveshayak laba deyi.
+දැනට පවතින card එකක් විනාශ වූ විට හෝ එහි valid time අවසන් වූ විට බැංකු සාමාන්‍යයෙන් අලුත් card නිකුත් කරයි.
+දැනට පවතින කාඩ්පතක් විනාශ වූ විට හෝ එහි වලංගු කාලය අවසන් වූ විට බැංකු සාමාන්‍යයෙන් නව කාඩ්පත් නිකුත් කරයි.
+Danata pawathina cardpathak winasha woo wita ho ehi walangu kalaya awasan woo wita banku samanyayen nawa cardpath nikuth karayi.
+බැංකුව සමඟ දිගුකාලීන සබඳතා පවත්වගෙන යන customer ලා සඳහා ඇතැම් ගිණුම් මඟින් අමතර banking features සපයයි.
+බැංකුව සමඟ දිගුකාලීන සබඳතා පවත්වගෙන යන පාරිභෝගිකයින් සඳහා ඇතැම් ගිණුම් මඟින් අමතර බැංකු පහසුකම් සපයයි.
+Bankuwa samaga digukaleena sabandhatha pawathwagena yana paribhogikayin sadaha atham ginum magin amathara banku pahasukam sapayayi.
+තෝරාගත් දිනවලදී නැවත නැවත සිදුවන බැංකු කටයුතු ස්වයංක්‍රීය කිරීම සඳහා Standing Instructions සකස් කරගත හැකිය.
+තෝරාගත් දිනවලදී නැවත නැවත සිදුවන බැංකු කටයුතු ස්වයංක්‍රීය කිරීම සඳහා ස්ථාවර උපදෙස් සකස් කරගත හැකිය.
+Thoragath dinawaladee nawatha nawatha siduwana banku katayuthu swayankreeya kireema sadaha sthawara upades sakas karagatha hakkiya.
+මූල්‍ය ආයතන සාමාන්‍යයෙන් Account අයිතිය සහ Account වලට අදාළ බලය පැවරීම් පිළිබඳ records පවත්වාගෙන යයි.
+මූල්‍ය ආයතන සාමාන්‍යයෙන් ගිණුම් අයිතිය සහ ගිණුම්වලට අදාළ බලය පැවරීම් පිළිබඳ වාර්තා පවත්වාගෙන යයි.
+Moolya ayathana samanyayen ginum aithiya saha ginumwala athala balaya pawareem pilibanda wartha pawathwagena yayi.
+sensitive accounts වෙනස් කිරීම් අනුමත කිරීමට පෙර ඇතැම් බැංකු සේවාවන් සඳහා අමතර අනන්‍යතා verify කිරීමේ steps අවශ්‍ය වේ.
+සංවේදී ගිණුම් වෙනස් කිරීම් අනුමත කිරීමට පෙර ඇතැම් බැංකු සේවාවන් සඳහා අමතර අනන්‍යතා තහවුරු කිරීමේ පියවර අවශ්‍ය වේ.
+Sanwedee ginum wenas kireem anumatha kireemata pera atham banku sewawan sadaha amathara ananyatha thahuwuru kireeme piyawara awashya we.
+සාමාන්‍ය බැංකු ප්‍රවේශය නැවත ලබා ගැනීමට පෙර Dormant Account එකකට නැවත Activation ක්‍රියා පටිපාටි අවශ්‍ය විය හැකිය.
+සාමාන්‍ය බැංකු ප්‍රවේශය නැවත ලබා ගැනීමට පෙර අක්‍රිය ගිණුමකට නැවත සක්‍රිය කිරීමේ ක්‍රියා පටිපාටි අවශ්‍ය විය හැකිය.
+Samanya banku praveshaya nawatha laba ganeemata pera akriya ginumakata nawatha sakriya kireeme kriya patipadi awashya wiya hakkiya.
+පාරිභෝගිකයින්ට සාමාන්‍යයෙන් ශාඛා, ATMs, ජංගම යෙදුම් සහ අන්තර්ජාල ද්වාර හරහා බැංකු සේවාවන් ලබා ගත හැකිය.
+පාරිභෝගිකයින්ට සාමාන්‍යයෙන් ශාඛා, ටෙලර් යන්ත්‍ර, ජංගම යෙදුම් සහ අන්තර්ජාල ද්වාර හරහා බැංකු සේවාවන් ලබා ගත හැකිය.
+Paribhogikayanta samanyayen shakha, teller yanthra, jangama yedum saha antharjala dwara haraha banku sewawan laba gatha hakkiya.
+banks ඔවුන්ගේ අභ්‍යන්තර අනුකූලතා සහ disaster managment ක්‍රියාවලීන්හි කොටසක් ලෙස බොහෝ විට ගිණුම් behavior patterns study කරයි.
+බැංකු ඔවුන්ගේ අභ්‍යන්තර අනුකූලතා සහ අවදානම් කළමනාකරණ ක්‍රියාවලීන්හි කොටසක් ලෙස බොහෝ විට ගිණුම් හැසිරීම් රටාවන් සමාලෝචනය කරයි.
+Banku owunge abhyanthara anukoolatha saha awadhana kalamanakarana kriyawalheenhi kotasak lesa boho wita ginum hansaseema rathawan samalochanya karayi.
+අනවසර ක්‍රියාකාරකම් හෝ දෝෂ හඳුනා ගැනීම සඳහා ගිණුම් හිමියන්ට තම Account Statements නිතිපතා සමාලෝචනය කිරීමට දිරිගන්වනු ලැබේ.
+අනවසර ක්‍රියාකාරකම් හෝ දෝෂ හඳුනා ගැනීම සඳහා ගිණුම් හිමියන්ට තම ගිණුම් ප්‍රකාශන නිතිපතා සමාලෝචනය කිරීමට දිරිගන්වනු ලැබේ.
+Anawasara kriyaakarakam ho doha handuna ganeema sadaha ginum himiyanta thama ginum prakashana nithipatha samalochanya kireemata diriganwanu labeyi.
+බැංකු communication කටයුතු සඳහා account holders තමන්ගේ update කළ communication details පවත්වාගෙන යාම සාමාන්‍යයෙන් අපේක්ෂා කරයි.
+බැංකු සන්නිවේදන කටයුතු සඳහා ගිණුම් හිමියන් තමන්ගේ යාවත්කාලීන කළ සන්නිවේදන තොරතුරු පවත්වාගෙන යාම සාමාන්‍යයෙන් අපේක්ෂා කරයි.
+Banku sannivedana katayuthu sadaha ginum himiyan thaman_ge yawathkaleena kala sannivedana thorathuru pawathwagena yaama samanyayen apeksha karayi.
+ඇතැම් බැංකු system තුළ ගිණුම් කටයුතුවල මුද්‍රිත history එකක් තබා ගැනීම සඳහා passbook එකක් භාවිත කළ හැකිය.
+ඇතැම් බැංකු පද්ධති තුළ ගිණුම් කටයුතුවල මුද්‍රිත ඉතිහාසයක් තබා ගැනීම සඳහා ඉතුරුම් පොතක් භාවිත කළ හැකිය.
+Atham banku paddhathi thula ginum katayuthuwala mudritha ithihasayak thaba ganeema sadaha ithurum pothak bhawitha kala hakkiya.
+සමහර financial institutions සිසුන්, senior citizens හෝ ව්‍යාපාරිකයන් සඳහා විශේෂයෙන් සකස් කරන ලද accounts පිරිනමයි.
+සමහර මූල්‍ය ආයතන සිසුන්, ජ්‍යෙෂ්ඨ පුරවැසියන් හෝ ව්‍යාපාරිකයන් සඳහා විශේෂයෙන් සකස් කරන ලද ගිණුම් පිරිනමයි.
+Samahara moolya ayathana sisun, jyeshta purawasiyan ho wyaparikayan sadaha wisheshayen sakas karana lada ginum pirinamayi.
+සැලසුම්ගත බැංකු system maintenance කාල සීමාවන් තුළදී ATM පහසුකම් තාවකාලිකව down විය හැකිය.
+සැලසුම්ගත බැංකු පද්ධති නඩත්තු කාල සීමාවන් තුළදී ස්වයංක්‍රීය ටෙලර් යන්ත්‍ර පහසුකම් තාවකාලිකව අක්‍රිය විය හැකිය.
+Salasumgatha banku paddhathi nadatthu kala seemawan thuladee swayankreeya teller yanthra pahasukam thawakalikawa akriya wiya hakkiya.
+Security risks අවම කර ගැනීම සඳහා තමන්ගේ බැංකු login රහස්‍ය තොරතුරු confidentialව තබා ගන්නා ලෙස සාමාන්‍යයෙන් customersලට උපදෙස් දෙනු ලැබේ.
+ආරක්ෂක අවදානම් අවම කර ගැනීම සඳහා තමන්ගේ බැංකු පිවිසුම් රහස්‍ය තොරතුරු රහසිගතව තබා ගන්නා ලෙස සාමාන්‍යයෙන් පාරිභෝගිකයන්ට උපදෙස් දෙනු ලැබේ.
+Arakshaka awadhanam awama kara ganeema sadaha thaman_ge banku piwisum rahasya thorathuru rahasigathawa thaba ganna lesa samanyayen paribhogikayanta upades denu labayi.
+Customer කෙනෙක් නව device එකකින් සේවාවන් වෙත access වීමට උත්සාහ කරන විට බැංකු විසින් අතිරේක verification ඉල්ලා සිටිය හැකිය.
+පාරිභෝගිකයෙකු නව උපාංගයකින් සේවාවන් වෙත ප්‍රවේශ වීමට උත්සාහ කරන විට බැංකු විසින් අතිරේක සත්‍යාපනයන් ඉල්ලා සිටිය හැකිය.
+Paribhogikaeku nawa upangayakin sewawan wetha pravesha weemata uthsaha karana wita banku wisin athireka sathyaapanayan illa sitiya hakkiya.
+ඇතැම් බැංකු පහසුකම් ලබාගත හැක්කේ ගිණුම activate කිරීමේ process එක සම්පූර්ණ කිරීමෙන් පසුව පමණි.
+ඇතැම් බැංකු පහසුකම් ලබාගත හැක්කේ ගිණුම සක්‍රිය කිරීමේ ක්‍රියාවලිය සම්පූර්ණ කිරීමෙන් පසුව පමණි.
+Atham banku pahasukam labagatha hakke ginuma sakriya kireeme kriyawaliya sampoorna kireemen pasuwa pamani.
+අභ්‍යන්තර operational policiesවලට අනුකූල වීම සහතික කිරීම සඳහා financial institutions බොහෝ විට ගිණුම් භාවිතය monitor කරයි.
+අභ්‍යන්තර මෙහෙයුම් ප්‍රතිපත්තිවලට අනුකූල වීම සහතික කිරීම සඳහා මූල්‍ය ආයතන බොහෝ විට ගිණුම් භාවිතය නිරීක්ෂණය කරයි.
+Abhyanthara meheyum prathipaththiwala to anukoola weema sahathika kireema sadaha moolya ayathana boho wita ginum bhawithaya nireekshanya karayi.
+Customer කෙනෙකුට මුද්‍රිත තැපැල් සේවා වෙනුවට විද්‍යුත් ක්‍රමයට account statements ලබා ගැනීමට තෝරා ගත හැකිය.
+පාරිභෝගිකයෙකුට මුද්‍රිත තැපැල් සේවා වෙනුවට විද්‍යුත් ක්‍රමයට ගිණුම් ප්‍රකාශන ලබා ගැනීමට තෝරා ගත හැකිය.
+Paribhogikaekuta mudritha thapal sewa wenasata widyutha kramayata ginum prakashana laba ganeemata thora gatha hakkiya.
+විවිධ communication preferences සහිත customersලට සහාය වීම සඳහා බැංකු පොදුවේ multilingual support සේවා සපයයි.
+විවිධ සන්නිවේදන රුචිකත්වයන් සහිත පාරිභෝගිකයන්ට සහාය වීම සඳහා බැංකු පොදුවේ බහුභාෂා ආධාරක සේවා සපයයි.
+Wiwidha sannivedana ruchikathwayan sahitha paribhogikayanta sahaya weema sadaha banku poduwe bahubhasha adharaka sewa sapayayi.
+සමහර ගිණුම්වල identity එක verify කර අවසන් වනතුරු නිශ්චිත බැංකු features සඳහා සීමාවන් ඇතුළත් වේ.
+සමහර ගිණුම්වල අනන්‍යතාවය සත්‍යාපනය කර අවසන් වනතුරු නිශ්චිත බැංකු විශේෂාංග සඳහා සීමාවන් ඇතුළත් වේ.
+Samahara ginumwala ananyathawaya sathyaapanya kara awasan wanathuru nishchitha banku wisheshanga sadaha seemawan athulath we.
+Online banking සේවා මඟින් සාමාන්‍යයෙන් usersලට එකම account profile එකකින් ගිණුම් කිහිපයක් manage කිරීමට ඉඩ සලසයි.
+අන්තර්ජාල බැංකු සේවා මඟින් සාමාන්‍යයෙන් පරිශීලකයන්ට එකම ගිණුම් පැතිකඩකින් ගිණුම් කිහිපයක් කළමනාකරණය කිරීමට ඉඩ සලසයි.
+Antharjala banku sewa magin samanyayen parishilakayanta ekama ginum pathikayakin ginum kihipayak kalamanakaranya kireemata ida salasayi.
+Financial service providers භාවිතයේ පහසුව සහ security එක වැඩි දියුණු කිරීම සඳහා ඔවුන්ගේ digital platforms නිතරම update කරයි.
+මූල්‍ය සේවා සපයන්නන් භාවිතයේ පහසුව සහ ආරක්ෂාව වැඩි දියුණු කිරීම සඳහා ඔවුන්ගේ ඩිජිටල් වේදිකාවන් නිතරම යාවත්කාලීන කරයි.
+Moolya sewa sapayannan bhawithaye pahasuwa saha arakshawa wadi diyunu kireema sadaha owunge digital wedhikawan nitharama yawathkaleena karayi.
+Customerගේ අපේක්ෂිත මූල්‍ය කටයුතු මත පදනම්ව බැංකු විසින් ගිණුම් විවිධ ආකාරයෙන් categorize කළ හැකිය.
+පාරිභෝගිකයාගේ අපේක්ෂිත මූල්‍ය කටයුතු මත පදනම්ව බැංකු විසින් ගිණුම් විවිධ ආකාරයෙන් වර්ගීකරණය කළ හැකිය.
+Paribhogikaya_ge apekshitha moolya katayuthu math padanamawa banku wisin ginum wiwidha akarayen wargikaranya kala hakkiya.
+Account holderගේ role එක සහ permission ඇති මට්ටම අනුව account access අවසරයන් වෙනස් විය හැකිය.
+ගිණුම් හිමියාගේ භූමිකාව සහ අවසරය ඇති මට්ටම අනුව ගිණුම් ප්‍රවේශ අවසරයන් වෙනස් විය හැකිය.
+Ginum himiya_ge bhoomikawa saha awasara athi mattama anuwa ginum pravesha awasaryan wenas wiya hakkiya.
+ඇතැම් බැංකු products සැලසුම් කර ඇත්තේ customersලා අතර දිගුකාලීන ඉතිරිකිරීමේ පුරුදු දිරිමත් කිරීම සඳහා ය.
+ඇතැම් බැංකු නිෂ්පාදන සැලසුම් කර ඇත්තේ පාරිභෝගිකයන් අතර දිගුකාලීන ඉතිරිකිරීමේ පුරුදු දිරිමත් කිරීම සඳහා ය.
+Atham banku nishpadana salasum kara atthe paribhogikayan athara digukaleena ithirikireeme purudu diriganweema sadaha ya.
+Customer service teams බොහෝ විට සේවාවන්ට අදාළ විමසීම් සහ ගිණුම් guidance සම්බන්ධයෙන් account holdersලට සහාය වෙති.
+පාරිභෝගික සේවා කණ්ඩායම් බොහෝ විට සේවාවන්ට අදාළ විමසීම් සහ ගිණුම් මාර්ගෝපදේශනය සම්බන්ධයෙන් ගිණුම් හිමියන්ට සහාය වෙති.
+Paribhogika sewa kandayam boho wita sewawanta athala wimasum saha ginum margopadeshanaya sambandhayen ginum himiyanta sahaya wethi.
+නැතිවූ cards හෝ අවදානමට ලක්වූ ගිණුම් login තොරතුරු හැසිරවීම සඳහා බැංකු සාමාන්‍යයෙන් operating procedures පවත්වාගෙන යයි.
+නැතිවූ කාඩ්පත් හෝ අවදානමට ලක්වූ ගිණුම් පිවිසුම් තොරතුරු හැසිරවීම සඳහා බැංකු සාමාන්‍යයෙන් මෙහෙයුම් ක්‍රියා පටිපාටි පවත්වාගෙන යයි.
+Nathiwu cardpath ho awadhanama lakwu ginum piwisum thorathuru hansareema sadaha banku samanyayen meheyum kriya patipadi pawathwagena yayi.
+සම්මත operations හෝ maintenance කාලසීමාවන්ගෙන් බැහැරව ඇතැම් බැංකු සේවාවන් ලබාගත නොහැකි විය හැකිය.
+සම්මත මෙහෙයුම් හෝ නඩත්තු කාලසීමාවන්ගෙන් බැහැරව ඇතැම් බැංකු සේවාවන් ලබාගත නොහැකි විය හැකිය.
+Sammatha meheyum ho nadatthu kalaseemawangen baharawa atham banku sewawan labagatha nohaki wiya hakkiya.
+Customersලට බැංකු සේවාවන් පිළිබඳව වඩා හොඳ අවබෝධයක් ලබා ගැනීමට උපකාර කිරීම සඳහා financial institutions බොහෝ විට අධ්‍යාපනික resources සපයයි.
+පාරිභෝගිකයන්ට බැංකු සේවාවන් පිළිබඳව වඩා හොඳ අවබෝධයක් ලබා ගැනීමට උපකාර කිරීම සඳහා මූල්‍ය ආයතන බොහෝ විට අධ්‍යාපනික සම්පත් සපයයි.
+Paribhogikayanta banku sewawan pilibandawa wada hoda awabodhayak laba ganeemata upakara kireema sadaha moolya ayathana boho wita adhyapanika sampath sapayayi.
+Digital banking platforms අඛණ්ඩව භාවිත කිරීමට ප්‍රථම, customersලා විසින් update කරන ලද terms and conditions පිළිගැනීම බැංකු විසින් බොහෝ විට අපේක්ෂා කරනු ලබයි.
+ඩිජිටල් බැංකු වේදිකාවන් අඛණ්ඩව භාවිත කිරීමට ප්‍රථම, පාරිභෝගිකයන් විසින් යාවත්කාලීන කරන ලද සේවා කොන්දේසි පිළිගැනීම බැංකු විසින් බොහෝ විට අපේක්ෂා කරනු ලබයි.
+Digital banku wedhikawan akhandawa bhawitha kireemata prathama, paribhogikayan wisin yawathkaleena karana lada sewa kondesi piliganeema banku wisin boho wita apeksha karanu labayi.
+ඇතැම් account types සැලසුම් කර ඇත්තේ දෛනික බැංකු කටයුතු වඩාත් efficientව සිදු කිරීමට සහාය වීම සඳහා ය.
+ඇතැම් ගිණුම් වර්ග සැලසුම් කර ඇත්තේ දෛනික බැංකු කටයුතු වඩාත් කාර්යක්ෂමව සිදු කිරීමට සහාය වීම සඳහා ය.
+Atham ginum warga salasum kara atthe dainika banku katayuthu wadaath karyakshamawo sidu kireemata sahaya weema sadaha ya.
+සේවා සුදුසුකම් සහ account preferences කළමනාකරණය කිරීම සඳහා financial institutions සාමාන්‍යයෙන් customer profiles පවත්වාගෙන යයි.
+සේවා සුදුසුකම් සහ ගිණුම් රුචිකත්වයන් කළමනාකරණය කිරීම සඳහා මූල්‍ය ආයතන සාමාන්‍යයෙන් පාරිභෝගික පැතිකඩ පවත්වාගෙන යයි.
+Sewa sudusukam saha ginum ruchikathwayan kalamanakaranya kireema sadaha moolya ayathana samanyayen paribhogika pathikada pawathwagena yayi.
+Security හේතූන් මත, සමහර බැංකු systems මඟින් usersලා inactiveව වැඩි වේලාවක් සිටින විට ස්වයංක්‍රීයවම session එකෙන් logout කරනු ලබයි.
+ආරක්ෂක හේතූන් මත, සමහර බැංකු පද්ධති මඟින් පරිශීලකයන් ක්‍රියාකාරී නොවී වැඩි වේලාවක් සිටින විට ස්වයංක්‍රීයවම පද්ධතියෙන් බැහැර කරනු ලබයි.
+Arakshaka hethoon math, samahara banku paddhathi magin parishilakayan kriyaakaree nowee wadi welawak sitina wita swayankreeyawama paddhathiyen bahara karanu labayi.
+Online සේවා හරහා වැදගත් account වෙනස්කම් සිදු කරන විට customersලා වෙත ඒ පිළිබඳ notifications ලැබිය හැකිය.
+අන්තර්ජාල සේවා හරහා වැදගත් ගිණුම්ගත වෙනස්කම් සිදු කරන විට පාරිභෝගිකයන් වෙත ඒ පිළිබඳ දැනුම්දීම් ලැබිය හැකිය.
+Antharjala sewa haraha wadagath ginumgatha wenaskam sidu karana wita paribhogikayan wetha e pilibanda danweem labiya hakkiya.
+Digital ක්‍රමයට සම්පූර්ණ කළ නොහැකි account maintenance requests සඳහා බැංකු branch එකක් මඟින් සහාය ලබාගත හැකිය.
+ඩිජිටල් ක්‍රමයට සම්පූර්ණ කළ නොහැකි ගිණුම් නඩත්තු ඉල්ලීම් සඳහා බැංකු ශාඛාවක් මඟින් සහාය ලබාගත හැකිය.
+Digital kramayata sampoorna kala nohaki ginum nadatthu illam sadaha banku shakhawak magin sahaya labagatha hakkiya.
+Operational reliability සහ compliance එක පවත්වා ගැනීම සඳහා financial institutions පොදුවේ නිත්‍ය system audits සිදු කරයි.
+මෙහෙයුම් විශ්වසනීයත්වය සහ අනුකූලතාවය පවත්වා ගැනීම සඳහා මූල්‍ය ආයතන පොදුවේ නිත්‍ය පද්ධති විගණනයන් සිදු කරයි.
+Meheyum wishwasaneeyathawa saha anukoolathawa pawathwa ganeema sadaha moolya ayathana poduwe nithya paddhathi wigandhanayan sidu karayi.
+Service updates පිළිබඳව දැනුවත් වීම සඳහා බැංකු notifications review කිරීමට account holders සාමාන්‍යයෙන් දිරිමත් කරනු ලැබේ.
+සේවා යාවත්කාලීන කිරීම් පිළිබඳව දැනුවත් වීම සඳහා බැංකු දැනුම්දීම් සමාලෝචනය කිරීමට ගිණුම් හිමියන් සාමාන්‍යයෙන් දිරිමත් කරනු ලැබේ.
+Sewa yawathkaleena kireem pilibandawa danuwath weema sadaha banku danweem samalochanya kireemata ginum himiyan samanyayen diriganwanu labe.
+සැකකටයුතු account behavior පිළිබඳව පරීක්ෂණ පවත්වන අතරතුර බැංකු විසින් ඇතැම් features තාවකාලිකව suspend කිරීමට ඉඩ ඇත.
+සැකකටයුතු ගිණුම් හැසිරීම් පිළිබඳව පරීක්ෂණ පවත්වන අතරතුර බැංකු විසින් ඇතැම් විශේෂාංග තාවකාලිකව අත්හිටුවීමට ඉඩ ඇත.
+Sakakathuyu ginum hasireem pilibandawa pareekshana pawathwana athara thura banku wisin atham wisheshanga thawakalikawa athhituweemata ida atha.
+ඉල්ලා සිටින බැංකු සේවාවේ සංවේදීතාවය අනුව customer identity verification ක්‍රමවේදයන් වෙනස් විය හැකිය.
+ඉල්ලා සිටින බැංකු සේවාවේ සංවේදීතාවය අනුව පාරිභෝගික අනන්‍යතාවය තහවුරු කිරීමේ ක්‍රමවේදයන් වෙනස් විය හැකිය.
+Illa sitina banku sewawa sanwedethawa anuwa paribhogika ananyathawaya thahuwuru kireeme kramawedhayan wenas wiya hakkiya.
+Customerගේ account history එක මත පදනම්ව සමහර බැංකු products සඳහා අතිරේක benefits ඇතුළත් වේ.
+පාරිභෝගිකයාගේ ගිණුම් සබඳතා ඉතිහාසය මත පදනම්ව සමහර බැංකු නිෂ්පාදන සඳහා අතිරේක ප්‍රතිලාභ ඇතුළත් වේ.
+Paribhogikaya_ge ginum sabandhatha ithihasaya math padanamawa samahara banku nishpadana sadaha athireka prathilabha athulath we.
+Financial institutions සාමාන්‍යයෙන් personal සහ business banking customersලා සඳහා වෙන වෙනම support services පවත්වාගෙන යයි.
+මූල්‍ය ආයතන සාමාන්‍යයෙන් පුද්ගලික සහ ව්‍යාපාරික බැංකු පාරිභෝගිකයන් සඳහා වෙන වෙනම සහාය සේවා පවත්වාගෙන යයි.
+Moolya ayathana samanyayen pudgalika saha wyaparika banku paribhogikayan sadaha wena wenama sahaya sewa pawathwagena yayi.
+ඇතැම් digital banking functions සඳහා access ලබා දීමට පෙර customersලා trusted devices register කිරීම අවශ්‍ය විය හැකිය.
+ඇතැම් ඩිජිටල් බැංකු කාර්යයන් සඳහා ප්‍රවේශය ලබා දීමට පෙර පාරිභෝගිකයන් විශ්වාසදායී උපාංග ලියාපදිංචි කිරීම අවශ්‍ය විය හැකිය.
+Atham digital banku karyayan sadaha praveshaya laba deemata pera paribhogikayan wishwasadayi upangaya liyapadinchi kireema awashya wiya hakkiya.
+අනාගත verification සහ regulatory requirementsවලට සහාය වීම සඳහා බැංකු පොදුවේ account records සුරක්ෂිතව document කරයි.
+අනාගත සත්‍යාපනයන් සහ නියාමන අවශ්‍යතාවලට සහාය වීම සඳහා බැංකු පොදුවේ ගිණුම් වාර්තා සුරක්ෂිතිතව ලේඛනාගත කරයි.
+Anagatha sathyaapanayan saha niyamana awashyathawala_ta sahaya weema sadaha banku poduwe ginum wartha surakshithawa lekhanagatha karayi.
+Restrict කරන ලද බැංකු access නැවත activate කිරීමට පෙර customer කෙනෙකුට identity verification procedures සම්පූර්ණ කිරීමට සිදු විය හැකිය.
+සීමා කරන ලද බැංකු ප්‍රවේශයන් නැවත සක්‍රිය කිරීමට පෙර පාරිභෝගිකයෙකුට අනන්‍යතාවය තහවුරු කිරීමේ ක්‍රියා පටිපාටි සම්පූර්ණ කිරීමට සිදු විය හැකිය.
+Seema karana lada banku praveshayan nawatha sakriya kireemata pera paribhogikaekuta ananyathawaya thahuwuru kireeme kriya patipadi sampoorna kireemata sidu wiya hakkiya.
+දිනෙන් දින වෙනස් වන security threatsවලට මුහුණ දීම සඳහා financial institutions බොහෝ විට fraud detection rules update කරයි.
+දිනෙන් දින වෙනස් වන ආරක්ෂක තර්ජනවලට මුහුණ දීම සඳහා මූල්‍ය ආයතන බොහෝ විට වංචා හඳුනාගැනීමේ නීති යාවත්කාලීන කරයි.
+Dinen dina wenas wana arakshaka tharjanawala_ta muhuna deema sadaha moolya ayathana boho wita wancha handunaganeeme neethi yawathkaleena karayi.
+Account statements මඟින් customersලට account behavior monitor කිරීමට සහ බලාපොරොත්තු නොවූ ගිණුම් කටයුතු හඳුනා ගැනීමට උපකාරී වේ.
+ගිණුම් ප්‍රකාශන මඟින් පාරිභෝගිකයන්ට ගිණුම් හැසිරීම් නිරීක්ෂණය කිරීමට සහ බලාපොරොත්තු නොවූ ගිණුම් කටයුතු හඳුනා ගැනීමට උපකාරී වේ.
+Ginum prakashana magin paribhogikayanta ginum hasireem nireekshanya kireemata saha balaporotthu nowu ginum katayuthu handuna ganeemata upakaree we.
+විවිධ වර්ගයේ account events සඳහා notification settings තමන්ට රිසි පරිදි customize කර ගැනීමට සමහර බැංකු customersලට ඉඩ සලසයි.
+විවිධ වර්ගයේ ගිණුම් සිදුවීම් සඳහා දැනුම්දීම් සැකසුම් තමන්ට රිසි පරිදි සකස් කර ගැනීමට සමහර බැංකු පාරිභෝගිකයන්ට ඉඩ සලසයි.
+Wiwidha warga_ye ginum siduweem sadaha danweem sakasum thamanta risi pari sakas kara ganeemata samahara banku paribhogikayanta ida salasayi.
+බැංකු systems සාමාන්‍යයෙන් සැලසුම් කර ඇත්තේ customer convenience සහ operational security controls සමබර වන අයුරිනි.
+බැංකු පද්ධති සාමාන්‍යයෙන් සැලසුම් කර ඇත්තේ පාරිභෝගික පහසුව සහ මෙහෙයුම් ආරක්ෂණ පාලනයන් සමබර වන අයුරිනි.
+Banku paddhathi samanyayen salasum kara atthe paribhogika pahasuwa saha meheyum arakshana palanayan samabara wana ayurini.
+Customersලට online banking සේවාවන් secureව භාවිත කිරීමට උපකාර කිරීම සඳහා financial institutions අධ්‍යාපනික guidelines ලබා දිය හැකිය.
+පාරිභෝගිකයන්ට අන්තර්ජාල බැංකු සේවාවන් ආරක්ෂිතව භාවිත කිරීමට උපකාර කිරීම සඳහා මූල්‍ය ආයතන අධ්‍යාපනික උපදෙස් ලබා දිය හැකිය.
+Paribhogikayanta antharjala banku sewawan arakshithawa bhawitha kireemata upakara kireema sadaha moolya ayathana adhyapanika upades laba diya hakkiya.
+බැංකු විසින් accounts activate කිරීමට පෙර customer identity verification සිදු කරනු ලබයි.
+බැංකු විසින් ගිණුම් සක්‍රිය කිරීමට පෙර පාරිභෝගික අනන්‍යතාවය සත්‍යාපනය කරනු ලබයි.
+Banku wisin ginum sakriya kireemata pera paarihogika ananyathawaya sathyaapanya karanu labai.
+Savings accounts සාමාන්‍යයෙන් නිත්‍ය cash depositsවලට සහාය දක්වයි.
+ඉතුරුම් ගිණුම් සාමාන්‍යයෙන් නිත්‍ය මුදල් තැන්පතුවලට සහාය දක්වයි.
+Ithurum ginum saamanyayen nithya mudal thenpathuwalata sahaaya dakwayi.
+Mobile banking සේවා මඟින් accounts වෙත ඉක්මනින් access වීමට ඉඩ සලසයි.
+ජංගම දුරකථන බැංකු සේවා මඟින් ගිණුම් වෙත ඉක්මනින් ප්‍රවේශ වීමට ඉඩ සලසයි.
+Jangama durakathana banku sewa mangin ginum wetha ikmanin prauesha weemata ida salasayi.
+සමහර accounts අන්තර්ජාලය හරහා account statements ලබාගැනීමේ සේවාවන් පිරිනමයි.
+සමහර ගිණුම් අන්තර්ජාලය හරහා ගිණුම් ප්‍රකාශන ලබාගැනීමේ සේවාවන් පිරිනමයි.
+Samahara ginum antharjaalaya haraha ginum prakaashana labagaaneeme sewawan pirinamayi.
+Debit cards බැංකු accounts සමඟ සම්බන්ධ කර ඇත.
+හර කාඩ්පත් බැංකු ගිණුම් සමඟ සම්බන්ධ කර ඇත.
+Hara kaadpath banku ginum samaga sambandha kara atha.
+බැංකු විසින් සැකකටයුතු accounts තාවකාලිකව suspend කිරීමට ඉඩ ඇත.
+බැංකු විසින් සැකකටයුතු ගිණුම් තාවකාලිකව අත්හිටුවීමට ඉඩ ඇත.
+Banku wisin sekakathyuthu ginum thaakalikawa athhituweemata ida atha.
+Customersලට secure portals හරහා passwords reset කරගත හැකිය.
+පාරිභෝගිකයන්ට ආරක්ෂිත ද්වාර හරහා මුරපද නැවත සැකසිය හැකිය.
+Paarihogikayanta aarakshitha dwaara haraha murapada newitha sekasiya hekiya.
+බැංකු විසින් service centers හරහා customer support ලබා දෙයි.
+බැංකු විසින් සේවා මධ්‍යස්ථාන හරහා පාරිභෝගික සහාය ලබා දෙයි.
+Banku wisin sewa madhyasthaana haraha paarihogika sahaaya laba deyi.
+Joint accounts මඟින් account holders කිහිප දෙනෙකුට සහාය දක්වයි.
+ඒකාබද්ධ ගිණුම් මඟින් ගිණුම් හිමියන් කිහිප දෙනෙකුට සහාය දක්වයි.
+Ekaabaddha ginum mangin ginum himiyan kipi denekuta sahaaya dakwayi.
+Financial institutions අසාමාන්‍ය account behavior monitor කරයි.
+මූල්‍ය ආයතන අසාමාන්‍ය ගිණුම් හැසිරීම් නිරීක්ෂණය කරයි.
+Moolya aayathana asaamanya ginum heserem nireekshanya karayi.
+ATM යන්ත්‍ර මඟින් මූලික බැංකු සේවාවන් සඳහා access ලබා දෙයි.
+ස්වයංක්‍රීය ටෙලර් යන්ත්‍ර මඟින් මූලික බැංකු සේවාවන් සඳහා ප්‍රවේශය ලබා දෙයි.
+Swayankriya teller yanthra mangin moolika banku sewawan sadaha praueshaya laba deyi.
+අවශ්‍යතාවය අනුව බැංකු විසින් replacement cards issue කරනු ලබයි.
+අවශ්‍යතාවය අනුව බැංකු විසින් ප්‍රතිස්ථාපන කාඩ්පත් නිකුත් කරනු ලබයි.
+Awashyathawaya anuwa banku wisin prathisthaapana kaadpath nikuuth karanu labai.
+Online banking සේවා සඳහා secure authentication ක්‍රමවේදයන් අවශ්‍ය වේ.
+අන්තර්ජාල බැංකු සේවා සඳහා ආරක්ෂිත අනන්‍යතාවය තහවුරු කිරීමේ ක්‍රමවේදයන් අවශ්‍ය වේ.
+Antharjaala banku sewa sadaha aarakshitha ananyathawaya thahawuru kireeme kramawedhayan awashya we.
+Inactive accounts සඳහා නැවත activate කිරීමේ procedures අවශ්‍ය විය හැකිය.
+අක්‍රිය ගිණුම් සඳහා නැවත සක්‍රිය කිරීමේ ක්‍රියා පටිපාටි අවශ්‍ය විය හැකිය.
+Akriya ginum sadaha newitha sakriya kireeme kriya patipaadi awashya wiya hekiya.
+සමහර සේවාවන් account verification status එක මත රඳා පවතී.
+සමහර සේවාවන් ගිණුම් සත්‍යාපන තත්ත්වය මත රඳා පවතී.
+Samahara sewawan ginum sathyaapana thaththwaya math rada pawathi.
+Customersලට තමන්ගේ communication details digital ක්‍රමයට update කළ හැකිය.
+පාරිභෝගිකයන්ට තමන්ගේ සන්නිවේදන තොරතුරු ඩිජිටල් ක්‍රමයට යාවත්කාලීන කළ හැකිය.
+Paarihogikayanta thaman ge sannivedhana thorathuru digital kramayata yaawathkaalina kala hekiya.
+බැංකු compliance requirements සඳහා වාර්තා පවත්වාගෙන යයි.
+බැංකු අනුකූලතා අවශ්‍යතා සඳහා වාර්තා පවත්වාගෙන යයි.
+Banku anukoolatha awashyathawan sadaha waartha pawathwagena yayi.
+ඇතැම් accounts මඟින් අතිරේක බැංකු privileges ලබා දෙයි.
+ඇතැම් ගිණුම් මඟින් අතිරේක බැංකු වරප්‍රසාද ලබා දෙයි.
+Etham ginum mangin athireka banku waraprasaadha laba deyi.
+Digital banking platforms සඳහා නිත්‍ය security updates ලැබෙයි.
+ඩිජිටල් බැංකු වේදිකාවන් සඳහා නිත්‍ය ආරක්ෂක යාවත්කාලීන කිරීම් ලැබෙයි.
+Digital banku wedhikaawan sadaha nithya aarakshaka yaawathkaalina kireem labei.
+Financial institutions විසින් customer support services සපයයි.
+මූල්‍ය ආයතන පාරිභෝගික සහාය සේවාවන් සපයයි.
+Moolya aayathana paarihogika sahaaya sewawan sapayayi.
+ඔබේ account balance එක බිංදුවට වඩා අඩු වූ විට overdraft protection process එක මඟින් ස්වයංක්‍රීයවම transactions check කර පියවනු ලබයි.
+ඔබේ ගිණුම් ශේෂය බිංදුවට වඩා අඩු වූ විට අයිරා ආරක්ෂණ ක්‍රියාවලිය මඟින් ස්වයංක්‍රීයවම ගනුදෙනු පියවනු ලබයි.
+Obe ginum sheshaya binduwata wada adu wu wita ayira aarakshana kriyaawaliya mangin swayankriyawama ganudenu piyawanu labai.
+Minimum daily balance එකක් පවත්වා ගැනීම මඟින් monthly maintenance fees නිදහස් කරවා ගත හැකිය.
+අවම දෛනික ශේෂයක් පවත්වා ගැනීම මඟින් මාසික නඩත්තු ගාස්තු නිදහස් කරවා ගත හැකිය.
+Awama dainika sheshayak pawathwa ganeema mangin maasika nadatthu gaasthu nidahas karawa gatha hekiya.
+සාමාන්‍යයෙන් mobile check deposits වලට වඩා direct deposits වේගයෙන් process වේ.
+සාමාන්‍යයෙන් ජංගම චෙක්පත් තැන්පතු වලට වඩා සෘජු තැන්පතු වේගයෙන් සැකසීමට ලක්වේ.
+Saamanyayen jangama checkpath thenpathu wala ta wada sruju thenpathu wegayen sekaseemata lakwe.
+Joint account holdersලා ගිණුම සඳහා සමාන access එකක් සහ responsibility එකක් බෙදා ගනියි.
+ඒකාබද්ධ ගිණුම් හිමියන් ගිණුම සඳහා සමාන ප්‍රවේශයක් සහ වගකීමක් බෙදා ගනියි.
+Ekaabaddha ginum himiyan ginuma sadaha samaana praueshayak saha wagakeemak bedaa ganiyi.
+ඔබේ බැංකු network එකෙන් බැහැරව සිදුකරන ATM cash withdrawals සඳහා සාමාන්‍යයෙන් අමතර charges අයවේ.
+ඔබේ බැංකු ජාලයෙන් බැහැරව සිදුකරන ස්වයංක්‍රීය ටෙලර් යන්ත්‍ර මුදල් ආපසු ගැනීම් සඳහා සාමාන්‍යයෙන් අමතර ගාස්තු අයවේ.
+Obe banku jaalayen beharawa sidukarana swayankriya teller yanthra mudal aapasu ganeem sadaha saamanyayen amathara gaasthu ayawe.
+Online bill payment සේවා මඟින් recurring payments ස්වයංක්‍රීයවම නියමිත කාලයට schedule කළ හැකිය.
+අන්තර්ජාල බිල්පත් ගෙවීමේ සේවා මඟින් වාරික ගෙවීම් ස්වයංක්‍රීයවම නියමිත කාලයට සැලසුම් කළ හැකිය.
+Antharjaala bilpath geweeme sewa mangin waarika geweem swayankriyawama niyamitha kaalayata selasum kala hekiya.
+Debit card transactions, කඩදාසි checks වලට වඩා වේගයෙන් ඔබේ account එකට බැර වේ.
+ඩෙබිට් කාඩ්පත් ගනුදෙනු, කඩදාසි චෙක්පත් වලට වඩා වේගයෙන් ඔබේ ගිණුමට බැර වේ.
+Debit kaadpath ganudenu, kadadaasi checkpath wala ta wada wegayen obe ginumata bera we.
+Savings accounts සාමාන්‍යයෙන් ඔබ තැන්පත් කළ මුදල් සඳහා interest එකක් උපයයි.
+ඉතුරුම් ගිණුම් සාමාන්‍යයෙන් ඔබ තැන්පත් කළ මුදල් සඳහා පොලියක් උපයයි.
+Ithurum ginum saamanyayen oba thenpath kala mudal sadaha poliyak upayayi.
+Wire transfers මඟින් හදිසි ගෙවීම් සඳහා එදිනම මුදල් ලබාදීම සිදුකරයි.
+විදුලි පණිවුඩ මුදල් හුවමාරු මඟින් හදිසි ගෙවීම් සඳහා එදිනම මුදල් ලබාදීම සිදුකරයි.
+Widuli paniwudu mudal huwamaru mangin hadisi geweem sadaha edinama mudal labadeema sidukarayi.
+Online banking systems හරහා account statements විද්‍යුත් ක්‍රමයට ලබාගත හැකිය.
+අන්තර්ජාල බැංකුකරණ පද්ධති හරහා ගිණුම් ප්‍රකාශන විද්‍යුත් ක්‍රමයට ලබාගත හැකිය.
+Antharjaala bankukarana paddhathi haraha ginum prakaashana widyuth kramayata labagatha hekiya.
+Stop payment requests මඟින් නිශ්චිත checks ඔබේ ගිණුමෙන් clear වීම වළක්වයි.
+ගෙවීම් නැවැත්වීමේ ඉල්ලීම් මඟින් නිශ්චිත චෙක්පත් ඔබේ ගිණුමෙන් නිෂ්කාශනය වීම වළක්වයි.
+Geweem newethweeme illeem mangin nishchitha checkpath obe ginumen nishkaashanaya weema walakwayi.
+Mobile banking apps මඟින් ඡායාරූපයක් ගැනීමෙන් checks deposit කිරීමට ඔබට අවස්ථාව ලැබේ.
+ජංගම බැංකුකරණ යෙදුම් මඟින් ඡායාරූපයක් ගැනීමෙන් චෙක්පත් තැන්පත් කිරීමට ඔබට අවස්ථාව ලැබේ.
+Jangama bankukarana yedum mangin chaayaaroopayak ganeemen checkpath thenpath kireemata obata awasthaawa lebei.
+Cashier's checks බැංකුව විසින් සහතික කරනු ලබන අතර ඒවා වහාම clear වේ.
+කැෂියර් චෙක්පත් බැංකුව විසින් සහතික කරනු ලබන අතර ඒවා වහාම නිෂ්කාශනය වේ.
+Cashier checkpath bankuwa wisin sahathika karanu labana athara ewa wahaama nishkaashanaya we.
+ඔබේ balance එක නිශ්චිත සීමාවකට වඩා අඩු වූ විට account alerts මඟින් ඒ පිළිබඳව ඔබව දැනුවත් කරයි.
+ඔබේ ශේෂය නිශ්චිත සීමාවකට වඩා අඩු වූ විට ගිණුම් දැනුම්දීම් මඟින් ඒ පිළිබඳව ඔබව දැනුවත් කරයි.
+Obe sheshaya nishchitha seemawakata wada adu wu wita ginum denuumdeem mangin e pilibadawa obawa denuwath karayi.
+Fixed deposit accounts මඟින් නිශ්චිත කාලසීමාවක් සඳහා ඔබේ මුදල් සුරක්ෂිතව රඳවා තබා ගනියි.
+ස්ථාවර තැන්පතු ගිණුම් මඟින් නිශ්චිත කාලසීමාවක් සඳහා ඔබේ මුදල් සුරක්ෂිතව රඳවා තබා ගනියි.
+Sthaawara thenpathu ginum mangin nishchitha kaalaseemawak sadaha obe mudal surakshithawa randawa thaba ganiyi.
+නොපියවූ චෙක්පතක් තැන්පත් කළ විට, returned check fees අදාළ වේ.
+නොපියවූ චෙක්පතක් තැන්පත් කළ විට, ආපසු හරවන ලද චෙක්පත් ගාස්තු අදාළ වේ.
+Nopiyawuu checkpathak thenpath kala wita, aapasu harawana lada checkpath gaasthu adaala we.
+දේශීය මුදල් හුවමාරු වලට වඩා international wire transfers process වීමට වැඩි කාලයක් ගතවේ.
+දේශීය මුදල් හුවමාරු වලට වඩා ජාත්‍යන්තර විදුලි පණිවුඩ මුදල් හුවමාරු සැකසීමට වැඩි කාලයක් ගතවේ.
+Desheeya mudal huwamaru wala ta wada jaathyanthara widuli paniwudu mudal huwamaru sekaseemata wedhi kaalayak gathhawe.
+Authorized signariesලාට account holder වෙනුවෙන් transactions සිදුකළ හැකිය.
+බලයලත් අත්සන්කරුවන්ට ගිණුම් හිමිකරු වෙනුවෙන් ගනුදෙනු සිදුකළ හැකිය.
+Balayalth athsankaruwanta ginum himikaru wenuwen ganudenu sidukala hekiya.
+Weekend deposits සාමාන්‍යයෙන් ඊළඟ business day එකේදී process වේ.
+සති අන්ත තැන්පතු සාමාන්‍යයෙන් ඊළඟ ව්‍යාපාරික දිනයේදී සැකසීමට ලක්වේ.
+Sathi antha thenpathu saamanyayen eelanga wyaapaarika dinayedhi sekaseemata lakwe.
+ATM වලට කළ නොහැකි සංකීර්ණ transactions, බැංකු branch officersලාට සිදුකළ හැකිය.
+ස්වයංක්‍රීය ටෙලර් යන්ත්‍ර වලට කළ නොහැකි සංකීර්ණ ගනුදෙනු බැංකු ශාඛා නිලධාරීන්ට සිදුකළ හැකිය.
+Swayankriya teller yanthra wala ta kala nohaki sankeerna ganudenu banku shaakhaa niladhareenta sidukala hekiya.

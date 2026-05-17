@@ -1,0 +1,500 @@
+Fixed Deposit එකක් කල් පිරීමට පෙර මුදල් ලබාගතහොත් Interest Rate එක අඩු විය හැක.
+ATM Card එකක PIN Number එක කිසිවිටෙකත් වෙනත් අයෙකු සමඟ Share කර නොගත යුතුය.
+Letter of Credit ජාත්‍යන්තර වෙළඳාමේදී ගනුදෙනුකරුවන්ගේ Trust එක තහවුරු කිරීමට බහුලව භාවිත වේ.
+Current Account එකක පවතින මුදල ඉක්මවා මුදල් ලබාගැනීමට Overdraft පහසුකම භාවිතා කළ හැකියි.
+සාමාන්‍යයෙන් Savings Account එකකට වඩා Fixed Deposit එකක් සඳහා බැංකුවලින් වැඩි Interest Rate එකක් ලබා දෙයි.
+බැංකුවකින් Loan එකක් ලබාගැනීමේදී අපගේ Credit History එක ඉතා වැදගත් සාධකයක් වේ.
+කිසියම් Cheque එකක් මාරු කළ හැක්කේ එහි සඳහන් කර ඇති දිනයේ සිට මාස හයක් යනතුරු පමණි.
+Online Banking හරහා ඕනෑම වේලාවක නිවසේ සිටම Bill Payments කිරීමේ හැකියාව පවතී.
+Minor Account එකක පාලනය දරුවාට වයස අවුරුදු 18 පිරුණු පසු සම්පූර්ණයෙන්ම ඔහු හෝ ඇය සතු වේ.
+Foreign Currency Account නඩත්තු කිරීමේදී Exchange Rates වල වෙනස්වීම් සෘජුවම බලපායි.
+ඔබගේ Bank Account Details හෝ OTP Code දුරකථන ඇමතුම් මඟින් ඉල්ලන කිසිවෙකුට ලබානොදෙන්න.
+Gold Loan යනු කෙටි කාලීන මූල්‍ය අවශ්‍යතා පියවා ගැනීමට රන් භාණ්ඩ ඇපයට තබා ලබාගන්නා ණය ක්‍රමයකි.
+සෑම Bank Branch එකකටම අනන්‍ය වූ Branch Code එකක් පවතින අතර එය International Transfers වලට අත්‍යවශ්‍ය වේ.
+Credit Card එකකින් ලබාගන්නා මුදල් Due Date එකට පෙර පියවීමෙන් අමතර පොලී අයවීම් වළක්වා ගත හැක.
+බැංකුවක තැන්පත් කරන මුදල් සඳහා Central Bank එක මඟින් යම් උපරිම සීමාවකට යටත්ව Deposit Insurance එකක් සපයයි.
+Joint Account එකක් ආරම්භ කිරීමේදී එය ක්‍රියාත්මක කරන්නේ ඕනෑම අයෙකුට ද නැතහොත් සියලු දෙනාගේම Signature එකෙන්ද යන්න තීරණය කළ යුතුය.
+Debit Card එකක් මඟින් ගනුදෙනු කිරීමේදී මුදල් කැපවන්නේ සෘජුවම ඔබගේ Savings හෝ Current Account එකෙනි.
+දීර්ඝ කාලයක් තිස්සේ කිසිදු Transaction එකක් සිදුනොකළ ගිණුම් Dormant Accounts ලෙස වර්ගීකරණය කෙරේ.
+Bank Loan Interest Rates, Fixed හෝ Variable ලෙස ක්‍රම දෙකකට පැවතිය හැකිය.
+Cheque එකක් Cross කිරීම මඟින් එම Cheque එකෙහි ආරක්ෂාව ඉහළ යන අතර එය Account එකකට පමණක් Deposit කළ යුතු වේ.
+Fixed Deposit එකක් Monthly Interest ලබාගන්නා පරිදි හෝ Maturity එකේදී පොලිය එකතු වන පරිදි ආරම්භ කළ හැක.
+බැංකුවකින් Housing Loan එකක් ලබාගැනීමේදී අදාළ දේපළෙහි ඔප්පු තිරප්පු බැංකුව වෙත ඇප වශයෙන් තැබිය යුතුය.
+Online සිදුකරන Card Transactions වඩාත් ආරක්ෂිත කිරීමට OTP Code තාක්ෂණය භාවිත වේ.
+ATM Machine එකකින් දිනකට ලබාගත හැකි උපරිම මුදල් ප්‍රමාණය බැංකුව සහ Card Type එක අනුව වෙනස් වේ.
+Cheque එකක පිටුපස අත්සන තැබීම මඟින් එම Cheque එකේ අයිතිය වෙනත් අයෙකුට පැවරීමේ හැකියාව පවතී.
+Credit Card එකක් මඟින් ATM Machine එකකින් මුදල් ලබාගැනීමේදී ඉහළ Service Charge එකක් සහ පොලියක් අය කෙරේ.
+සාමාන්‍යයෙන් Current Accounts සඳහා බැංකු මඟින් පොලියක් ගෙවනු නොලැබේ.
+බැංකු මඟින් නිකුත් කරන Monthly Bank Statements පරීක්ෂා කිරීමෙන් තමාගේ වියදම් රටාව මැනවින් කළමනාකරණය කරගත හැක.
+විදේශ රැකියාවල නියුතු ශ්‍රී ලාංකිකයන් සඳහාම වෙන්වූ විශේෂ බදු සහන සහිත Foreign Currency Accounts පවතී.
+Loan එකක් නියමිත දිනට පියවීමට අපොහොසත් වුවහොත් Late Payment Fees එකතු විය හැක.
+ඔබගේ Debit හෝ Credit Card එක අස්ථානගත වූ වහාම බැංකු Customer Care එක අමතා එය Block කළ යුතුය.
+ATM මඟින් Cash Withdrawals වලට අමතරව Account Balance එක පරීක්ෂා කිරීම සහ Cash Deposits ද සිදුකළ හැකියි.
+Grace Period එක තුළ Credit Card එකේ සම්පූර්ණ Due Amount එක ගෙවා නිම කරන්නේ නම් කිසිදු පොලියක් අය නොකෙරේ.
+Fixed Deposit Certificate එකක් ඇපයට තබා ඉතා පහසුවෙන් සහ අඩු Interest Rate එකකට Bank Loan එකක් ලබාගත හැක.
+Standing Orders මඟින් මාසික රක්ෂණ වාරික හෝ Bill Payments ගිණුමෙන් ස්වයංක්‍රීයවම කැපවීමට සැලැස්විය හැකිය.
+බැංකුවක Safe Deposit Box පහසුකම ලබාගැනීම වෙනුවෙන් වාර්ෂිකව ගාස්තුවක් ගෙවිය යුතුය.
+කිසියම් Account එකක Minimum Balance එක පවත්වා ගැනීමට අපොහොසත් වුවහොත් බැංකුව මඟින් Maintenance Fees අයකරනු ලබයි.
+Cheque එකක ලියා ඇති මුදල අංකයෙන් සහ අකුරෙන් එකිනෙකට වෙනස් නම්, බැංකුව විසින් එම Cheque එක Return කරනු ලැබේ.
+Central Bank එක විසින් රටේ උද්ධමනය පාලනය කිරීම සඳහා වරින් වර Policy Interest Rates සංශෝධනය කරනු ලබයි.
+Digital Banking Apps භාවිත කිරීමේදී Public Wi-Fi ජාල භාවිත කිරීමෙන් වැළකී සිටීම Account එකේ ආරක්ෂාවට හිතකර වේ.
+Fixed Deposit එකක් කල් පිරුණු පසු එය Automatically ම නැවත Renew වන පරිදි බැංකුවට උපදෙස් ලබා දිය හැක.
+බැංකු මඟින් නිකුත් කරන සියලුම Cheques වල වලංගු කාලය සාමාන්‍යයෙන් මාස හයකට පමණක් සීමා වේ.
+Letter of Credit එකක් මඟින් විදේශීය අපනයනකරුවෙකුට නියමිත වේලාවට මුදල් ලැබෙන බවට බැංකුව විසින් Guarantee එකක් ලබා දෙයි.
+Central Bank එකේ නියාමනයට ලක් නොවන මූල්‍ය ආයතනවල මුදල් තැන්පත් කිරීම ඉහළ Risk එකක් සහිත ක්‍රියාවකි.
+Credit Card එකක් සඳහා Annual Fee එකක් සහ Insurance Fee එකක් අය විය හැකිය.
+Joint Account එකක සිටින එක් පාර්ශවකරුවෙකු මියගියහොත් එම ගිණුමේ අයිතිය තීරණය වන්නේ ගිණුම ආරම්භ කිරීමේදී අත්සන් කළ Terms and Conditions මතය.
+Online Banking Password එක අවම වශයෙන් මාස කිහිපයකට වරක්වත් වෙනස් කිරීම Account එකේ ආරක්ෂාව තහවුරු කරයි.
+තැන්පතුකරුවෙකු මියගියහොත් ඔහුගේ ගිණුමේ ඇති මුදල් නීත්‍යානුකූලව ලබාදීම සඳහා ගිණුම ආරම්භයේදීම Nominee කෙනෙකු ඇතුළත් කළ යුතුය.
+Foreign Currency Savings Accounts වල පොලිය ගණනය කරනු ලබන්නේ අදාළ විදේශ මුදල් ඒකකයට අදාළ International Interest Rates පදනම් කරගෙනය.
+Credit Score එකේ ඔබේ ලකුණු ප්‍රමාණය ඉහළ අගයක පැවතීම Loan එකක් ඉක්මනින් Approve වීමට උපකාරී වේ.
+ව්‍යාපාරික කටයුතු සඳහා දිනපතා සිදුකරන අසීමිත Transactions පහසු කිරීම වෙනුවෙන් Current Accounts විශේෂයෙන්ම නිර්මාණය කර ඇත.
+Debit Card එකක් භාවිතයෙන් විදේශ රටකදී මුදල් ලබාගැනීමේදී Exchange Rate Conversion Fees එකතු වේ.
+Standing Order එකක් Cancel කිරීමට හෝ Amend කිරීමට අවශ්‍ය නම් ගනුදෙනුකරු විසින් බැංකුව වෙත ලිඛිතව දැනුම් දිය යුතුය.
+බැංකුවකින් Personal Loan එකක් ලබාගැනීමේදී ස්ථාවර මාසික ආදායමක් පවතින බව තහවුරු කිරීමට Payslips ඉදිරිපත් කළ යුතුය.
+සොරකම් කරන ලද හෝ ව්‍යාජ ලෙස සකස් කරන ලද Cheques මඟින් මුදල් ලබාගැනීමට උත්සාහ කිරීම බරපතල දඬුවම් ලැබිය හැකි වරදකි.
+Safe Deposit Box එකක තැන්පත් කර ඇති දේපළවල රහස්‍යභාවය සහ ආරක්ෂාව බැංකුව විසින් උපරිමයෙන්ම සුරකිනු ලබයි.
+Mobile Banking App හරහා ඕනෑම මොහොතක තමාගේ Account Balance එක නොමිලේම පරීක්ෂා කරගත හැක.
+Loan එකක් සඳහා අය කරන පොලිය Reducing Balance ක්‍රමයට ගණනය කරන්නේ නම් ගෙවිය යුතු මුළු පොලී ප්‍රමාණය අඩු වේ.
+ATM Card එකක් Machine එක තුළ සිරවූ වහාම අදාළ බැංකුවේ Hotline එක අමතා ඒ පිළිබඳව පැමිණිලි කළ යුතුය.
+පාරිභෝගිකයාගේ අනන්‍යතාවය තහවුරු කරගැනීම සඳහා Bank Account එකක් විවෘත කිරීමේදී KYC Process එක අනිවාර්යයෙන්ම සිදුකෙරේ.
+Bank Account එකක් ආරම්භ කිරීම සඳහා NIC එක හෝ වලංගු Passport එකක් ඉදිරිපත් කිරීම අනිවාර්ය වේ.
+සාමාන්‍යයෙන් බොහෝ Bank Branches සතියේ දිනවල උදෑසන නවයේ සිට පස්වරු තුන දක්වා පාරිභෝගිකයින් සඳහා විවෘතව පවතී.
+ATM Machine මගින් දවසේ පැය විසිහතර පුරාම තම Account එකෙන් Cash Withdrawals සිදු කිරීමේ පහසුකම සපයා ඇත.
+Savings Accounts වල පවත්වාගෙන යන Balance එක මත බැංකුව විසින් පාරිභෝගිකයාට නිශ්චිත Interest එකක් ගෙවනු ලබයි.
+Fixed Deposits සඳහා සාමාන්‍ය Savings Accounts වලට වඩා වැඩි Interest Rate එකක් හිමි වන නමුත් එය නිශ්චිත කාලයකට යටත් වේ.
+පාරිභෝගිකයින්ට Housing Loans, Vehicle Loans හෝ ව්‍යාපාර කටයුතු පුළුල් කිරීම සඳහා විවිධ Loan Facilities ලබා ගත හැක.
+Online Banking හරහා බැංකුවට නොගොස් නිවසේ සිටම Account Balance එක පරීක්ෂා කිරීමේ සහ Fund Transfers සිදු කිරීමේ හැකියාව ඇත.
+Credit Cards භාවිතා කර භාණ්ඩ හා සේවා මිලදී ගැනීමේදී එම මුදල පසුව ගෙවීමේ අවස්ථාව පාරිභෝගිකයාට හිමිවේ.
+මුදල් තැන්පත් කිරීමේදී සහ ලබා ගැනීමේදී එම Transactions නිවැරදිව සටහන් කර ගැනීම සඳහා Passbook එක Update කළ යුතුය.
+තම Bank Card එකේ PIN Number එක හෝ Passwords කිසිදු විටෙක වෙනත් පාර්ශවයක් සමඟ Share නොකිරීමට වග බලා ගත යුතුය.
+විශාල මුදල් ප්‍රමාණයක් හුවමාරු කිරීමේදී වඩාත් ආරක්ෂිත ක්‍රමයක් ලෙස Cheques භාවිතය ව්‍යාපාරිකයන් අතර ප්‍රචලිතව පවතී.
+පුද්ගලයින් දෙදෙනෙකුට හෝ කිහිප දෙනෙකුට එක්ව Joint Account එකක් ආරම්භ කර පවත්වාගෙන යාමේ හැකියාව පවතී.
+ශ්‍රී ලංකාවේ සියලුම Commercial Banks සහ Government බැංකු පාලනය වන්නේ Central Bank එකේ නීතිරීති වලට යටත් වය.
+හදිසි මූල්‍ය අවශ්‍යතා වලදී Gold Loan අඩු Interest Rate එකක් යටතේ ක්ෂණිකව මුදල් ලබා ගැනීමට බැංකු මගින් පහසුකම් සපයයි.
+Current Account හිමියන්ට තම ගිණුමේ ඇති මුදලට වඩා වැඩි මුදලක් ලබා ගැනීම සඳහා Overdraft පහසුකම් ලබා දෙයි.
+ගිණුමේ සිදුවන සෑම Deposit එකක්ම සහ Withdrawal එකක්ම SMS Alerts මගින් පාරිභෝගිකයාගේ ජංගම දුරකථනයට ක්ෂණිකව දැනුම් දෙනු ලැබේ.
+Foreign Currency Exchange කටයුතු සඳහා බලපත්‍රලාභී Bank Branch එකක් වෙත පිවිසීම නීත්‍යානුකූල මෙන්ම වඩාත් ආරක්ෂිත වේ.
+එකඟ වූ කාලය සම්පූර්ණ වීමට පෙර Fixed Deposit එකක් Cancel කළහොත් කලින් නියම කරගත් Interest එක අහිමි වීමට ඉඩ ඇත.
+ජල, විදුලි සහ දුරකථන වැනි එදිනෙදා Bill Payments සඳහා බැංකුවේ Counter එක හෝ බැංකුව මගින් හඳුන්වා දී ඇති Mobile App එක භාවිතා කළ හැකිය.
+Children's Savings Accounts වල ඇති මුදල් Withdraw කරගත හැක්කේ අදාළ දරුවාට වයස අවුරුදු දහඅට සම්පූර්ණ වූ පසුව පමණි.
+Account holders තම personal information හෝ address එක වෙනස් වූ විට වහාම ඒ බව bank එකට දැනුම් දී තම account records update කළ යුතුය.
+තම ATM card එක අස්ථානගත වූ විගසින්ම bank එකේ customer service එක අමතා එය cancel කිරීමට කටයුතු කිරීම අත්‍යවශ්‍ය වේ.
+යම් savings account එකක වසරකට වඩා වැඩි කාලයක් කිසිදු transaction එකක් සිදු කර නොමැති නම් bank එක විසින් එම account එක inactive තත්ත්වයට පත් කරනු ලබයි.
+මාසිකව ගෙවිය යුතු bills හෝ loan installments සඳහා standing orders ලබා දීමෙන් bank එක හරහා automatically අදාළ payments සිදු කිරීමේ හැකියාව ඇත.
+වෙනත් bank එකකට අයත් cheque එකක් තම account එකට deposit කළ විට අදාළ මුදල account එකට credit වීම සඳහා අවම වශයෙන් එක් working day එකක් හෝ ගත වේ.
+Personal loan එකක් ලබා ගැනීමේදී බොහෝ විට bank එක විසින් පිළිගත හැකි financial background එකක් ඇති guarantorsලා දෙදෙනෙකුගේ signature ලබා දීම mandatory කරනු ලබයි.
+වයස අවුරුදු හැටට වැඩි senior citizensලා සඳහා banks විසින් ඔවුන්ගේ fixed deposits මත සාමාන්‍ය rate එකට වඩා වැඩි විශේෂ interest rate එකක් පිරිනමනු ලැබේ.
+ස්වර්ණාභරණ හෝ වැදගත් deeds ආරක්ෂිතව තබා ගැනීම සඳහා customersලාට banks මඟින් locker facilities සලසා දී ඇත.
+Bank services පිළිබඳව ඇතිවන ගැටළු නිරාකරණය කර ගැනීම සඳහා දවසේ ඕනෑම වෙලාවක customer care number එක ඇමතීමට customersලාට පහසුකම් ඇත.
+වර්තමානයේ බොහෝ banks තම customersලාගේ monthly account statements මුද්‍රිත පිටපත් වෙනුවට email හරහා ආරක්ෂිතව ලබා දීමට කටයුතු කරයි.
+විශාල transactions වලදී cash රැගෙන යාමේ risk එක මඟහරවා ගැනීම පිණිස bank drafts භාවිතයෙන් payments සිදු කිරීමට බොහෝ company වැඩි කැමැත්තක් දක්වයි.
+Savings සහ fixed deposits මත ලැබෙන interest income එක යම් නිශ්චිත සීමාවක් ඉක්මවා ගිය විට එය රජයේ income tax අයකිරීම් වලට යටත් විය හැකිය.
+විදේශ රටවල සේවය කරන ශ්‍රී ලාංකිකයින්ට තම පවුලේ සාමාජිකයින්ගේ bank accounts වෙත direct මුදල් එවීම සඳහා banks මඟින් විධිමත් system සකසා ඇත.
+Child savings account holder කෙනෙකුට නියමිත වයස සම්පූර්ණ වූ පසු අදාළ account එක normal account එකක් බවට convert කිරීම සඳහා bank එකට application form එකක් ඉදිරිපත් කළ යුතුය.
+Higher education කටයුතු සඳහා university එකකට ඇතුළත් වන studentsලාට තම education expenses පියවා ගැනීම සඳහා සහනදායී interest rates යටතේ loan facilities ලබා ගත හැක.
+Joint account එකක් පවත්වාගෙන යන විට අදාළ account එකෙන් cash withdrawal සඳහා දෙදෙනාගේම signature එක හෝ එක් අයෙකුගේ පමණක් signature එක යෙදීම වැනි options තෝරාගත හැකිය.
+Customersලාගේ පහසුව උදෙසා bank branches හරහාම life සහ property insurance ලබා ගැනීමේ පහසුකම වර්තමානයේ බොහෝ banks මගින් ක්‍රියාත්මක කරනු ලබයි.
+තම bank account එක e-wallet එකක් සමඟ connect කිරීමෙන් physical cash භාවිතයෙන් තොරව ඕනෑම ස්ථානයක සිට instantly payments කළ හැක.
+Passbook එක නැතිවූ අවස්ථාවකදී ඒ සඳහා අලුත් book එකක් issue කිරීම වෙනුවෙන් bank එක විසින් customerගෙන් යම් නිශ්චිත fee එකක් අය කරනු ලබයි.
+Bank service එකක් සම්බන්ධයෙන් යම් අසාධාරණයක් සිදුවී ඇත්නම් ඒ පිළිබඳව financial ombudsman වෙත complain කර සාධාරණය ඉටු කරවා ගැනීමේ අයිතිය customer සතුය.
+Branch එක සතු ප්‍රධාන cash vault එකේ physical balance එක නියමිත limits වලට අනුකූලව දෛනිකව පවත්වා ගැනීම management එකේ මූලික වගකීමක් ලෙස සැලකේ.
+Customersලා විසින් cheque deposit box එකට දමනු ලබන cheques දිනපතා නියමිත වේලාවන්හිදී collect කර system එකට අදාළ තොරතුරු enter කෙරේ.
+Withdrawal forms වල ඇති signatures, system එකේ store කර ඇති customerගේ official signature එක සමඟ compare කර බැලීම cashiersලා විසින් සිදු කරනු ලබයි.
+වෙනත් රටකට මුදල් යැවීමේදී foreign exchange regulations වලට යටත්ව bank එක විසින් අදාළ documents complete කර head office එක වෙත forward කළ යුතුම වේ.
+Customer complaints සහ ගැටලු කඩිනමින් resolve කිරීම සඳහා branch එක තුළ customer service officer කෙනෙකු වෙනුවෙන්ම විශේෂ counter එකක් වෙන් කර ඇත.
+Damage වූ හෝ mutilated cash notes මාරු කිරීමේදී Central Bank of Sri Lanka විසින් issue කර ඇති guidelines staff එක විසින් දැඩිව follow කරනු ලැබේ.
+නව bank branch එකක් open කිරීමට පෙර එහි security camera system එක සහ alarms නිවැරදිව වැඩ කරන්නේදැයි check කර confirm කරගනී.
+දවසේ අවසාන transactions settle කිරීමෙන් පසුව, head office එක වෙත යැවිය යුතු daily balance reports system එක හරහා generate කිරීම අනිවාර්ය දෛනික කාර්යයකි.
+Customer කෙනෙකුට නව cheque book එකක් issue කරනු ලබන්නේ ඔවුන්ගේ පැරණි cheque book එකේ ඇති application form එක complete කර ලබා දීමෙන් පසුව පමණි.
+Child savings accounts වලට අදාළ gifts issue කිරීමේදී system එකේ සටහන් වී ඇති account balance එක සහ දරුවාගේ වයස පිළිබඳව විශේෂ attention එකක් යොමු කෙරේ.
+Bank එක විසින් අයකරනු ලබන service charges හෝ fine එකක් customer request එකක් මත waive කිරීමට අවශ්‍ය නම් ඒ සඳහා branch managerගේ විශේෂ approval එකක් ලබා ගත යුතුය.
+LankaClear system එක හරහා ලැබෙන interbank real-time fund transfers ක්ෂණිකව අදාළ accounts වෙත credit කිරීමට කටයුතු කර ඇත.
+Customerගේ request එක මත bank draft එකක් issue කිරීමේදී ඊට අදාළ මුදල සහ commission එක එම මොහොතේම account එකෙන් debit කිරීම සිදු කරයි.
+වාර්ෂික audit කටයුතු වලදී branch එකේ physical cash balance එක සහ system balance එක අතර කිසිදු difference එකක් නොමැති බව auditorsලා විසින් confirm කරනු ලබයි.
+Passbook එකක් නැතිවූ අවස්ථාවක නව passbook එකක් issue කිරීමට පෙර ඒ බව තහවුරු කරන affidavit එකක් ලබා ගැනීම සහ අදාළ fee එක අයකර ගැනීම සාමාන්‍ය procedure එකයි.
+Microfinance loan installments collect කිරීම සඳහා field officersලා විසින් mobile apps භාවිත කරමින් system එකට direct ගනුදෙනු update කරනු ලැබේ.
+Branch එකේ එදිනෙදා letters mailings ලේඛනගත කිරීම සහ ඒවා අදාළ departments වෙත කඩිනමින් forward කිරීම chief clerk විසින් භාරව කටයුතු කරයි.
+මියගිය customer කෙනෙකුගේ account එකක ඇති මුදල් නීත්‍යානුකූල heirsලාට ලබා දීම සඳහා succession certificate එකක් හෝ court order එකක් bank එකට submit කළ යුතු වේ.
+Online හරහා විශාල මුදලක් transfer කිරීමේදී customerගේ mobile phone එකට OTP එකක් යවා transaction එකේ security එක confirm කරගනී.
+Central Bank policies මත interest rates වෙනස් වන අවස්ථාවලදී system එකේ database එක automatically update වන අතර ඒ බව branch notice boards වල display කෙරේ.
+Customersලා විසින් සිදුකරනු ලබන ජල, විදුලි සහ phone bill payments system එක හරහා එදිනම අදාළ ආයතන වෙත forward කෙරේ.
+Account එකේ ප්‍රමාණවත් cash නොමැති වීම හේතුවෙන් return වන cheques පිළිබඳව customerට ලිඛිතව හෝ SMS එකක් මගින් notify කිරීම අනිවාර්ය වේ.
+Customer කෙනෙකුගේ address එක හෝ occupation එක වෙනස් වී ඇති විට, ඔවුන්ගේ identity information update කිරීම සඳහා අදාළ supporting documents ලබාගත යුතුය.
+Savings account එකක් close කිරීමට customer ඉල්ලුම් කළ විට, එහි පවතින balance එක සහ උපයා ඇති interest එක calculate කර final payment එක සිදු කරනු ලබයි.
+Monthly paper statements වෙනුවට email හරහා account statements ලබා ගැනීමට customersලාව encourage කිරීම customer service department එක මගින් සිදු කරයි.
+Branch එක තුළ customer traffic එක අඩු කිරීම සඳහා automated token system එකක් මගින් පිළිවෙළකට counters වෙත customersලාව direct කිරීම control කෙරේ.
+Issue කරන ලද cheque එකක් සඳහා stop payment order එකක් customer විසින් ලබා දුන් වහාම system එක තුළ එය mark කර අදාළ payment එක block කළ යුතුයි.
+දවසේ ආරම්භයේදී main vault එක භාර officersලා විසින් cashiersලා වෙත daily transactions සඳහා අවශ්‍ය float එක issue කරනු ලැබේ.
+Account එකේ සිදුවන සෑම credit සහ debit එකක් පිළිබඳවම ක්ෂණිකව දැනගැනීම සඳහා SMS alert service එකට register වීමට customersලාට පහසුකම් සලසා ඇත.
+Touristsලා විසින් ඉදිරිපත් කරන foreign currency notes මාරු කිරීමේදී ඒවායේ සත්‍යතාව check කිරීම සඳහා විශේෂ machines භාවිතා කිරීම cashiersලාගේ වගකීමකි.
+Customer කෙනෙකුගේ official signature එක කාලයත් සමඟ වෙනස් වී ඇත්නම්, නව signature එක system එකට update කිරීම සඳහා අදාළ forms පුරවා branch managerගේ approval එක ලබාගත යුතුය.
+Fixed deposits සඳහා monthly ලැබෙන interest එක customerගේ වෙනත් savings account එකකට automatically credit වන පරිදි system එක set කිරීම සිදු කළ හැක.
+Joint account එකක් open කිරීමේදී operate කිරීමේ බලය එක් අයෙකුට පමණක් ද නැතහොත් දෙදෙනාටම හිමිවන්නේද යන්න account opening form එකේ පැහැදිලිව සඳහන් කර තිබිය යුතුය.
+Customersලාගෙන් ලැබෙන damaged හෝ dirty cash notes නැවත circulation එකට නොයවා ඒවා වෙනමම වෙන්කර Central Bank එක වෙත යැවීමට කටයුතු කරනු ලබයි.
+Cash deposit සහ withdrawal slips මෙන්ම වෙනත් අත්‍යවශ්‍ය printed forms stock අවසන් වීමට පෙර head office එකෙන් order කිරීම සාමාන්‍ය operations කටයුත්තකි.
+Foreign remittances අදාළ accounts වෙත credit කිරීමට පෙර beneficiaryගේ නම සහ account number එක system එක සමඟ නිවැරදිව match වේදැයි check කෙරේ.
+දවසේ රාජකාරි නිම කිරීමට පෙර සෑම cashier කෙනෙකුම තමන් සතු physical cash ප්‍රමාණය system balance එකට හරියටම equal දැයි check කර බලා daily report එකක් submit කළ යුතුමය.
+Inactive account එකකට යම් මුදලක් deposit කිරීම මගින් පමණක් එය automatically activate නොවන අතර ඒ සඳහා අනිවාර්යයෙන්ම account holderගේ written instructions අවශ්‍ය වේ.
+Customer කෙනෙකු විසින් අතීත මාස කිහිපයක bank statements වල copies ඉල්ලා සිටින විට ඒ සඳහා නියමිත fee එකක් charge කර අදාළ statements print කර දීම සිදු කරනු ලැබේ.
+Business customersලා විසින් bank එක වැසීමෙන් පසු night safe deposit box එකට දමනු ලබන cash පසුදින උදෑසන officersලා දෙදෙනෙකුගේ supervision එක යටතේ count කර අදාළ accounts වලට credit කරනු ලබයි.
+Bank account එකක දීර්ඝ කාලයක් පුරාවට කිසිදු transaction එකක් සිදු නොකළ විට එය inactive account එකක් ලෙස වර්ගීකරණයට ලක් වේ.
+Loan එකක් ආපසු ගෙවීමේදී reducing balance එක මත interest එක calculate කිරීමේ ක්‍රමය customerට වඩාත් වාසිදායක වේ.
+ATM card එකක් නැති වූ වහාම bank එකට දැනුම් දී එය cancel කිරීමෙන් සිදුවිය හැකි financial frauds වළක්වා ගත හැකිය.
+දරුවන්ගේ අනාගතය සුරක්ෂිත කිරීම අරමුණු කරගනිමින් දෙමාපියන්ට ඔවුන්ගේ නමින් child savings accounts ආරම්භ කළ හැක.
+විදේශයක සිට එවන මුදල් නිවැරදිව හා කඩිනමින් ලබා ගැනීම සඳහා bank එකේ SWIFT code එක අත්‍යවශ්‍ය වේ.
+Bank transactions පිළිබඳව ක්ෂණිකව දැනුවත් වීම සඳහා SMS alert service එක activate කර ගැනීම ඉතා වැදගත් වේ.
+වාහන මිලදී ගැනීම සඳහා leasing facilities ලබා ගැනීමේදී අදාළ vehicle එක සම්පූර්ණයෙන් settle කරන තුරු bank එක යටතේ register කර තබා ගනී.
+Anti-money laundering නීති රීති වලට අනුකූලව customer information update කිරීම bank එකක අනිවාර්ය කාර්යයකි.
+Credit cards මගින් සිදුකරන purchases සඳහා interest-free grace period එකක් භුක්ති විඳීමේ වරප්‍රසාදය customersලාට ලැබේ.
+Online හරහා වෙනත් bank එකක account එකකට ක්ෂණිකව මුදල් transfer කිරීම සඳහා real-time fund transfer systems භාවිත කෙරේ.
+Housing loan එකක් ලබා දීමට පෙර අදාළ land එක හෝ property එක bank එක විසින් පිළිගත් valuer කෙනෙකු ලවා evaluation එකකට ලක් කරනු ලබයි.
+තම account එකේ daily cash withdrawal limit එක customerගේ අවශ්‍යතාවය අනුව වෙනස් කර ගැනීමේ හැකියාව පවතී.
+රජයේ tax නීති වලට යටත්ව, savings මගින් උපයන interest income එකෙන් නිශ්චිත percentage එකක් withholding tax එකක් ලෙස කපා හැරීමට bank එකට සිදුවේ.
+Joint account එකක කොන්දේසි අනුව එක් අයෙකුට පමණක් හෝ දෙදෙනාගේම signature එකෙන් යුතුව transactions කිරීමේ අයිතිය තීරණය කළ හැකිය.
+Education loan facilities බොහෝ විට studentsලාගේ course fees ගෙවීම සඳහා direct අදාළ educational institute එක වෙත issue කෙරේ.
+සාමාන්‍ය cash deposit එකක් වෙනුවට cheque එකක් account එකට credit කිරීමේදී එය clear වී මුදල් බවට පත්වීමට යම් දින ගණනක් ගත විය හැක.
+Senior citizensලා සඳහා පවත්වාගෙන යන විශේෂ savings accounts වලට සාමාන්‍ය accounts වලට වඩා ඉහළ interest rate එකක් හිමි වේ.
+Bank frauds අවම කිරීම සඳහා customersලා තම online banking passwords සහ PIN numbers වරින් වර change කිරීම අනුමත කරනු ලැබේ.
+හදිසි අනතුරකදී හෝ රෝහල්ගත වීමකදී benefits ලබාගත හැකි වන පරිදි සමහර bank accounts සඳහා නොමිලේ insurance cover එකක් ලබා දේ.
+International credit හෝ debit cards භාවිතා කරමින් foreign countries වලදී පවා පහසුවෙන් cash withdraw කිරීමේ පහසුකම customersලාට හිමිවේ.
+Account එකක් open කිරීමට පෙර ඔබේ identity එක verify කිරීම නීතියෙන් බැංකුවලට mandatory කර ඇත.
+Savings account සඳහා ලැබෙන interest rate සාමාන්‍යයෙන් inflation rate වලට වඩා අඩුය.
+බොහෝ debit card transactions පැය 24 ත් 48 ත් අතර කාලයක් තුළ process වේ.
+ඔබට එකම කාලයකදී විවිධ මූල්‍ය ආයතනවල බැංකු accounts කිහිපයක් පවත්වාගෙන යා හැකිය.
+Working hours වලින් පසුව සිදු කරන ATM cash withdrawals සාමාන්‍යයෙන් ඊළඟ working day එකේදී account එකට credit වේ.
+Credit card සමාගම් interest ගණනය කරනු ලබන්නේ මාසිකව නොව daily basis එකටයි.
+පවත්වා ගත යුතු minimum balance requirement එක බැංකුවෙන් බැංකුවට සහ account type එකෙන් account type එකට වෙනස් වේ.
+Direct deposits සාමාන්‍යයෙන් කඩදාසි cheque deposits වලට වඩා වේගයෙන් clear වේ.
+Loan සුදුසුකම් සහ interest rate තීරණය කිරීම සඳහා බැංකු ඔබේ credit score භාවිතා කරයි.
+ඔබේ account එකේ ඇති මුදලට වඩා වැඩි මුදලක් වියදම් කළ විට overdraft fees අය කෙරේ.
+Electronic money transfer process එක අවසන් කර confirm කළ පසු ඒවා නැවත cancel කළ නොහැක.
+මුදල් deposit කළේ කවුරුන් වුවද, joint account හිමියන්ට එහි ඇති සියලුම මුදල් සඳහා සමාන access අයිතියක් ඇත.
+Bank holidays දිනවල බැංකු වසා තබන අතර, transactions ඊළඟ working day එක තෙක් process නොවේ.
+ඔබේ account type එක අනුව mobile cheque deposits සඳහා daily හෝ monthly limits තිබිය හැකිය.
+Savings accounts මගින් බොහෝ විට මසකට කළ හැකි withdrawals ගණන limit කරනු ලබයි.
+Cheque එකක් සඳහා ලබාදෙන stop payment order එකක් සාමාන්‍යයෙන් මාස හයකට පසු වලංගු නොවේ.
+ඩොලර් 10,000 කට වඩා වැඩි cash deposits පිළිබඳව බැංකු විසින් federal authorities වෙත report කළ යුතුය.
+එකම බැංකුවක වුවද ඔබේ current account number එක සහ savings account number එක එකිනෙකට වෙනස් වේ.
+දිගු කලක් තිස්සේ කිසිදු transaction එකක් සිදු නොකළ dormant accounts සඳහා maintenance fees අය විය හැකිය.
+ACH හරහා සිදුවන electronic fund transfers සඳහා සාමාන්‍යයෙන් working days එකක් හෝ තුනක් ගත වේ.
+Bank statements සාමාන්‍යයෙන් ඔබේ account එක සඳහා සෑම මාසයකම එකම දිනයකදී සකස් කරනු ලබයි.
+Bank drafts බැංකුව විසින් සහතික කරනු ලබන බැවින් ඒවා personal cheques වලට වඩා ආරක්ෂිත යැයි සැලකේ.
+වෙනත් අයෙකුගේ නමට ලියා ඇති cheque එකක්, ඔවුන්ගේ අත්සනින් endorse කිරීමකින් තොරව ඔබට deposit කළ නොහැක.
+ඔබේ account එකේ සිදුවන unauthorized transactions ආවරණය වන පරිදි බොහෝ බැංකු මගින් fraud protection සේවා සපයයි.
+Voided cheque එකක් භාවිතා කරනු ලබන්නේ direct deposits සහ automatic payments set up කිරීම සඳහා මිස මිලදී ගැනීම් සිදු කිරීම සඳහා නොවේ.
+International wire transfers සම්පූර්ණ වීම සඳහා working days පහක් දක්වා කාලයක් ගත විය හැකිය.
+Loans සහ deposits සඳහා බැංකු විසින් compound interest ගණනය කරනු ලබන්නේ simple interest ගණනය කරන ක්‍රමයට වඩා වෙනස් ආකාරයකටය.
+Routing number එක මගින් ඔබේ බැංකුව හඳුනා ගන්නා අතර, account number එක මගින් ඔබේ නිශ්චිත account එක හඳුනා ගනී.
+Post-dated cheques, ඒවායේ සඳහන් කර ඇති දිනයට පෙර cash කිරීමට නීත්‍යානුකූලව හැකියාව ඇත.
+Fixed deposits නියමිත කාලයට පෙර withdraw කිරීමේදී අය කරන penalty එක සාමාන්‍යයෙන් මාස කිහිපයක interest එකට සමාන වේ.
+සැකකටයුතු හෝ අසාමාන්‍ය ක්‍රියාකාරකම් හඳුනාගතහොත් බැංකු විසින් accounts තාවකාලිකව freeze කරනු ලබයි.
+Garnishment order එකක් මගින් creditors ලාට ඔබේ bank account එකෙන් සෘජුවම මුදල් ලබා ගැනීමට අවසර ලැබේ.
+FDIC ආයතනය විසින් එක් depositor කෙනෙකු සඳහා එක් මූල්‍ය ආයතනයක ඇති බැංකු deposits ඩොලර් 250,000 ක් දක්වා insure කරයි.
+ජාත්‍යන්තර භාවිතය සඳහා travelers cheques වෙනුවට දැන් බොහෝ දුරට debit සහ credit cards භාවිත කෙරේ.
+නෝට්ටුවකින් අඩකට වඩා වැඩි ප්‍රමාණයක් හොඳින් ඉතිරිව තිබේ නම්, හානි වූ notes භාර ගැනීම reject කිරීමට බැංකුවලට නොහැක.
+ඔබේ account balance එක ප්‍රමාණවත් නොවුණද automatic bill payments දිගටම සිදුවේ.
+Certified cheque එකක් මගින් ගෙවීම් සඳහා ප්‍රමාණවත් funds ඇති බවට සහ ඒවා වෙන්කර තබා ඇති බවට සහතික කෙරේ.
+ඔබට යහපත් account history එකක් තිබුණද, විශාල වටිනාකමකින් යුත් cheque deposits සඳහා බැංකු විසින් තාවකාලික holds පැනවිය හැකිය.
+Negative balance එකක් සහිත bank account එකක් වසා දැමීම, වෙනත් ස්ථානවල accounts open කිරීමට ඇති ඔබේ හැකියාවට බලපෑම් කළ හැකිය.
+Cheque එකක් පිටුපස for deposit only ලෙස සටහන් කිරීමෙන් වෙනත් කිසිවෙකුට එය cash කර ගැනීම වැළැක්විය හැකිය.
+Savings account සඳහා ලැබෙන interest rate සාමාන්‍යයෙන් fixed deposits සඳහා ලැබෙන interest rate වලට වඩා අඩුය.
+ඔබේ account balance එක අවශ්‍ය minimum balance එකට වඩා අඩු වුවහොත් බොහෝ බැංකු ඒ සඳහා fee එකක් අය කරයි.
+වෙනත් බැංකුවල ATM යන්ත්‍රවලින් cash withdraw කිරීමේදී සාමාන්‍යයෙන් අමතර charges අය වේ.
+Due date එකට පසුව සිදුකරන credit card payments සඳහා late fees අය කෙරේ.
+අලුතින් bank account එකක් open කිරීමට ඔබ වලංගු ID documents ඉදිරිපත් කළ යුතුය.
+Overdraft protection සේවාව මගින් ඔබේ account එකේ පවතින මුදලට වඩා වැඩි මුදලක් ලබා ගැනීමට ඔබට අවස්ථාව ලැබෙයි.
+ඉහළ ආරක්ෂාවක් සඳහා mobile banking apps වෙත පිවිසීමේදී two-factor authentication අවශ්‍ය වේ.
+Cheques clear වීම සඳහා සාමාන්‍යයෙන් working days තුනක් හෝ පහක් ගත වේ.
+ඇතැම් transactions සඳහා joint account හිමියන් සියලු දෙනාගේම අත්සන් අවශ්‍ය වේ.
+Bank holidays දිනවල බැංකු වසා තබන අතර, එම දිනවල transactions ක්‍රියාත්මක නොවේ.
+ශාඛාවකට ගොස් cheque එකක් deposit කිරීමට වඩා direct deposit ක්‍රමය වේගවත් වේ.
+Market conditions මත පදනම්ව foreign exchange rates දවස පුරා වෙනස් වේ.
+බැංකුවල ඇති safety deposit boxes සඳහා annual rental fees ගෙවිය යුතුය.
+Loan approval එක ලැබීම ඔබේ credit score සහ ණය පියවීමේ හැකියාව මත රඳා පවතී.
+Electronic fund transfers සාමාන්‍ය bank transfers වලට වඩා වේගවත් වන නමුත් ඒ සඳහා වැඩි cost එකක් වැය වේ.
+නිශ්චිත කාලයක් තිස්සේ කිසිදු transaction එකක් සිදු නොකළහොත් dormant accounts freeze කිරීමට ඉඩ ඇත.
+විශාල cash transactions පිළිබඳව බැංකු විසින් regulatory authorities වෙත report කළ යුතුය.
+Cheque එකක් cash කිරීමට පෙර එහි payment එක stop කිරීමට ඔබට හැකියාව ඇත.
+මාසික bank statements අන්තර්ජාලය හරහා නොමිලේ ලබාගත හැකි වුවද, ඒවායේ printed copies සඳහා අමතර charges වැය විය හැකිය.
+ඔබ මියගියහොත් ඔබේ account එකේ ඇති funds එහි නම් කර ඇති beneficiaries ලාට හිමි වේ.
+Debit card transactions සඳහා වැය වන මුදල් ඔබේ account balance එකෙන් ක්ෂණිකවම අඩු කරනු ලැබේ.
+අලුත් savings account එකක් activate කිරීම සඳහා බැංකු විසින් minimum deposit එකක් අවශ්‍ය කරනු ලබයි.
+Pre-approved loans සාමාන්‍ය loan applications වලට වඩා වේගයෙන් process කළ හැකිය.
+ඉරුණු හෝ හානි වූ මුදල් නෝට්ටු ATM යන්ත්‍ර හරහා deposit කිරීමට ඔබට නොහැක.
+Standing orders මගින් කිසිදු manual මැදිහත්වීමකින් තොරව, නියමිත දිනවලදී ස්වයංක්‍රීයවම funds transfer වේ.
+බොහෝ බැංකු මගින් මසකට කළ හැකි නොමිලේ ATM transactions සංඛ්‍යාව limit කරනු ලබයි.
+Credit cards සඳහා grace period එකක් හිමි වන අතර, එම කාලය තුළ මිලදී ගැනීම් සඳහා කිසිදු interest එකක් අය නොකෙරේ.
+Bank statements නිල ලේඛන කටයුතු සඳහා වලංගු proof of address එකක් ලෙස භාවිත කළ හැකිය.
+Minors ලාට මවුපියන් හෝ භාරකරුවෙකු joint owner කෙනෙකු ලෙස නොමැතිව bank accounts open කළ නොහැක.
+Security හේතූන් මත online banking password කලින් කලට වෙනස් කළ යුතුය.
+Bank drafts බැංකුව විසින් සහතික කරනු ලබන බැවින්, personal cheques මෙන් ඒවා bounce විය නොහැක.
+Foreign currency accounts මගින් exchange rate වල සිදුවන උච්චාවචනයන්ගෙන් ඔබට ආරක්ෂාව සැලසේ.
+Fraudulent activities සිදුවන බවට සැක කෙරෙන accounts, ඒවායේ investigation කටයුතු අවසන් වන තෙක් බැංකු විසින් තාවකාලිකව freeze කරනු ලබයි.
+ඔබේ agreement එකේ කොන්දේසි මත පදනම්ව, loan මුදලක් නියමිත කාලයට පෙර පියවීමේදී early repayment penalty අය විය හැකිය.
+ඔබ විසින් අදාළ අවසරය manually cancel කරන තෙක් automatic bill payments දිගටම සිදුවේ.
+බැංකු විසින් තමන් සතු deposits වලින් යම් ප්‍රතිශතයක් cash reserves ලෙස පවත්වාගෙන යාම mandatory වේ.
+Fixed deposits මගින් ඉහළ interest එකක් වෙනුවෙන් ඔබේ මුදල් නිශ්චිත කාලසීමාවකට රඳවා තබා ගනී.
+ඔබේ අනුමැතියකින් තොරව සිදු වූ unauthorized transactions පිළිබඳව සීමිත කාලසීමාවක් තුළ පැමිණිලි කිරීමට ඔබට හැකියාව ඇත.
+ඔබේ account එකේ නම් කර ඇති nominees ලාගේ තොරතුරු මගින්, දේපළ අයිතිය ඔවුන් වෙත පැවරීම වඩාත් සුමටව සිදු කිරීමට සහතික වේ.
+බැංකු විසින් savings accounts සඳහා interest ගණනය කරනු ලබන්නේ daily balance එක හෝ monthly average balance එක පදනම් කරගනිමිනි.
+Personal Loan එකක් සඳහා ඔබ Apply කරන විට, මූල්‍යමය අපහසුතාවයකින් තොරව ඔබට මාසික වාරික ගෙවීමට හැකිදැයි තීරණය කිරීම සඳහා බැංකුව විසින් ඔබේ Debt-to-Income Ratio එක Evaluate කරනු ඇත.
+ඔබේ Debit Card එක නැති වුවහොත් හෝ එය සොරකම් කරනු ලැබුවහොත්, Card එක Block කිරීමට සහ අනවසර Transactions වැලැක්වීමට ඔබ වහාම එය බැංකුවට Report කළ යුතුය.
+වයස අවුරුදු හැටට වැඩි Customersලාට Benefit එකක් ලෙස බැංකු විසින් Senior Citizen Savings Accounts සඳහා ඉහළ Interest Rates ලබා දෙයි.
+ACH Transfers මඟින් Businessesවලට නියමිත පදනමක් මත සේවකයින්ගේ Bank Accounts වෙත සෘජුවම Salaries Deposit කිරීමට ඉඩ සලසයි.
+ඔබ Check එකක් ලියන විට, Processing Errors හෝ Bounce වීම් මඟහරවා ගැනීම සඳහා අකුරින් ලියා ඇති Amount එක ඉලක්කම්වලින් ලියා ඇති Amount එකට Match වන බව තහවුරු කර ගත යුතුය.
+Credit Card Reward Points ඔබ කරන සෑම Purchase එකක් සමඟම එකතු වන අතර, එම Program එක මත පදනම්ව Cashbacks, Vouchers හෝ Air Miles සඳහා ඒවා Redeem කර ගත හැක.
+ඔබට ඔබේ Bank Account එක Close කිරීමට අවශ්‍ය නම්, ඔබ මුලින්ම ගෙවීමට ඇති සියලුම Balance පියවිය යුතුය, භාවිත නොකළ Check Books ආපසු භාර දිය යුතුය, සහ ඉතිරි Balance එක Withdraw කරගත යුතුය.
+බැංකු Online සහ Mobile Banking Transactions අතරතුර ඔබේ Personal Information Protect කිරීම සඳහා Encryption Technology සහ Secure Communication Layers භාවිතා කරයි.
+Housing Loan එකක් සඳහා සාමාන්‍යයෙන් බැංකුව ඉතිරි මුදල Finance කිරීමට පෙර, Property එකෙහි Value එකෙන් අවම වශයෙන් සියයට දහයක සිට විස්සක් දක්වා Down Payment එකක් කිරීම ඔබෙන් අපේක්ෂා කෙරේ.
+Post-dated Checks, ඒවායේ ලියා ඇති Date එකට පෙර Present කළහොත් බැංකුව විසින් භාර නොගන්නා අතර, එමඟින් ඔබව නොමේරූ Withdrawalsවලින් Protect කරයි.
+බැංකු විසින් Credit Cards සඳහා Annual Maintenance Fees අය කරන නමුත්, ඔබ වසර තුළ යම් නිශ්චිත Spending Limits සපුරාලන්නේ නම් මෙම Fees Waive කරනු ලැබිය හැකිය.
+Internationally Travel කරන විට, Suspicious Activities පිළිබඳ Alerts හේතුවෙන් ඔබේ Card එක Block වීම වැළැක්වීම සඳහා ඔබ කල්තියා ඔබේ බැංකුව Inform කළ යුතුය.
+Zero Balance Accounts මඟින් Customersලාට Minimum Balance Requirements පිළිබඳව කරදර නොවී Bank Account එකක් Maintain කරගෙන යාමට ඉඩ සලසයි, එමඟින් Banking සැමට Accessible එකක් බවට පත් කරයි.
+බැංකු විසින් ඔබේ Credit Card Payment History එක CRIB වෙත Report කරන අතර, එය ඔබේ Credit Score එකට සහ අනාගතයේදී Loans ලබා ගැනීමේ හැකියාවට සෘජුවම බලපායි.
+ප්‍රමාණවත් Funds නොමැතිකම හේතුවෙන් Check එකක් Return වුවහොත්, Check එක Issue කරන්නාට සහ එය Receive කරන්නාට ඔවුන්ගේ අදාළ බැංකු මඟින් Fine Charges අය කරනු ලැබිය හැකිය.
+Auto-sweep Fixed Deposits මඟින් ඔබේ Savings Account එකේ ඇති අතිරික්ත Funds, Liquidity එක පවත්වා ගනිමින් ඉහළ Interest එකක් Earn කිරීම සඳහා ස්වයංක්‍රීයව Fixed Deposit එකක් වෙත Transfer කරනු ලබයි.
+බැංකු විසින් Checksවල ඇති Signature එක System එකේ ඇති Signature Format එක සමඟ Compare කර බලන අතර, කිසියම් Mismatch එකක් සිදුවුවහොත් Check එක Return වීමට හේතු වේ.
+ඔබ Loan එකක් ගන්නා විට, EMI එකට Principal Loan Amount එක පියවීම සහ Reducing Balance Methods උපයෝගී කරගනිමින් Calculate කරන ලද Interest Component එක යන දෙකම ඇතුළත් වේ.
+ATM Cards සඳහා වන PIN Number කිසිවිටෙක බැංකු සේවකයින් ඇතුළු කිසිවෙකු සමඟ Share නොකළ යුතුය, මන්ද බැංකු කිසිවිටෙකත් මෙම Information ඉල්ලා නොසිටින බැවිනි.
+ඔබට ඔබේ Employerගෙන් Salary Account එකක් ලැබෙන්නේ නම්, බැංකුව විසින් Zero Balance Requirements සහ නොමිලේ Check Books වැනි Additional Benefits ලබා දිය හැකිය.
+ඔබ Recurring Deposit Account එකක් ආරම්භ කරන විට, පූර්ව නිශ්චිත කාලසීමාවක් සඳහා සෑම මසකම ස්ථාවර මුදලක් තැන්පත් කිරීමට ඔබ බැඳෙන අතර, බැංකුව විසින් Maturity එකේදී එකතු වූ Interest එක ඔබට ගෙවනු ලබයි.
+KYC Regulationsවලට අනුව ඔබේ Identity එක තහවුරු කිරීමට බැංකුවලට නීතිමය වශයෙන් අවශ්‍ය වේ, එයින් අදහස් කරන්නේ Account opening process එකේදී ඔබ Identity සහ Address එක Prove කරන Documents ඉදිරිපත් කළ යුතු බවයි.
+ඔබට එකම බැංකුවකින් ලබාගත් Loans කිහිපයක් තිබේ නම්, අලුත් Loans සමඟ සසඳන විට සාපේක්ෂව අඩු Interest Rates යටතේ අමතර ප්‍රතිපාදන සපයන Top-up Loan එකක් ලබා ගැනීමට ඔබ සුදුසුකම් ලැබිය හැකිය.
+Credit Card Balance Transfers මඟින් ගෙවීමට ඇති Outstanding Amount එකක් අඩු Interest Rates ලබා දෙන වෙනත් Card එකකට Transfer කිරීමට ඔබට ඉඩ සලසයි, එමඟින් කාලයත් සමඟ Interest Charges සඳහා යන මුදල් ඉතිරි කර ගැනීමට ඔබට උපකාරී වේ.
+බැංකු සාමාන්‍යයෙන් විදේශයන්ගෙන් ලැබෙන Remittances දින එකක් හෝ තුනක් ඇතුළත Process කරනු ලබයි, නමුත් ඒ සඳහා ගතවන නිශ්චිත කාලය මුදල් එවනු ලබන රට, Intermediate Banks සහ Currency Conversion අවශ්‍යතා මත රඳා පවතී.
+Loan එකක් සඳහා Collateral එකක් ලෙස ඔබ Fixed Deposits ඇපයට තබන විට, ඇපයට තැබූ මුදල සඳහා තවදුරටත් Interest Earn කරන අතරතුරම, Deposit Value එකෙන් සියයට අනූවක් දක්වා Borrow කිරීමට ඔබට හැකියාව ඇත.
+බැංකුවේ Cut-off Time එකට පෙර අවසන් කරන ලද EFT Transactions එදිනම Process කරනු ලබන අතර, එම වේලාවෙන් පසුව ආරම්භ කරන ලද Transactions ඊළඟ Working Day එකේදී Process කරනු ලැබේ.
+ඔබේ Card එක සොරකම් කරනු ලැබුවහොත් හෝ Fraudstersලා අතට පත් වුවහොත් සිදුවන පාඩුව අවම කිරීම සඳහා බැංකු විසින් ATM Cash Withdrawals සහ POS Purchases සඳහා Transaction Limits පනවනු ලබයි.
+ඔබ යහපත් Credit History එකක් පවත්වා ගනිමින් නියමිත වේලාවට වාරික ගෙවන්නේ නම්, අලුතින් Application Process එකක් අවශ්‍ය නොවී, Credit Card Limits වැඩි කිරීම සඳහා බැංකු විසින් ඔබව Pre-approved කරනු ලැබිය හැකිය.
+Demand Drafts යනු Beneficiaryට ගෙවීම් සහතික කරන බැංකු විසින් නිකුත් කරනු ලබන Payment Instruments වන අතර, Property Purchases වැනි විශාල Transactions සඳහා Personal Checksවලට වඩා ඒවා Secure වේ.
+Interest Rates ඉහළ යන විට, Floating Rates සහිත Loansවල EMI ඒ අනුව ඉහළ යන අතර, Fixed Rates සහිත Loans මුළු Loan Tenure එක පුරාම Market Fluctuationsවලින් බලපෑමක් නොලබා පවතී.
+බැංකු විසින් Savings Accounts සඳහා Compound Interest ගණනය කරනු ලබන්නේ උපයන ලද Interest එක නියමිත කාල පරාසයන්හිදී Principal Amount එකට නැවත එකතු කිරීමෙනි, එමඟින් කාලයත් සමඟ ඔබේ මුදල් ශීඝ්‍රයෙන් Grow වීමට ඉඩ සලසයි.
+කිහිප වතාවක්ම ඇතුළත් කළ Passwords Fail වීමෙන් පසුව ඔබට ඔබේ Internet Banking Password එක අමතක වුවහොත්, ඔබ නැවත Credentials Settings හදන තෙක් Unauthorized Access වැළැක්වීම සඳහා බැංකුව විසින් ඔබේ Account එක තාවකාලිකව Lock කරනු ඇත.
+Home Mortgage Loans සඳහා ඔබ Property Insurance එකක් ලබා ගැනීම සහ ඇපකර Asset එකට සිදුවිය හැකි හානියක් හෝ අලාභයක් සඳහා ආරක්ෂාවක් ලෙස එම Insurance Policy Documents බැංකුවට ඉදිරිපත් කිරීම අවශ්‍ය වේ.
+වියදම් පියවා ගැනීම සඳහා ඔබේ Account Balance එක නිශ්චිත සීමාවකට වඩා අඩු වූ විට, ඔබේ Fixed Deposit එකෙන් මුදල් ස්වයංක්‍රීයව Savings Account එකට Transfer කරන Auto-sweep Facilities බැංකු විසින් පිරිනමනු ලබයි.
+Educational Loan එකක් සඳහා Apply කරන විට, ප්‍රධාන Borrower වගකීම් පැහැර හැරියහොත් Loan එක පියවීම සඳහා සමානව වගකියනු ලබන Co-borrower කෙනෙකු හෝ Guarantor කෙනෙකු බැංකුව විසින් ඉල්ලා සිටිය හැකිය.
+Contactless Debit සහ Credit Cards සඳහා NFC Technology භාවිතා කරන අතර, එමඟින් PIN Number එකක් ඇතුළත් නොකර Terminal එක මත Card එක Tap කිරීමෙන් පමණක් සුළු වටිනාකමකින් යුත් Payments කිරීමට ඔබට ඉඩ සලසයි.
+ඔබට විදේශීය Currency එකකින් Check එකක් ලැබුණහොත්, ඔබේ බැංකුව පවතින Exchange Rate එක භාවිතා කරමින් එය Local Currency බවට Convert කරන අතර, එය Process කිරීම සඳහා Collection Fees අය කරනු ලැබිය හැකිය.
+Housing Loans සඳහා ගෙවන ලද Interest එක වෙනුවෙන් බැංකු විසින් Tax Deduction Certificates ලබා දෙන අතර, Tax Returns File කිරීමේදී අදාළ Income Tax ප්‍රතිපාදන යටතේ Reliefs ලබා ගැනීමට ඔබට ඒවා භාවිතා කළ හැකිය.
+බැංකු විසින් පිරිනමනු ලබන Loyalty Programs මඟින් දිගුකාලීන Customersලාට Loan Processing Fees අඩු කිරීම, Deposits සඳහා ඉහළ Interest Rates සහ Annual Credit Card Fees Waive කිරීම වැනි Benefits පිරිනමයි.
+දැනට පවතින Debit Card එකට හානි සිදුවී ඇත්නම් හෝ එහි expiry date එක පසුවී ඇත්නම්, customers ලාට ඒ වෙනුවට නව card එකක් request කළ හැකිය.
+Account එකක contact details update කිරීමට පෙර banks සාමාන්‍යයෙන් customer ගේ identity එක verify කරනු ලබයි.
+Monthly maintenance fees මඟහරවා ගැනීම සඳහා savings account එකක minimum balance එකක් පවත්වාගෙන යාම අවශ්‍ය විය හැකිය.
+Branch staff එක බොහෝ විට අලුතින් issue කරන ලද ATM cards activate කිරීමට customers ලාට support වෙති.
+සමහර banks අරමුදල් fund transfers සිදුකරනු ලබන්නේ working days වල business hours තුළ පමණි.
+Scheduled maintenance සිදුවන කාලසීමාවන් තුළදී online banking services තාවකාලිකව disable විය හැකිය.
+Customers ලාට teller counter එකක් වෙත නොගොස් Cash Deposit Machine මඟින් cash deposit කළ හැකිය.
+Banks සාමාන්‍යයෙන් monthly account statements, email හෝ mobile banking apps හරහා එවනු ලබයි.
+Joint account එකක් මඟින් පුද්ගලයන් එක් අයෙකුට වඩා වැඩි ගණනකට එකම account එකක් use කිරීමට සහ manage කිරීමට ඉඩ සලසයි.
+Financial institutions විසින් ඇතැම් savings accounts වලින් මසකට සිදුකළ හැකි withdrawals ගණන limit කරනු ලැබිය හැකිය.
+Cheque books සාමාන්‍යයෙන් issue කරනු ලබන්නේ account එකක් සාර්ථකව open කර එය verify කිරීමෙන් පසුවය.
+Internet banking වල suspicious logins detector වූ විට banks බොහෝ විට ඒ පිළිබඳව customers ලාව inform කරයි.
+Customer convenience එක සඳහා සමහර bank branches, weekends වලදී extended hours සපයයි.
+Fixed deposits සඳහා වන interest rates තෝරාගත් deposit period එක අනුව වෙනස් විය හැකිය.
+Account compliance එක පවත්වා ගැනීම සඳහා customers ලාට වරින් වර ඔවුන්ගේ KYC documents update කිරීමට සිදුවිය හැකිය.
+Mobile banking apps සාමාන්‍යයෙන් account balance check කිරීම්, bill payments සහ fund transfers සඳහා පහසුකම් සපයයි.
+වැරදි PIN number එකක් ඇතුළත් කිරීමට කිහිප වතාවක් try කළහොත් bank එකට card එක තාවකාලිකව block කළ හැකිය.
+Transaction එක සාර්ථකව complete වූ පසු loan installments සාමාන්‍යයෙන් automatically record වේ.
+Account holders ලාට deposits, withdrawals සහ card transactions සඳහා SMS alerts ලැබිය හැකිය.
+Service quality එක සහ transactions වල efficiency එක ඉහළ නැංවීම සඳහා banks බොහෝ විට ඔවුන්ගේ internal operations review කරයි.
+පාරිභෝගිකයන්ට online banking systems හරහා automatic bill payments schedule කළ හැකිය.
+සාර්ථකව සිදු කරන ලද digital money transfers සඳහා බැංකු සාමාන්‍යයෙන් transaction reference numbers නිකුත් කරයි.
+Current account එකක් මඟින් සාමාන්‍ය savings account එකකට වඩා ඉහළ transaction limits ලබා දිය හැකිය.
+Counter එකෙන් සිදු කරන ඇතැම් requests process කිරීමේදී financial institutions බොහෝ විට signatures අවශ්‍ය කරයි.
+Customers ලාට තමන් register කර ඇති mobile numbers හෝ email addresses භාවිතයෙන් ඔවුන්ගේ online banking passwords reset කළ හැකිය.
+Unusual activity patterns හඳුනාගතහොත් බැංකුවලට online transactions තාවකාලිකව suspend කළ හැකිය.
+ATM cash withdrawal limits සාමාන්‍යයෙන් සකස් කර ඇත්තේ account type එක සහ bank policy එකට අනුකූලවය.
+ඇතැම් බැංකු මඟින් customers ලාට නිශ්චිත dates සඳහා account statements request කිරීමට අවස්ථාව ලබා දෙයි.
+Foreign currency exchange services සාමාන්‍යයෙන් selected bank branches වලින් ලබාගත හැකිය.
+International money transfers සඳහා බැංකු විසින් service charges අය කරනු ලැබිය හැකිය.
+Failed transactions පිළිබඳ complaints solve කිරීම සඳහා customer support teams බොහෝ විට users ලාට උපකාර කරයි.
+Peak hours වලදී ඇතැම් bank services ලබාගැනීමට පෙර booking එකක් දමා ගැනීම අවශ්‍ය වේ.
+Financial institutions නව security features හඳුන්වා දීම සඳහා mobile banking apps update කරනු ලැබිය හැකිය.
+පහසු management එකක් සඳහා customers ලාට තනි online banking profile එකකට accounts කිහිපයක් link කළ හැකිය.
+Operations වල අනුකූලතාවය සහ service reliability එක සහතික කිරීම සඳහා බැංකු සාමාන්‍යයෙන් regular audits සිදු කරයි.
+Inter-bank verification අවසන් වන තෙක් ඇතැම් transactions pending status වල පැවතිය හැකිය.
+සාර්ථක cash හෝ cheque deposits වලින් පසුව සාමාන්‍යයෙන් deposit receipts වහාම ලබා දෙනු ලැබේ.
+Technical breakdowns පවතින අවස්ථාවලදී continuous පැවැත්ම සහතික කිරීම සඳහා බැංකු බොහෝ විට backup systems පවත්වාගෙන යයි.
+Account balance එක කලින් define කළ limit එකකට වඩා අඩු වූ විට customers ලාට ඒ පිළිබඳ notifications ලැබිය හැකිය.
+Operations monitor කිරීමේ කටයුතු සඳහා financial institutions සාමාන්‍යයෙන් customer service requests පිළිබඳ records පවත්වාගෙන යයි.
+Internal compliance department එක මඟින් අතිරේක verification procedures අවසන් කරන තෙක්, අසාමාන්‍ය ලෙස විශාල transactions process කිරීම බැංකු විසින් තාවකාලිකව delay කරනු ලැබිය හැකිය.
+තම residential address එක වෙනස් කරන customers ලා, බැංකුව විසින් account records සංශෝධනය කිරීමට පෙර updated identity documents සැපයීම සාමාන්‍යයෙන් compulsory වේ.
+Customers ලාට සිදුවන service disruptions අවම කිරීම සඳහා financial institutions බොහෝ විට මධ්‍යම රාත්‍රී කාලයේදී ඔවුන්ගේ digital banking systems වල regular maintenance කටයුතු සිදු කරයි.
+Online banking access තාවකාලිකව ලබාගත නොහැකි හෝ limit වී ඇති අවස්ථාවකදී, customer කෙනෙකුට bank branch එකකින් printed transaction history එකක් request කළ හැකිය.
+Recurring loan installment payments නියමිත දිනට ළඟා වන විට, බැංකු සාමාන්‍යයෙන් customers ලා වෙත automatic reminders යවනු ලබයි.
+International funds transfers වැනි ඇතැම් bank services සඳහා, destination country එක සහ transfer amount එක මත පදනම්ව අතිරේක approval steps අවශ්‍ය විය හැකිය.
+System traffic එක අධික හෝ network instability පවතින කාල සීමාවන්හිදී, mobile banking apps භාවිත කරන customers ලාට තාවකාලික transaction delays අත්විඳීමට සිදුවිය හැකිය.
+විවිධ languages සහ regional backgrounds වලින් පැමිණෙන clients ලාට support වීම සඳහා financial institutions බොහෝ විට multilingual customer support සේවාවන් සපයයි.
+Mandatory customer verification procedures නියමිත කාල සීමාව තුළ අවසන් කර නොමැති නම් බැංකු විසින් ඇතැම් account activities restrict කරනු ලැබිය හැකිය.
+Account-related service requests process කිරීමට පෙර, ඉදිරිපත් කරන ලද documents වල authenticity එක verify කිරීමේ වගකීම සාමාන්‍යයෙන් branch staff එක සතු වේ.
+Personal preference එක මත පදනම්ව SMS, email හෝ mobile app messages හරහා alerts ලබාගැනීම සඳහා customers ලාට සාමාන්‍යයෙන් account notification settings adjust කරගත හැකිය.
+ඇතැම් බැංකු online payments සඳහා automatic ලෙස digital receipts generate කරන අතර, අනාගත reference එක සඳහා ඒවා customer ගේ transaction history එක තුළ store කරයි.
+Service inefficiencies හඳුනා ගැනීමට සහ branches පුරා transaction processing performance එක ඉහළ නැංවීම සඳහා financial institutions විසින් internal operational reviews පවත්වනු ලැබිය හැකිය.
+Peak hours වලදී branch එකකට පැමිණෙන customers ලාට, counters සහ support services සඳහා පවතින ඉහළ demand එක හේතුවෙන් දිගු වේලාවක් wait කිරීමට සිදුවිය හැකිය.
+Technical breakdowns හෝ data loss සිදුවීම්වලදී operations recovery එක සහතික කිරීම සඳහා බැංකු සාමාන්‍යයෙන් transaction records වල secure backup copies පවත්වාගෙන යයි.
+ඉහළ cash withdrawal limits හෝ international transaction access ඇතුළු ඇතැම් account features ලබාගත හැක්කේ අතිරේක customer verification procedures වලින් පසුව පමණි.
+Unauthorized account access වල risk එක අඩු කිරීම සඳහා නිතිපතා passwords සහ security settings update කිරීමට financial institutions බොහෝ විට customers ලා දිරිමත් කරයි.
+Unfamiliar devices හෝ locations වලින් නැවත නැවතත් failed login attempts බැංකු systems මඟින් detect කළ විට, customers ලාට තාවකාලික transaction restrictions පැනවිය හැකිය.
+Updated financial regulations සහ evolving security requirements වලට අනුකූල වීම සඳහා බැංකු සමහර විට operational policies සහ service procedures revise කරයි.
+Account එකක් close කිරීමට request කරන customer කෙනෙකුට, බැංකුව විසින් account closure process එක complete කිරීමට පෙර verification සහ settlement procedures කිහිපයක් සම්පූර්ණ කිරීමට අවශ්‍ය විය හැකිය.
+ඉදිරිපත් කරන ලද account information සහ පද්ධතිය තුළ පවත්වාගෙන යනු ලබන පවතින identity records අතර discrepancies හඳුනාගත් විට බැංකු විසින් customers ලාව සෘජුවම contact කර ගනු ලැබිය හැකිය.
+නිතර travel කරන customers ලාට, ඔවුන් පිටත්ව යාමට පෙර තමන්ගේ payment cards සඳහා foreign transactions support එක තාවකාලිකව activate කරන ලෙස request කළ හැකිය.
+විවිධ regions පුරා බාධාවකින් තොරව cash withdrawal services සහතික කිරීම සහ technical breakdowns හඳුනා ගැනීම සඳහා financial institutions බොහෝ විට ATM networks continuous ලෙස monitor කරයි.
+Security purposes සඳහා, අලුතින් register කරන ලද device එකකින් online banking වලට access වීමට උත්සාහ කරන customer කෙනෙකුට අතිරේක identity verification steps complete කිරීමට අවශ්‍ය විය හැකිය.
+බැංකු සාමාන්‍යයෙන් cheque clearance කටයුතු සිදු කරනු ලබන්නේ inter-bank settlement schedules වලට අනුකූලව වන අතර, weekends සහ public holidays අනුව ඒවා වෙනස් විය හැකිය.
+Support agents ලා විසින් sensitive banking services සැපයීමට පෙර, customers ලාගෙන් තමන්ගේ personal account details verbally හෝ digitally verify කරන ලෙස ඉල්ලා සිටිය හැකිය.
+Branches, call centers සහ digital banking systems පුරා operational consistency එක ඉහළ නැංවීම සඳහා financial institutions සාමාන්‍යයෙන් internal service guidelines update කරයි.
+Peak hours වලදී customer service requests වඩාත් efficient ලෙස organize කිරීම සඳහා ඇතැම් බැංකු විසින් branches තුළ queue management systems සපයනු ලබයි.
+Customers ලාට සාමාන්‍යයෙන් bank branch එකකට personally පැමිණීමට අවශ්‍යතාවයකින් තොරව, mobile banking apps හරහා misplaced හෝ stolen payment cards පිළිබඳව report කළ හැකිය.
+Standard verification සහ monitoring procedures සම්පූර්ණයෙන්ම අවසන් වන තෙක් බැංකු විසින් අලුතින් activate කරන ලද accounts වල transaction limits තාවකාලිකව reduce කරනු ලැබිය හැකිය.
+Customer complaints, transaction disputes සහ operational issues investigate කිරීම සම්බන්ධයෙන් කටයුතු කිරීම සඳහා financial institutions බොහෝ විට වෙනම departments පවත්වාගෙන යයි.
+Self-service banking booths භාවිත කරන customers ලාට, complex service requests හෝ documents submit කිරීම් process කිරීමේදී තවමත් branch staff එකේ support එක අවශ්‍ය විය හැකිය.
+Regulatory compliance සහ audit requirements වලට අනුකූලව බැංකු සාමාන්‍යයෙන් transaction සහ operational records දිගු කාල සීමාවන් සඳහා archive කර තබයි.
+Account management සහ reporting tasks improve කිරීම සඳහා ඇතැම් bank systems මඟින් transactions ස්වයංක්‍රීයව විවිධ spending හෝ operational categories වලට categorize කරනු ලබයි.
+Customers ලාගේ normal transaction behavior එකෙන් බැහැර වූ unusual account activity හඳුනාගත් විට, ඒවා confirm කරන ලෙස ඉල්ලා customers ලා වෙත notifications ලැබිය හැකිය.
+Performance, reliability සහ operational security එක ඉහළ නැංවීම සඳහා financial institutions නිතරම ATMs සහ online banking systems වල software updates සිදු කරයි.
+Account ownership, nominee details හෝ linked service configurations වලට අදාළ වෙනස්කම් approve කිරීමට පෙර බැංකු විසින් supporting documents ඉල්ලා සිටිය හැකිය.
+Unauthorized activities හෝ unexpected bank charges ඉක්මනින් හඳුනා ගැනීම සඳහා නිතිපතා transaction history එක review කිරීමට customers ලා දිරිමත් කරනු ලැබේ.
+Network breakdowns හෝ infrastructure maintenance කටයුතු ඇතුළු unexpected operational situations වලදී financial institutions විසින් selected services තාවකාලිකව suspend කරනු ලැබිය හැකිය.
+Service performance indicators monitor කිරීම සහ customer operations වල overall efficiency එක ඉහළ නැංවීම සඳහා බැංකු සාමාන්‍යයෙන් automated monitoring mechanisms ක්‍රියාත්මක කරයි.
+Bank Overdraft පහසුකම් මඟින් Account Holders ලාට තම ගිණුමේ ඇති Balance එකට වඩා වැඩි මුදලක් අනුමත සීමාවක් දක්වා ලබා ගැනීමට අවස්ථාව සලසා දෙයි.
+ගිණුම් වාර්තා කාලසීමාව පුරා Minimum Balance අවශ්‍යතාවන් සපුරා ඇත්නම් මාසික Account Maintenance Fees නිදහස් කළ හැකිය.
+Direct Debit නියෝග මඟින් නියමිත දිනවලදී වාරික බිල්පත් ගෙවීම සඳහා ඔබේ ගිණුමෙන් ස්වයංක්‍රීයවම මුදල් Transfer කරනු ලබයි.
+Standing Orders මඟින් කිසිදු අතින් සිදුකරන මැදිහත්වීමකින් තොරව, එකම Beneficiary වෙත නිත්‍ය ස්ථාවර ගෙවීම් යැවීමට ඉඩ සලසයි.
+Online Banking පද්ධති මඟින් Transaction History එක සහ Account Statements වෙත Real-time Access ලබා දෙයි.
+Credit Card මිලදී ගැනීම් මෙන් නොව, Debit Card ගනුදෙනු සෘජුවම සම්බන්ධිත ගිණුමෙන් වහාම Debit කරනු ලැබේ.
+අදාළ බැංකු ජාලයට අයත් නොවන ATM යන්ත්‍රවලින් මුදල් ලබා ගැනීමේදී සාමාන්‍යයෙන් අමතර Service Charges අය කෙරේ.
+Joint Accounts වල ඇතැම් බැංකු කටයුතු සඳහා නම් කර ඇති සියලුම හිමියන්ගේ කැමැත්ත ලබා දීම අවශ්‍ය වේ.
+දිගු කාලයක් තිස්සේ කිසිදු ක්‍රියාකාරකමක් නොපෙන්වන Dormant Accounts නැවත Activate කිරීමේ ක්‍රියා පටිපාටිවලට යටත් විය හැකිය.
+Savings තැන්පතු සඳහා Interest එක සාමාන්‍යයෙන් දිනපතා ගණනය කරනු ලබන අතර මාසිකව හෝ කාර්තුවකට වරක් ගිණුමට Credit කරනු ලැබේ.
+Cheque Clearing සඳහා සාමාන්‍යයෙන් මුදල් ලබා ගැනීමට පෙර Working Days කිහිපයක් ගත වේ.
+සැක සහිත හෝ අසාමාන්‍ය ගනුදෙනු රටාවන් අනාවරණය වුවහොත් බැංකු විසින් ගිණුම් තාවකාලිකව Freeze කිරීමට ඉඩ ඇත.
+Mobile Banking Apps මඟින් පාරිභෝගිකයින්ට ක්ෂණිකව Balances පරීක්ෂා කිරීමට සහ තමන්ගේම ගිණුම් අතර මුදල් Transfer කිරීමට ඉඩ සලසයි.
+Nominees ලා ලියාපදිංචි කිරීම මඟින් ගිණුම් හිමියාගේ අභාවයකදී නම් කරන ලද පුද්ගලයන්ට ගිණුමේ මුදල් ලබා ගැනීමට හැකි බව සහතික කරයි.
+SMS හෝ විද්‍යුත් තැපෑල හරහා ලැබෙන Transaction Alerts ගිණුම් හිමියන්ට සියලුම Credits සහ Debits තත්කාලීනව නිරීක්ෂණය කිරීමට උපකාරී වේ.
+බැංකු ශාඛාවට හෝ ස්වයංක්‍රීය Passbook Printer වෙත ඉදිරිපත් කළ විට Passbook Updates මඟින් සියලුම ගනුදෙනු නිරූපණය කෙරේ.
+මාසය අවසානයේදී ගිණුම් ශේෂය නියමිත සීමාවට වඩා අඩු වුවහොත් Minimum Balance Penalty අදාළ වේ.
+NEFT සහ RTGS යනු සැකසුම් වේගය සහ ගනුදෙනු වටිනාකම් සීමාවන්ගෙන් එකිනෙකට වෙනස් වන Electronic Fund Transfer පද්ධතීන් වේ.
+පුද්ගලික වාර්තා තබා ගැනීම සඳහා PDF සහ Excel ඇතුළු විවිධ ආකෘතිවලින් Account Statements Download කළ හැකිය.
+Safe Deposit Lockers මඟින් බැංකු ශාඛාවල වටිනා භාණ්ඩ සහ වැදගත් ලේඛන සඳහා ආරක්ෂිත ගබඩා පහසුකම් සපයයි.
+Sweep-in පහසුකම් මඟින් වඩා හොඳ පොලී ආදායමක් ලබා ගැනීම සඳහා Current Accounts වල ඇති අතිරික්ත මුදල් Fixed Deposits වෙත ස්වයංක්‍රීයවම Transfer කරනු ලබයි.
+ඕනෑම ගිණුම් කටයුත්තකට අවසර දීමට පෙර බැංකු විසින් KYC Documents මඟින් පාරිභෝගික අනන්‍යතාවය තහවුරු කරනු ලබයි.
+Stop Payment උපදෙස් මඟින්, Clearing එකට පෙර දැනුම් දුන්නහොත්, නිශ්චිත Cheques සඳහා මුදල් ගෙවීම වළක්වනු ලබයි.
+Account Aggregation සේවා මඟින් බැංකු කිහිපයක ඇති මූල්‍ය තොරතුරු තනි Dashboard එකක් වෙත එක්රැස් කර පෙන්වයි.
+Third Parties ලාට මුදල් ලබා ගැනීමට පෙර, පූර්ව අනුමත Debits සඳහා ගිණුම් හිමියන්ගෙන් ලිඛිත කැමැත්ත අවශ්‍ය වේ.
+Instant Payment Options මඟින් බැංකු නොවන වේලාවන්හිදී සහ නිවාඩු දිනවලදී පවා පැය විසිහතර පුරාම මුදල් Transfer කිරීමට ඉඩ සලසයි.
+Auto-debit සැකසුම් මඟින් නියමිත දිනවලදී EMI මුදල් ස්වයංක්‍රීයවම Transfer කිරීම මඟින් ණය ප්‍රතිපූරණය පහසු කරයි.
+Cash Deposit Machines මඟින් සාමාන්‍ය බැංකු වේලාවන්ගෙන් බාහිරව, ගිණුමට වහාම Credit වීම සඳහා නෝට්ටු සහ කාසි භාරගනු ලබයි.
+Phone Banking සහ අන්තර්ජාල ද්වාර ඇතුළු බහුවිධ මාධ්‍යයන් හරහා Balance Inquiry සේවාවන් ලබා ගත හැකිය.
+Relationship Managers ලා විසින් ඉහළ ගිණුම් ශේෂයන් පවත්වාගෙන යන පාරිභෝගිකයින් සඳහා පුද්ගලීකරණය කළ බැංකු සහාය සපයයි.
+Account Upgrade විකල්ප මඟින් පාරිභෝගිකයින්ට මූලික ගිණුම්වල සිට ඉහළ පහසුකම් සහිත Premium Account Types වෙත මාරු වීමට ඉඩ සලසයි.
+Beneficiary Management පද්ධති මඟින් ඉක්මන් සහ පහසු හුවමාරු සඳහා නිතර භාවිතා කරන මුදල් ලබන්නන්ගේ විස්තර ගබඩා කර තබා ගනී.
+Transaction Limits ගිණුම් වර්ගය මත පදනම්ව වෙනස් වන අතර පාරිභෝගික අවශ්‍යතා අනුව ඒවා වෙනස් කරගත හැකිය.
+ගිණුම් හිමියන් සඳහා Cheque Book Requests වැඩ කරන දින කිහිපයක් ඇතුළත සකසනු ලැබේ.
+මුදල් හුවමාරු Reversals කළ හැක්කේ නිශ්චිත කාල රාමුවක් තුළ සහ මුදල් ලබන්නාගේ බැංකුවේ සහයෝගීතාවයට යටත්ව පමණි.
+Multi-currency Accounts මඟින් මුදල් පරිවර්තන ගාස්තු නොමැතිව විදේශීය ව්‍යවහාර මුදල් රඳවා තබා ගැනීමට සහ ගනුදෙනු කිරීමට පහසුකම් සලසයි.
+Account Closure ක්‍රියා පටිපාටි සඳහා ගෙවීමට ඇති සියලුම හිඟ මුදල් පියවීම සහ භාවිත නොකළ Cheque Leaves ආපසු භාරදීම අවශ්‍ය වේ.
+Digital Tokens හෝ අනන්‍යතා තහවුරු කරන්නන් මඟින් Online Transactions Auth කිරීම සඳහා අමතර ආරක්ෂිත ස්ථර සපයයි.
+Scheduled Transfers මඟින් පාරිභෝගිකයින්ට ස්වයංක්‍රීයව ක්‍රියාත්මක වන අනාගත දින වකවානු සහිත ගෙවීම් සැකසීමට ඉඩ සලසයි.
+Branch Locator Tools මඟින් පාරිභෝගිකයින්ට නිශ්චිත සේවා හැකියාවන් සහිත අසල ඇති ATMs සහ බැංකු මධ්‍යස්ථාන සොයා ගැනීමට උපකාරී වේ.
+Savings Account එකක් මඟින් සාමාන්‍යයෙන් තැන්පත් කළ මුදල් ලබා ගැනීමට අඛණ්ඩව ඉඩ සලසන අතරම Interest ආදායමක්ද උපයා දෙයි.
+Digital Banking සේවාවන් වෙත ප්‍රවේශ වීමට අවසර දීමට පෙර බැංකු විසින් බොහෝ විට පාරිභෝගික අනන්‍යතාවය තහවුරු කරනු ලබයි.
+Fixed Deposit එකක් මඟින් සාමාන්‍යයෙන් එකඟ වූ Maturity කාලසීමාව අවසන් වන තෙක් මුදල් ලබා ගැනීම් සීමා කරයි.
+Debit Cards පොදුවේ පාරිභෝගිකයෙකුගේ ගිණුමේ ඇති Balance එක සමඟ සෘජුවම සම්බන්ධ කර ඇත.
+Online Banking පද්ධති මඟින් ගිණුම් හිමියන්ට බැංකු ශාඛාවකට නොපැමිණ ගිණුම් කටයුතු සමාලෝචනය කිරීමට ඉඩ සලසයි.
+අසාමාන්‍ය ගිණුම් ක්‍රියාකාරකමක් අනාවරණය වූ විට සමහර banks ස්වයංක්‍රීයවම customers ව දැනුවත් කරයි.
+ගිණුම් සැකසුම් මත පදනම්ව, Joint Accounts එකකට වඩා වැඩි බලයලත් ගිණුම් හිමියන් පිරිසකට හැසිරවිය හැකිය.
+monitoring වලදී safety problems හඳුනාගතහොත් බැංකුවක් විසින් තාවකාලිකව account access limit කිරීමට ඉඩ ඇත.
+බැංකු වාර්තා නිවැරදිව තබා ගැනීම සඳහා පාරිභෝගිකයින් සාමාන්‍යයෙන් තමන්ගේ පුද්ගලික තොරතුරු Update කිරීම අවශ්‍ය වේ.
+තැන්පතු ගිණුම් සඳහා වන Interest Rates ගිණුම් වර්ගය සහ බැංකු ප්‍රතිපත්ති මත පදනම්ව වෙනස් විය හැකිය.
+Mobile Banking Apps මඟින් බොහෝ විට Account Statements සහ සේවා ඉල්ලීම් වෙත ඉක්මන් ප්‍රවේශයක් ලබා දෙයි.
+දැනට පවතින card එකක් විනාශ වූ විට හෝ එහි valid time අවසන් වූ විට බැංකු සාමාන්‍යයෙන් අලුත් card නිකුත් කරයි.
+බැංකුව සමඟ දිගුකාලීන සබඳතා පවත්වගෙන යන customer ලා සඳහා ඇතැම් ගිණුම් මඟින් අමතර banking features සපයයි.
+තෝරාගත් දිනවලදී නැවත නැවත සිදුවන බැංකු කටයුතු ස්වයංක්‍රීය කිරීම සඳහා Standing Instructions සකස් කරගත හැකිය.
+මූල්‍ය ආයතන සාමාන්‍යයෙන් Account අයිතිය සහ Account වලට අදාළ බලය පැවරීම් පිළිබඳ records පවත්වාගෙන යයි.
+sensitive accounts වෙනස් කිරීම් අනුමත කිරීමට පෙර ඇතැම් බැංකු සේවාවන් සඳහා අමතර අනන්‍යතා verify කිරීමේ steps අවශ්‍ය වේ.
+සාමාන්‍ය බැංකු ප්‍රවේශය නැවත ලබා ගැනීමට පෙර Dormant Account එකකට නැවත Activation ක්‍රියා පටිපාටි අවශ්‍ය විය හැකිය.
+පාරිභෝගිකයින්ට සාමාන්‍යයෙන් ශාඛා, ATMs, ජංගම යෙදුම් සහ අන්තර්ජාල ද්වාර හරහා බැංකු සේවාවන් ලබා ගත හැකිය.
+banks ඔවුන්ගේ අභ්‍යන්තර අනුකූලතා සහ disaster managment ක්‍රියාවලීන්හි කොටසක් ලෙස බොහෝ විට ගිණුම් behavior patterns study කරයි.
+අනවසර ක්‍රියාකාරකම් හෝ දෝෂ හඳුනා ගැනීම සඳහා ගිණුම් හිමියන්ට තම Account Statements නිතිපතා සමාලෝචනය කිරීමට දිරිගන්වනු ලැබේ.
+බැංකු communication කටයුතු සඳහා account holders තමන්ගේ update කළ communication details පවත්වාගෙන යාම සාමාන්‍යයෙන් අපේක්ෂා කරයි.
+ඇතැම් බැංකු system තුළ ගිණුම් කටයුතුවල මුද්‍රිත history එකක් තබා ගැනීම සඳහා passbook එකක් භාවිත කළ හැකිය.
+සමහර financial institutions සිසුන්, senior citizens හෝ ව්‍යාපාරිකයන් සඳහා විශේෂයෙන් සකස් කරන ලද accounts පිරිනමයි.
+සැලසුම්ගත බැංකු system maintenance කාල සීමාවන් තුළදී ATM පහසුකම් තාවකාලිකව down විය හැකිය.
+Security risks අවම කර ගැනීම සඳහා තමන්ගේ බැංකු login රහස්‍ය තොරතුරු confidentialව තබා ගන්නා ලෙස සාමාන්‍යයෙන් customersලට උපදෙස් දෙනු ලැබේ.
+Customer කෙනෙක් නව device එකකින් සේවාවන් වෙත access වීමට උත්සාහ කරන විට බැංකු විසින් අතිරේක verification ඉල්ලා සිටිය හැකිය.
+ඇතැම් බැංකු පහසුකම් ලබාගත හැක්කේ ගිණුම activate කිරීමේ process එක සම්පූර්ණ කිරීමෙන් පසුව පමණි.
+අභ්‍යන්තර operational policiesවලට අනුකූල වීම සහතික කිරීම සඳහා financial institutions බොහෝ විට ගිණුම් භාවිතය monitor කරයි.
+Customer කෙනෙකුට මුද්‍රිත තැපැල් සේවා වෙනුවට විද්‍යුත් ක්‍රමයට account statements ලබා ගැනීමට තෝරා ගත හැකිය.
+විවිධ communication preferences සහිත customersලට සහාය වීම සඳහා බැංකු පොදුවේ multilingual support සේවා සපයයි.
+සමහර ගිණුම්වල identity එක verify කර අවසන් වනතුරු නිශ්චිත බැංකු features සඳහා සීමාවන් ඇතුළත් වේ.
+Online banking සේවා මඟින් සාමාන්‍යයෙන් usersලට එකම account profile එකකින් ගිණුම් කිහිපයක් manage කිරීමට ඉඩ සලසයි.
+Financial service providers භාවිතයේ පහසුව සහ security එක වැඩි දියුණු කිරීම සඳහා ඔවුන්ගේ digital platforms නිතරම update කරයි.
+Customerගේ අපේක්ෂිත මූල්‍ය කටයුතු මත පදනම්ව බැංකු විසින් ගිණුම් විවිධ ආකාරයෙන් categorize කළ හැකිය.
+Account holderගේ role එක සහ permission ඇති මට්ටම අනුව account access අවසරයන් වෙනස් විය හැකිය.
+ඇතැම් බැංකු products සැලසුම් කර ඇත්තේ customersලා අතර දිගුකාලීන ඉතිරිකිරීමේ පුරුදු දිරිමත් කිරීම සඳහා ය.
+Customer service teams බොහෝ විට සේවාවන්ට අදාළ විමසීම් සහ ගිණුම් guidance සම්බන්ධයෙන් account holdersලට සහාය වෙති.
+නැතිවූ cards හෝ අවදානමට ලක්වූ ගිණුම් login තොරතුරු හැසිරවීම සඳහා බැංකු සාමාන්‍යයෙන් operating procedures පවත්වාගෙන යයි.
+සම්මත operations හෝ maintenance කාලසීමාවන්ගෙන් බැහැරව ඇතැම් බැංකු සේවාවන් ලබාගත නොහැකි විය හැකිය.
+Customersලට බැංකු සේවාවන් පිළිබඳව වඩා හොඳ අවබෝධයක් ලබා ගැනීමට උපකාර කිරීම සඳහා financial institutions බොහෝ විට අධ්‍යාපනික resources සපයයි.
+Digital banking platforms අඛණ්ඩව භාවිත කිරීමට ප්‍රථම, customersලා විසින් update කරන ලද terms and conditions පිළිගැනීම බැංකු විසින් බොහෝ විට අපේක්ෂා කරනු ලබයි.
+ඇතැම් account types සැලසුම් කර ඇත්තේ දෛනික බැංකු කටයුතු වඩාත් efficientව සිදු කිරීමට සහාය වීම සඳහා ය.
+සේවා සුදුසුකම් සහ account preferences කළමනාකරණය කිරීම සඳහා financial institutions සාමාන්‍යයෙන් customer profiles පවත්වාගෙන යයි.
+Security හේතූන් මත, සමහර බැංකු systems මඟින් usersලා inactiveව වැඩි වේලාවක් සිටින විට ස්වයංක්‍රීයවම session එකෙන් logout කරනු ලබයි.
+Online සේවා හරහා වැදගත් account වෙනස්කම් සිදු කරන විට customersලා වෙත ඒ පිළිබඳ notifications ලැබිය හැකිය.
+Digital ක්‍රමයට සම්පූර්ණ කළ නොහැකි account maintenance requests සඳහා බැංකු branch එකක් මඟින් සහාය ලබාගත හැකිය.
+Operational reliability සහ compliance එක පවත්වා ගැනීම සඳහා financial institutions පොදුවේ නිත්‍ය system audits සිදු කරයි.
+Service updates පිළිබඳව දැනුවත් වීම සඳහා බැංකු notifications review කිරීමට account holders සාමාන්‍යයෙන් දිරිමත් කරනු ලැබේ.
+සැකකටයුතු account behavior පිළිබඳව පරීක්ෂණ පවත්වන අතරතුර බැංකු විසින් ඇතැම් features තාවකාලිකව suspend කිරීමට ඉඩ ඇත.
+ඉල්ලා සිටින බැංකු සේවාවේ සංවේදීතාවය අනුව customer identity verification ක්‍රමවේදයන් වෙනස් විය හැකිය.
+Customerගේ account history එක මත පදනම්ව සමහර බැංකු products සඳහා අතිරේක benefits ඇතුළත් වේ.
+Financial institutions සාමාන්‍යයෙන් personal සහ business banking customersලා සඳහා වෙන වෙනම support services පවත්වාගෙන යයි.
+ඇතැම් digital banking functions සඳහා access ලබා දීමට පෙර customersලා trusted devices register කිරීම අවශ්‍ය විය හැකිය.
+අනාගත verification සහ regulatory requirementsවලට සහාය වීම සඳහා බැංකු පොදුවේ account records සුරක්ෂිතව document කරයි.
+Restrict කරන ලද බැංකු access නැවත activate කිරීමට පෙර customer කෙනෙකුට identity verification procedures සම්පූර්ණ කිරීමට සිදු විය හැකිය.
+දිනෙන් දින වෙනස් වන security threatsවලට මුහුණ දීම සඳහා financial institutions බොහෝ විට fraud detection rules update කරයි.
+Account statements මඟින් customersලට account behavior monitor කිරීමට සහ බලාපොරොත්තු නොවූ ගිණුම් කටයුතු හඳුනා ගැනීමට උපකාරී වේ.
+විවිධ වර්ගයේ account events සඳහා notification settings තමන්ට රිසි පරිදි customize කර ගැනීමට සමහර බැංකු customersලට ඉඩ සලසයි.
+බැංකු systems සාමාන්‍යයෙන් සැලසුම් කර ඇත්තේ customer convenience සහ operational security controls සමබර වන අයුරිනි.
+Customersලට online banking සේවාවන් secureව භාවිත කිරීමට උපකාර කිරීම සඳහා financial institutions අධ්‍යාපනික guidelines ලබා දිය හැකිය.
+බැංකු විසින් accounts activate කිරීමට පෙර customer identity verification සිදු කරනු ලබයි.
+Savings accounts සාමාන්‍යයෙන් නිත්‍ය cash depositsවලට සහාය දක්වයි.
+Mobile banking සේවා මඟින් accounts වෙත ඉක්මනින් access වීමට ඉඩ සලසයි.
+සමහර accounts අන්තර්ජාලය හරහා account statements ලබාගැනීමේ සේවාවන් පිරිනමයි.
+Debit cards බැංකු accounts සමඟ සම්බන්ධ කර ඇත.
+බැංකු විසින් සැකකටයුතු accounts තාවකාලිකව suspend කිරීමට ඉඩ ඇත.
+Customersලට secure portals හරහා passwords reset කරගත හැකිය.
+බැංකු විසින් service centers හරහා customer support ලබා දෙයි.
+Joint accounts මඟින් account holders කිහිප දෙනෙකුට සහාය දක්වයි.
+Financial institutions අසාමාන්‍ය account behavior monitor කරයි.
+ATM යන්ත්‍ර මඟින් මූලික බැංකු සේවාවන් සඳහා access ලබා දෙයි.
+අවශ්‍යතාවය අනුව බැංකු විසින් replacement cards issue කරනු ලබයි.
+Online banking සේවා සඳහා secure authentication ක්‍රමවේදයන් අවශ්‍ය වේ.
+Inactive accounts සඳහා නැවත activate කිරීමේ procedures අවශ්‍ය විය හැකිය.
+සමහර සේවාවන් account verification status එක මත රඳා පවතී.
+Customersලට තමන්ගේ communication details digital ක්‍රමයට update කළ හැකිය.
+බැංකු compliance requirements සඳහා වාර්තා පවත්වාගෙන යයි.
+ඇතැම් accounts මඟින් අතිරේක බැංකු privileges ලබා දෙයි.
+Digital banking platforms සඳහා නිත්‍ය security updates ලැබෙයි.
+Financial institutions විසින් customer support services සපයයි.
+ඔබේ account balance එක බිංදුවට වඩා අඩු වූ විට overdraft protection process එක මඟින් ස්වයංක්‍රීයවම transactions check කර පියවනු ලබයි.
+Minimum daily balance එකක් පවත්වා ගැනීම මඟින් monthly maintenance fees නිදහස් කරවා ගත හැකිය.
+සාමාන්‍යයෙන් mobile check deposits වලට වඩා direct deposits වේගයෙන් process වේ.
+Joint account holdersලා ගිණුම සඳහා සමාන access එකක් සහ responsibility එකක් බෙදා ගනියි.
+ඔබේ බැංකු network එකෙන් බැහැරව සිදුකරන ATM cash withdrawals සඳහා සාමාන්‍යයෙන් අමතර charges අයවේ.
+Online bill payment සේවා මඟින් recurring payments ස්වයංක්‍රීයවම නියමිත කාලයට schedule කළ හැකිය.
+Debit card transactions, කඩදාසි checks වලට වඩා වේගයෙන් ඔබේ account එකට බැර වේ.
+Savings accounts සාමාන්‍යයෙන් ඔබ තැන්පත් කළ මුදල් සඳහා interest එකක් උපයයි.
+Wire transfers මඟින් හදිසි ගෙවීම් සඳහා එදිනම මුදල් ලබාදීම සිදුකරයි.
+Online banking systems හරහා account statements විද්‍යුත් ක්‍රමයට ලබාගත හැකිය.
+Stop payment requests මඟින් නිශ්චිත checks ඔබේ ගිණුමෙන් clear වීම වළක්වයි.
+Mobile banking apps මඟින් ඡායාරූපයක් ගැනීමෙන් checks deposit කිරීමට ඔබට අවස්ථාව ලැබේ.
+Cashier's checks බැංකුව විසින් සහතික කරනු ලබන අතර ඒවා වහාම clear වේ.
+ඔබේ balance එක නිශ්චිත සීමාවකට වඩා අඩු වූ විට account alerts මඟින් ඒ පිළිබඳව ඔබව දැනුවත් කරයි.
+Fixed deposit accounts මඟින් නිශ්චිත කාලසීමාවක් සඳහා ඔබේ මුදල් සුරක්ෂිතව රඳවා තබා ගනියි.
+නොපියවූ චෙක්පතක් තැන්පත් කළ විට, returned check fees අදාළ වේ.
+දේශීය මුදල් හුවමාරු වලට වඩා international wire transfers process වීමට වැඩි කාලයක් ගතවේ.
+Authorized signariesලාට account holder වෙනුවෙන් transactions සිදුකළ හැකිය.
+Weekend deposits සාමාන්‍යයෙන් ඊළඟ business day එකේදී process වේ.
+ATM වලට කළ නොහැකි සංකීර්ණ transactions, බැංකු branch officersලාට සිදුකළ හැකිය.
