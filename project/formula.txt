@@ -1,0 +1,46 @@
+
+privacy risk = f(identification probability × data sensitivity)
+
+Step 1: Sensitivity Weight by Entity Type
+Step 2: Identifiability Weight by Entity Count & Combination
+Step 3: Context multiplier
+
+a.identification probability
+    effective_weight(t) = w_t * ( 1 + log(distinct_count_t) × α )
+    combo_score = 1 - ∏(1 - effective_weight) 
+
+b.data sensitivity
+    Risk Score = combo_score × ContextMultiplier
+
+product operator technically assumes each entity independently contributes to identification
+which the paper acknowledges is imperfect.
+
+
+w_i : probability that entity alone successfully identifies the person.
+1 - w_i : probability that this entity alone fails to identify the person.
+∏(1 - w_i) : joint probability 
+So, adding any new entity always increases or maintains the score, never lowers it
+
+
+====================================================================
+                     my prompt
+====================================================================
+
+I'm creating a model to evaluate PII entity privacy for an input text. This considers two factors to calculate the PII entity severity (the degree it impacts on privacy) 
+
+1.context - what kind of actions (how severe the action if exposed)
+2.enitities - which type of entities are associated with (different entities matters in different degree)
+
+Total = Context + Entities
+
+When considering entities
+1. Different entity types have different base scores. (eg:- Name : 0.5, Telephone: 0.8 in a 0-1 range) 
+2. The severity increases if multiple entity types are present ( Name + Telephone > Name)
+3. The presence of multiple instances from the same entity type also increases the severity, but with a non-linear inverse log-like pattern (diminishing returns concept)
+4. Final score should be adjusted in a normalized scale
+
+When considering context
+1.different type of contexts (high risk, low risk) has different multiples
+2. It adjust the final score. (eg:- if the context is low risk, like a public information, the score calculated from entities should be reduced to give a final judge as low risk score)
+
+with a step by step definition suggest me a severity score calculating function for this

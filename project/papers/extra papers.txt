@@ -17,6 +17,8 @@ Inference risk → can hidden attributes be guessed?
 PII exposure level → how much sensitive information exists?
 
 =====================================================================================================
+https://chatgpt.com/share/6a09dc7c-9e58-83a8-84b5-d3d606ee2c71
+https://claude.ai/share/28629969-b11b-4c13-bd31-f035f3897811
 [Beyond k-Anonymity_ A Decision Theoretic Framework for Assessing]
 
 designing a risk formula
