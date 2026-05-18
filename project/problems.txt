@@ -1,8 +1,23 @@
+################################################
+##              DATA
+################################################
+
 unstructured data inputs
 eg:- phone:93282823, id:kjnjkdfN
 
 what if the entities are not PIIs (because of the context)
 eg:- colombo, kandy, galle
 
+what if symbols inserted 
+eg ( ) , ' " / - :
+
+what if acronyms, abbreviations inserted
+
+
+################################################
+##              THEORY
+################################################
+
 correlated entities handling for risk estimation formular
 (check the formula building assumptions)
+

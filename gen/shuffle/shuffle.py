@@ -7,7 +7,7 @@ from pathlib import Path
 SOURCE_DIR = Path(
 	r"C:\Users\wmdha\Documents\UoM BSc IT\Lessons\L4S7\Reserach - Group project\Code\gen data 2\docs\categories\3_low"
 )
-TARGET_FILE_NAME = "A.txt"
+TARGET_FILE_NAME = "Z.txt"
 OUTPUT_FILE = Path(__file__).resolve().parent / "shuffled.txt"
 
 
